@@ -1,4 +1,4 @@
-ID Consumidor	Gênero	Estado civil	Pets	Bairro
+ID Consumidor	GÃªnero	Estado civil	Pets	Bairro
 3	F	Casado(a)	1	Itaquera
 8	F	Casado(a)	2	Cidade tiradentes
 9	F	Casado(a)	5	Cidade tiradentes
@@ -15,8 +15,8 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 43	F	Solteiro(a)	2	Itaquera
 44	F	Solteiro(a)	1	Cidade tiradentes
 45	F	Solteiro(a)	5	Itaquera
-47	F	Casado(a)	1	São Miguel Paulista
-48	F	Casado(a)	1	São Miguel Paulista
+47	F	Casado(a)	1	SÃ£o Miguel Paulista
+48	F	Casado(a)	1	SÃ£o Miguel Paulista
 49	F	Solteiro(a)	4	Itaquera
 52	F	Solteiro(a)	3	Cidade tiradentes
 55	F	Casado(a)	3	Guaianases
@@ -25,7 +25,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 60	F	Solteiro(a)	3	Cidade tiradentes
 62	F	Casado(a)	1	Itaquera
 64	F	Solteiro(a)	4	Guaianases
-71	F	Solteiro(a)	5	São Miguel Paulista
+71	F	Solteiro(a)	5	SÃ£o Miguel Paulista
 75	F	Solteiro(a)	3	Itaquera
 76	F	Solteiro(a)	1	Guaianases
 77	F	Solteiro(a)	2	Cidade tiradentes
@@ -37,13 +37,13 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 93	F	Casado(a)	5	Itaquera
 96	F	Solteiro(a)	1	Guaianases
 99	F	Solteiro(a)	3	Guaianases
-102	F	Casado(a)	2	São Miguel Paulista
+102	F	Casado(a)	2	SÃ£o Miguel Paulista
 104	F	Casado(a)	1	Guaianases
 105	F	Casado(a)	3	Guaianases
 109	F	Solteiro(a)	2	Cidade tiradentes
 110	F	Solteiro(a)	3	Cidade tiradentes
 112	F	Casado(a)	4	Cidade tiradentes
-114	F	Solteiro(a)	3	São Miguel Paulista
+114	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 115	F	Solteiro(a)	3	Itaquera
 117	F	Casado(a)	3	Itaquera
 118	F	Solteiro(a)	2	Guaianases
@@ -55,7 +55,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 128	F	Solteiro(a)	1	Itaquera
 131	F	Solteiro(a)	3	Guaianases
 133	F	Casado(a)	1	Cidade tiradentes
-135	F	Casado(a)	5	São Miguel Paulista
+135	F	Casado(a)	5	SÃ£o Miguel Paulista
 136	F	Casado(a)	3	Itaquera
 137	F	Casado(a)	3	Cidade tiradentes
 139	F	Casado(a)	1	Guaianases
@@ -65,7 +65,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 148	F	Solteiro(a)	2	Itaquera
 154	F	Solteiro(a)	1	Itaquera
 155	F	Casado(a)	1	Cidade tiradentes
-156	F	Solteiro(a)	1	São Miguel Paulista
+156	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 158	F	Casado(a)	3	Itaquera
 159	F	Casado(a)	4	Guaianases
 160	F	Casado(a)	1	Itaquera
@@ -76,7 +76,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 168	F	Casado(a)	4	Vila Prudente
 169	F	Casado(a)	1	Itaquera
 170	F	Solteiro(a)	1	Cidade tiradentes
-175	F	Solteiro(a)	1	São Miguel Paulista
+175	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 177	F	Casado(a)	1	Itaquera
 178	F	Solteiro(a)	1	Itaquera
 179	F	Solteiro(a)	1	Cidade tiradentes
@@ -100,7 +100,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 216	F	Solteiro(a)	2	Itaquera
 218	F	Solteiro(a)	2	Cidade tiradentes
 221	F	Casado(a)	2	Itaquera
-224	F	Casado(a)	3	São Miguel Paulista
+224	F	Casado(a)	3	SÃ£o Miguel Paulista
 225	F	Solteiro(a)	5	Guaianases
 226	F	Solteiro(a)	2	Guaianases
 227	F	Solteiro(a)	3	Itaquera
@@ -109,7 +109,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 235	F	Casado(a)	2	Guaianases
 238	F	Casado(a)	1	Guaianases
 240	F	Casado(a)	2	Itaquera
-242	F	Solteiro(a)	1	São Miguel Paulista
+242	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 243	F	Solteiro(a)	1	Cidade tiradentes
 244	F	Casado(a)	3	Cidade tiradentes
 248	F	Solteiro(a)	1	Cidade tiradentes
@@ -129,7 +129,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 281	F	Solteiro(a)	1	Cidade tiradentes
 282	F	Solteiro(a)	3	Guaianases
 283	F	Solteiro(a)	3	Vila Prudente
-286	F	Solteiro(a)	1	São Miguel Paulista
+286	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 287	F	Casado(a)	1	Cidade tiradentes
 291	F	Solteiro(a)	1	Cidade tiradentes
 294	F	Solteiro(a)	1	Guaianases
@@ -141,7 +141,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 303	F	Casado(a)	1	Vila Prudente
 304	F	Casado(a)	1	Itaquera
 305	F	Solteiro(a)	4	Cidade tiradentes
-309	F	Solteiro(a)	1	São Miguel Paulista
+309	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 310	F	Solteiro(a)	1	Cidade tiradentes
 312	F	Casado(a)	3	Itaquera
 317	F	Casado(a)	1	Itaquera
@@ -154,10 +154,10 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 330	F	Solteiro(a)	1	Cidade tiradentes
 335	F	Solteiro(a)	5	Itaquera
 336	F	Casado(a)	3	Cidade tiradentes
-337	F	Casado(a)	1	São Miguel Paulista
+337	F	Casado(a)	1	SÃ£o Miguel Paulista
 338	F	Casado(a)	3	Vila Prudente
 339	F	Solteiro(a)	2	Cidade tiradentes
-340	F	Casado(a)	2	São Miguel Paulista
+340	F	Casado(a)	2	SÃ£o Miguel Paulista
 341	F	Casado(a)	1	Itaquera
 344	F	Solteiro(a)	1	Cidade tiradentes
 345	F	Casado(a)	2	Cidade tiradentes
@@ -165,7 +165,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 347	F	Solteiro(a)	4	Vila Prudente
 349	F	Solteiro(a)	1	Vila Prudente
 352	F	Casado(a)	1	Guaianases
-354	F	Casado(a)	2	São Miguel Paulista
+354	F	Casado(a)	2	SÃ£o Miguel Paulista
 355	F	Solteiro(a)	1	Guaianases
 360	F	Casado(a)	4	Guaianases
 361	F	Solteiro(a)	1	Guaianases
@@ -189,7 +189,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 397	F	Casado(a)	2	Cidade tiradentes
 398	F	Solteiro(a)	1	Itaquera
 399	F	Casado(a)	3	Cidade tiradentes
-400	F	Casado(a)	1	São Miguel Paulista
+400	F	Casado(a)	1	SÃ£o Miguel Paulista
 402	F	Solteiro(a)	1	Vila Prudente
 405	F	Solteiro(a)	3	Itaquera
 406	F	Solteiro(a)	1	Itaquera
@@ -217,8 +217,8 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 453	F	Casado(a)	3	Guaianases
 454	F	Solteiro(a)	3	Itaquera
 457	F	Solteiro(a)	1	Cidade tiradentes
-462	F	Solteiro(a)	2	São Miguel Paulista
-463	F	Solteiro(a)	3	São Miguel Paulista
+462	F	Solteiro(a)	2	SÃ£o Miguel Paulista
+463	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 464	F	Solteiro(a)	3	Itaquera
 465	F	Solteiro(a)	3	Itaquera
 466	F	Casado(a)	4	Cidade tiradentes
@@ -230,24 +230,24 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 474	F	Casado(a)	1	Cidade tiradentes
 476	F	Solteiro(a)	1	Itaquera
 478	F	Casado(a)	5	Guaianases
-480	F	Casado(a)	3	São Miguel Paulista
+480	F	Casado(a)	3	SÃ£o Miguel Paulista
 481	F	Casado(a)	2	Guaianases
 482	F	Solteiro(a)	4	Guaianases
 484	F	Casado(a)	3	Itaquera
 486	F	Casado(a)	2	Cidade tiradentes
 487	F	Solteiro(a)	4	Cidade tiradentes
-489	F	Casado(a)	2	São Miguel Paulista
-491	F	Casado(a)	2	São Miguel Paulista
+489	F	Casado(a)	2	SÃ£o Miguel Paulista
+491	F	Casado(a)	2	SÃ£o Miguel Paulista
 492	F	Casado(a)	1	Vila Prudente
 493	F	Casado(a)	5	Itaquera
 494	F	Solteiro(a)	1	Cidade tiradentes
-497	F	Solteiro(a)	4	São Miguel Paulista
+497	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 498	F	Solteiro(a)	1	Cidade tiradentes
 499	F	Solteiro(a)	1	Guaianases
 502	F	Solteiro(a)	3	Itaquera
 504	F	Solteiro(a)	4	Itaquera
 506	F	Solteiro(a)	3	Cidade tiradentes
-510	F	Solteiro(a)	1	São Miguel Paulista
+510	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 511	F	Casado(a)	4	Guaianases
 518	F	Casado(a)	3	Cidade tiradentes
 521	F	Casado(a)	1	Guaianases
@@ -255,27 +255,27 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 526	F	Casado(a)	2	Guaianases
 529	F	Solteiro(a)	4	Guaianases
 533	F	Casado(a)	1	Itaquera
-534	F	Casado(a)	3	São Miguel Paulista
-537	F	Casado(a)	3	São Miguel Paulista
+534	F	Casado(a)	3	SÃ£o Miguel Paulista
+537	F	Casado(a)	3	SÃ£o Miguel Paulista
 538	F	Solteiro(a)	5	Guaianases
 540	F	Solteiro(a)	4	Cidade tiradentes
 541	F	Solteiro(a)	1	Guaianases
 542	F	Casado(a)	3	Cidade tiradentes
 543	F	Casado(a)	3	Itaquera
 545	F	Solteiro(a)	3	Itaquera
-546	F	Solteiro(a)	3	São Miguel Paulista
+546	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 547	F	Solteiro(a)	1	Guaianases
 551	F	Solteiro(a)	2	Itaquera
 552	F	Solteiro(a)	4	Guaianases
 553	F	Casado(a)	1	Cidade tiradentes
-554	F	Solteiro(a)	2	São Miguel Paulista
+554	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 563	F	Solteiro(a)	4	Itaquera
 564	F	Casado(a)	3	Guaianases
 565	F	Solteiro(a)	4	Itaquera
 566	F	Solteiro(a)	5	Vila Prudente
 567	F	Solteiro(a)	1	Cidade tiradentes
-568	F	Solteiro(a)	1	São Miguel Paulista
-569	F	Solteiro(a)	1	São Miguel Paulista
+568	F	Solteiro(a)	1	SÃ£o Miguel Paulista
+569	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 570	F	Solteiro(a)	1	Itaquera
 571	F	Solteiro(a)	1	Guaianases
 572	F	Casado(a)	3	Vila Prudente
@@ -283,7 +283,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 574	F	Solteiro(a)	2	Guaianases
 581	F	Solteiro(a)	1	Guaianases
 587	F	Casado(a)	2	Itaquera
-588	F	Casado(a)	4	São Miguel Paulista
+588	F	Casado(a)	4	SÃ£o Miguel Paulista
 591	F	Solteiro(a)	3	Guaianases
 593	F	Casado(a)	3	Itaquera
 594	F	Solteiro(a)	1	Itaquera
@@ -297,12 +297,12 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 606	F	Solteiro(a)	4	Cidade tiradentes
 612	F	Casado(a)	3	Vila Prudente
 614	F	Casado(a)	2	Itaquera
-615	F	Casado(a)	4	São Miguel Paulista
+615	F	Casado(a)	4	SÃ£o Miguel Paulista
 617	F	Solteiro(a)	3	Itaquera
 618	F	Casado(a)	1	Guaianases
 619	F	Casado(a)	2	Itaquera
 621	F	Casado(a)	2	Guaianases
-622	F	Solteiro(a)	2	São Miguel Paulista
+622	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 624	F	Solteiro(a)	3	Itaquera
 625	F	Solteiro(a)	1	Itaquera
 629	F	Casado(a)	4	Guaianases
@@ -315,28 +315,28 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 644	F	Casado(a)	4	Itaquera
 645	F	Solteiro(a)	1	Guaianases
 647	F	Casado(a)	5	Guaianases
-649	F	Casado(a)	3	São Miguel Paulista
+649	F	Casado(a)	3	SÃ£o Miguel Paulista
 652	F	Solteiro(a)	3	Cidade tiradentes
 654	F	Casado(a)	3	Guaianases
-655	F	Casado(a)	1	São Miguel Paulista
+655	F	Casado(a)	1	SÃ£o Miguel Paulista
 658	F	Solteiro(a)	3	Itaquera
 662	F	Casado(a)	3	Guaianases
 663	F	Solteiro(a)	3	Guaianases
 664	F	Solteiro(a)	2	Itaquera
 665	F	Solteiro(a)	4	Cidade tiradentes
 669	F	Solteiro(a)	2	Itaquera
-670	F	Solteiro(a)	4	São Miguel Paulista
+670	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 673	F	Casado(a)	1	Guaianases
 676	F	Solteiro(a)	5	Itaquera
-680	F	Casado(a)	3	São Miguel Paulista
+680	F	Casado(a)	3	SÃ£o Miguel Paulista
 681	F	Solteiro(a)	4	Guaianases
 682	F	Solteiro(a)	2	Cidade tiradentes
-683	F	Casado(a)	1	São Miguel Paulista
+683	F	Casado(a)	1	SÃ£o Miguel Paulista
 689	F	Solteiro(a)	4	Guaianases
 690	F	Solteiro(a)	5	Guaianases
 697	F	Casado(a)	2	Itaquera
 698	F	Casado(a)	1	Itaquera
-704	F	Casado(a)	1	São Miguel Paulista
+704	F	Casado(a)	1	SÃ£o Miguel Paulista
 711	F	Casado(a)	2	Itaquera
 717	F	Solteiro(a)	4	Cidade tiradentes
 719	F	Casado(a)	1	Itaquera
@@ -345,12 +345,12 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 727	F	Casado(a)	3	Cidade tiradentes
 728	F	Casado(a)	5	Cidade tiradentes
 729	F	Solteiro(a)	3	Guaianases
-731	F	Casado(a)	1	São Miguel Paulista
+731	F	Casado(a)	1	SÃ£o Miguel Paulista
 732	F	Solteiro(a)	5	Cidade tiradentes
 733	F	Solteiro(a)	1	Guaianases
 734	F	Solteiro(a)	3	Cidade tiradentes
 736	F	Solteiro(a)	1	Vila Prudente
-739	F	Casado(a)	4	São Miguel Paulista
+739	F	Casado(a)	4	SÃ£o Miguel Paulista
 740	F	Solteiro(a)	5	Guaianases
 741	F	Casado(a)	2	Guaianases
 742	F	Casado(a)	4	Itaquera
@@ -368,7 +368,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 759	F	Casado(a)	1	Cidade tiradentes
 760	F	Solteiro(a)	1	Guaianases
 766	F	Casado(a)	4	Itaquera
-767	F	Solteiro(a)	2	São Miguel Paulista
+767	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 769	F	Solteiro(a)	4	Guaianases
 770	F	Solteiro(a)	3	Itaquera
 771	F	Solteiro(a)	3	Itaquera
@@ -386,11 +386,11 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 796	F	Solteiro(a)	4	Guaianases
 799	F	Casado(a)	2	Cidade tiradentes
 803	F	Solteiro(a)	2	Itaquera
-804	F	Casado(a)	2	São Miguel Paulista
+804	F	Casado(a)	2	SÃ£o Miguel Paulista
 806	F	Casado(a)	2	Itaquera
 808	F	Solteiro(a)	1	Itaquera
 810	F	Casado(a)	3	Cidade tiradentes
-815	F	Casado(a)	3	São Miguel Paulista
+815	F	Casado(a)	3	SÃ£o Miguel Paulista
 816	F	Casado(a)	4	Cidade tiradentes
 817	F	Solteiro(a)	2	Itaquera
 818	F	Casado(a)	2	Itaquera
@@ -399,16 +399,16 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 822	F	Solteiro(a)	2	Cidade tiradentes
 823	F	Solteiro(a)	3	Guaianases
 824	F	Solteiro(a)	3	Cidade tiradentes
-826	F	Casado(a)	3	São Miguel Paulista
+826	F	Casado(a)	3	SÃ£o Miguel Paulista
 827	F	Solteiro(a)	1	Guaianases
 828	F	Casado(a)	1	Itaquera
 831	F	Casado(a)	2	Itaquera
 834	F	Solteiro(a)	2	Guaianases
 837	F	Solteiro(a)	4	Guaianases
-838	F	Solteiro(a)	4	São Miguel Paulista
+838	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 839	F	Solteiro(a)	3	Itaquera
 841	F	Casado(a)	1	Vila Prudente
-843	F	Solteiro(a)	1	São Miguel Paulista
+843	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 847	F	Casado(a)	4	Itaquera
 850	F	Casado(a)	2	Guaianases
 852	F	Solteiro(a)	2	Itaquera
@@ -419,9 +419,9 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 866	F	Casado(a)	4	Cidade tiradentes
 867	F	Solteiro(a)	1	Cidade tiradentes
 868	F	Solteiro(a)	5	Cidade tiradentes
-869	F	Solteiro(a)	2	São Miguel Paulista
+869	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 870	F	Solteiro(a)	3	Guaianases
-872	F	Casado(a)	3	São Miguel Paulista
+872	F	Casado(a)	3	SÃ£o Miguel Paulista
 873	F	Casado(a)	4	Guaianases
 874	F	Casado(a)	1	Cidade tiradentes
 875	F	Solteiro(a)	4	Cidade tiradentes
@@ -446,12 +446,12 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 909	F	Solteiro(a)	1	Itaquera
 910	M	Solteiro(a)	1	Itaquera
 911	M	Solteiro(a)	2	Cidade tiradentes
-913	M	Casado(a)	2	São Miguel Paulista
+913	M	Casado(a)	2	SÃ£o Miguel Paulista
 916	M	Solteiro(a)	3	Itaquera
 917	M	Casado(a)	2	Itaquera
 918	M	Casado(a)	1	Guaianases
-919	M	Casado(a)	5	São Miguel Paulista
-921	M	Solteiro(a)	5	São Miguel Paulista
+919	M	Casado(a)	5	SÃ£o Miguel Paulista
+921	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 922	M	Solteiro(a)	4	Cidade tiradentes
 924	M	Casado(a)	5	Guaianases
 925	M	Solteiro(a)	1	Cidade tiradentes
@@ -460,27 +460,27 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 933	M	Solteiro(a)	2	Cidade tiradentes
 934	F	Solteiro(a)	1	Itaquera
 937	F	Casado(a)	4	Cidade tiradentes
-938	M	Casado(a)	4	São Miguel Paulista
+938	M	Casado(a)	4	SÃ£o Miguel Paulista
 941	M	Solteiro(a)	1	Itaquera
 943	F	Solteiro(a)	2	Cidade tiradentes
 944	F	Casado(a)	3	Itaquera
-948	M	Solteiro(a)	5	São Miguel Paulista
+948	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 950	M	Solteiro(a)	4	Itaquera
 952	M	Casado(a)	2	Cidade tiradentes
 955	F	Casado(a)	3	Itaquera
 958	M	Casado(a)	4	Guaianases
 959	M	Solteiro(a)	1	Cidade tiradentes
 962	M	Casado(a)	2	Itaquera
-965	F	Casado(a)	2	São Miguel Paulista
+965	F	Casado(a)	2	SÃ£o Miguel Paulista
 967	F	Solteiro(a)	1	Itaquera
 968	F	Casado(a)	1	Itaquera
 970	F	Solteiro(a)	1	Vila Prudente
-971	F	Casado(a)	3	São Miguel Paulista
-972	M	Solteiro(a)	4	São Miguel Paulista
+971	F	Casado(a)	3	SÃ£o Miguel Paulista
+972	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 974	F	Casado(a)	4	Cidade tiradentes
 975	F	Solteiro(a)	1	Cidade tiradentes
 976	F	Casado(a)	5	Guaianases
-978	M	Casado(a)	3	São Miguel Paulista
+978	M	Casado(a)	3	SÃ£o Miguel Paulista
 979	F	Solteiro(a)	1	Itaquera
 981	M	Solteiro(a)	1	Guaianases
 983	F	Solteiro(a)	2	Guaianases
@@ -493,25 +493,25 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 995	M	Casado(a)	1	Itaquera
 996	M	Solteiro(a)	2	Itaquera
 997	F	Solteiro(a)	4	Guaianases
-1002	F	Casado(a)	2	São Miguel Paulista
+1002	F	Casado(a)	2	SÃ£o Miguel Paulista
 1003	M	Casado(a)	3	Itaquera
 1004	F	Casado(a)	3	Itaquera
 1005	M	Solteiro(a)	2	Guaianases
-1013	F	Casado(a)	2	São Miguel Paulista
-1014	F	Casado(a)	2	São Miguel Paulista
+1013	F	Casado(a)	2	SÃ£o Miguel Paulista
+1014	F	Casado(a)	2	SÃ£o Miguel Paulista
 1015	M	Casado(a)	4	Itaquera
 1017	F	Casado(a)	4	Cidade tiradentes
 1022	M	Casado(a)	3	Cidade tiradentes
 1023	M	Casado(a)	1	Itaquera
 1024	F	Casado(a)	1	Itaquera
 1025	M	Casado(a)	2	Cidade tiradentes
-1026	M	Solteiro(a)	1	São Miguel Paulista
+1026	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 1031	F	Casado(a)	2	Cidade tiradentes
-1032	F	Casado(a)	2	São Miguel Paulista
+1032	F	Casado(a)	2	SÃ£o Miguel Paulista
 1035	M	Casado(a)	1	Itaquera
 1036	F	Solteiro(a)	3	Itaquera
 1037	M	Solteiro(a)	5	Cidade tiradentes
-1038	F	Casado(a)	3	São Miguel Paulista
+1038	F	Casado(a)	3	SÃ£o Miguel Paulista
 1041	M	Solteiro(a)	4	Guaianases
 1042	F	Casado(a)	1	Guaianases
 1044	F	Solteiro(a)	1	Guaianases
@@ -522,11 +522,11 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1052	F	Casado(a)	1	Itaquera
 1053	F	Solteiro(a)	1	Itaquera
 1055	M	Casado(a)	1	Itaquera
-1056	F	Casado(a)	2	São Miguel Paulista
+1056	F	Casado(a)	2	SÃ£o Miguel Paulista
 1057	F	Casado(a)	2	Vila Prudente
 1058	F	Solteiro(a)	2	Itaquera
 1059	M	Solteiro(a)	4	Cidade tiradentes
-1062	F	Casado(a)	4	São Miguel Paulista
+1062	F	Casado(a)	4	SÃ£o Miguel Paulista
 1066	M	Casado(a)	1	Vila Prudente
 1067	M	Solteiro(a)	2	Cidade tiradentes
 1068	M	Casado(a)	1	Cidade tiradentes
@@ -546,7 +546,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1092	M	Casado(a)	3	Cidade tiradentes
 1093	F	Solteiro(a)	3	Itaquera
 1094	F	Casado(a)	3	Itaquera
-1097	M	Solteiro(a)	1	São Miguel Paulista
+1097	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 1101	M	Casado(a)	3	Cidade tiradentes
 1102	F	Casado(a)	2	Itaquera
 1103	F	Casado(a)	4	Guaianases
@@ -555,14 +555,14 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1110	M	Casado(a)	2	Itaquera
 1111	M	Casado(a)	1	Vila Prudente
 1112	M	Casado(a)	4	Guaianases
-1113	M	Casado(a)	1	São Miguel Paulista
+1113	M	Casado(a)	1	SÃ£o Miguel Paulista
 1114	M	Casado(a)	4	Guaianases
 1115	F	Solteiro(a)	3	Vila Prudente
 1116	M	Solteiro(a)	4	Cidade tiradentes
-1117	M	Solteiro(a)	5	São Miguel Paulista
+1117	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 1119	F	Casado(a)	2	Cidade tiradentes
 1124	M	Solteiro(a)	3	Guaianases
-1125	F	Casado(a)	1	São Miguel Paulista
+1125	F	Casado(a)	1	SÃ£o Miguel Paulista
 1127	M	Solteiro(a)	5	Cidade tiradentes
 1128	F	Solteiro(a)	1	Itaquera
 1130	M	Solteiro(a)	5	Itaquera
@@ -584,7 +584,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1159	F	Solteiro(a)	2	Guaianases
 1161	M	Solteiro(a)	5	Itaquera
 1162	M	Casado(a)	2	Cidade tiradentes
-1164	F	Solteiro(a)	1	São Miguel Paulista
+1164	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 1166	M	Solteiro(a)	1	Itaquera
 1167	M	Casado(a)	3	Cidade tiradentes
 1168	F	Casado(a)	1	Itaquera
@@ -593,12 +593,12 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1171	F	Solteiro(a)	2	Cidade tiradentes
 1172	M	Casado(a)	3	Itaquera
 1173	M	Solteiro(a)	2	Itaquera
-1174	M	Solteiro(a)	5	São Miguel Paulista
+1174	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 1175	F	Casado(a)	4	Itaquera
-1177	F	Solteiro(a)	1	São Miguel Paulista
+1177	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 1178	M	Solteiro(a)	4	Guaianases
 1180	M	Casado(a)	5	Cidade tiradentes
-1183	M	Solteiro(a)	3	São Miguel Paulista
+1183	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 1184	M	Solteiro(a)	5	Vila Prudente
 1185	M	Casado(a)	4	Itaquera
 1187	M	Solteiro(a)	2	Itaquera
@@ -610,7 +610,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1194	F	Solteiro(a)	1	Guaianases
 1195	F	Solteiro(a)	5	Guaianases
 1196	M	Solteiro(a)	1	Itaquera
-1197	M	Solteiro(a)	1	São Miguel Paulista
+1197	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 1201	M	Casado(a)	1	Guaianases
 1202	M	Casado(a)	1	Guaianases
 1203	M	Casado(a)	2	Itaquera
@@ -627,7 +627,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1222	M	Casado(a)	3	Guaianases
 1224	M	Casado(a)	3	Guaianases
 1228	M	Solteiro(a)	3	Cidade tiradentes
-1232	M	Casado(a)	2	São Miguel Paulista
+1232	M	Casado(a)	2	SÃ£o Miguel Paulista
 1234	F	Casado(a)	1	Cidade tiradentes
 1235	M	Solteiro(a)	2	Guaianases
 1236	M	Solteiro(a)	3	Cidade tiradentes
@@ -641,26 +641,26 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1254	F	Casado(a)	1	Itaquera
 1256	M	Casado(a)	5	Cidade tiradentes
 1259	F	Casado(a)	1	Guaianases
-1260	F	Casado(a)	4	São Miguel Paulista
+1260	F	Casado(a)	4	SÃ£o Miguel Paulista
 1261	F	Solteiro(a)	3	Guaianases
 1262	M	Solteiro(a)	5	Cidade tiradentes
-1265	F	Casado(a)	2	São Miguel Paulista
+1265	F	Casado(a)	2	SÃ£o Miguel Paulista
 1266	F	Solteiro(a)	4	Itaquera
 1268	F	Solteiro(a)	2	Guaianases
 1270	F	Casado(a)	1	Cidade tiradentes
 1271	M	Solteiro(a)	2	Itaquera
 1274	M	Solteiro(a)	2	Cidade tiradentes
 1275	M	Solteiro(a)	4	Guaianases
-1277	F	Casado(a)	1	São Miguel Paulista
+1277	F	Casado(a)	1	SÃ£o Miguel Paulista
 1279	F	Solteiro(a)	3	Guaianases
 1281	F	Casado(a)	4	Guaianases
 1282	F	Solteiro(a)	3	Guaianases
 1284	F	Solteiro(a)	1	Guaianases
 1285	M	Casado(a)	5	Itaquera
 1286	M	Casado(a)	4	Guaianases
-1289	M	Casado(a)	4	São Miguel Paulista
+1289	M	Casado(a)	4	SÃ£o Miguel Paulista
 1293	M	Casado(a)	3	Vila Prudente
-1295	M	Casado(a)	3	São Miguel Paulista
+1295	M	Casado(a)	3	SÃ£o Miguel Paulista
 1297	M	Solteiro(a)	4	Guaianases
 1300	M	Casado(a)	1	Vila Prudente
 1304	M	Solteiro(a)	3	Itaquera
@@ -675,7 +675,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1319	M	Casado(a)	1	Guaianases
 1321	M	Casado(a)	3	Itaquera
 1322	M	Solteiro(a)	5	Itaquera
-1325	M	Solteiro(a)	4	São Miguel Paulista
+1325	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 1328	M	Solteiro(a)	5	Itaquera
 1329	F	Solteiro(a)	3	Itaquera
 1330	M	Solteiro(a)	4	Itaquera
@@ -686,7 +686,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1338	M	Solteiro(a)	5	Guaianases
 1339	F	Solteiro(a)	2	Itaquera
 1341	M	Casado(a)	3	Guaianases
-1343	M	Casado(a)	1	São Miguel Paulista
+1343	M	Casado(a)	1	SÃ£o Miguel Paulista
 1344	M	Solteiro(a)	3	Cidade tiradentes
 1345	F	Casado(a)	5	Itaquera
 1346	F	Solteiro(a)	4	Itaquera
@@ -701,7 +701,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1367	F	Solteiro(a)	3	Cidade tiradentes
 1368	F	Casado(a)	1	Cidade tiradentes
 1370	F	Casado(a)	2	Itaquera
-1371	M	Casado(a)	3	São Miguel Paulista
+1371	M	Casado(a)	3	SÃ£o Miguel Paulista
 1374	M	Solteiro(a)	1	Cidade tiradentes
 1376	M	Casado(a)	5	Cidade tiradentes
 1377	M	Solteiro(a)	3	Cidade tiradentes
@@ -712,16 +712,16 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1387	F	Casado(a)	1	Guaianases
 1388	M	Casado(a)	1	Itaquera
 1389	M	Casado(a)	1	Itaquera
-1390	F	Solteiro(a)	1	São Miguel Paulista
+1390	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 1391	M	Solteiro(a)	1	Cidade tiradentes
 1392	M	Casado(a)	2	Itaquera
-1393	M	Solteiro(a)	5	São Miguel Paulista
+1393	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 1394	M	Casado(a)	1	Cidade tiradentes
 1395	M	Solteiro(a)	1	Cidade tiradentes
-1396	F	Solteiro(a)	5	São Miguel Paulista
+1396	F	Solteiro(a)	5	SÃ£o Miguel Paulista
 1397	M	Solteiro(a)	1	Guaianases
-1402	F	Casado(a)	4	São Miguel Paulista
-1406	F	Solteiro(a)	2	São Miguel Paulista
+1402	F	Casado(a)	4	SÃ£o Miguel Paulista
+1406	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 1408	F	Solteiro(a)	5	Cidade tiradentes
 1409	M	Casado(a)	1	Guaianases
 1410	M	Solteiro(a)	1	Guaianases
@@ -731,11 +731,11 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1417	F	Solteiro(a)	2	Vila Prudente
 1418	F	Solteiro(a)	4	Vila Prudente
 1419	M	Solteiro(a)	1	Cidade tiradentes
-1420	M	Solteiro(a)	2	São Miguel Paulista
+1420	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 1421	F	Solteiro(a)	4	Guaianases
 1423	F	Solteiro(a)	1	Itaquera
 1424	M	Casado(a)	3	Cidade tiradentes
-1425	F	Casado(a)	3	São Miguel Paulista
+1425	F	Casado(a)	3	SÃ£o Miguel Paulista
 1427	M	Solteiro(a)	4	Cidade tiradentes
 1428	F	Solteiro(a)	5	Guaianases
 1429	F	Solteiro(a)	4	Itaquera
@@ -749,9 +749,9 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1443	F	Casado(a)	4	Cidade tiradentes
 1444	F	Casado(a)	5	Guaianases
 1446	F	Solteiro(a)	3	Guaianases
-1447	M	Casado(a)	1	São Miguel Paulista
+1447	M	Casado(a)	1	SÃ£o Miguel Paulista
 1448	F	Casado(a)	3	Cidade tiradentes
-1449	F	Solteiro(a)	4	São Miguel Paulista
+1449	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 1451	M	Casado(a)	3	Guaianases
 1455	F	Solteiro(a)	2	Cidade tiradentes
 1457	F	Solteiro(a)	2	Guaianases
@@ -763,7 +763,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1470	M	Casado(a)	4	Itaquera
 1473	M	Solteiro(a)	1	Itaquera
 1475	M	Casado(a)	3	Cidade tiradentes
-1478	M	Casado(a)	4	São Miguel Paulista
+1478	M	Casado(a)	4	SÃ£o Miguel Paulista
 1480	M	Solteiro(a)	3	Cidade tiradentes
 1481	F	Solteiro(a)	2	Itaquera
 1484	F	Solteiro(a)	4	Cidade tiradentes
@@ -786,7 +786,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1512	M	Solteiro(a)	5	Cidade tiradentes
 1519	M	Casado(a)	1	Cidade tiradentes
 1520	M	Casado(a)	2	Cidade tiradentes
-1523	M	Solteiro(a)	1	São Miguel Paulista
+1523	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 1524	F	Casado(a)	4	Itaquera
 1528	F	Casado(a)	4	Guaianases
 1529	F	Casado(a)	4	Itaquera
@@ -797,18 +797,18 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1538	M	Solteiro(a)	2	Itaquera
 1539	M	Casado(a)	2	Cidade tiradentes
 1541	M	Casado(a)	4	Itaquera
-1542	F	Solteiro(a)	3	São Miguel Paulista
+1542	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 1545	M	Casado(a)	1	Itaquera
 1547	M	Solteiro(a)	5	Guaianases
 1548	F	Solteiro(a)	2	Itaquera
 1549	M	Solteiro(a)	4	Itaquera
-1550	F	Solteiro(a)	2	São Miguel Paulista
+1550	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 1551	F	Casado(a)	4	Guaianases
-1553	F	Casado(a)	1	São Miguel Paulista
-1554	M	Casado(a)	3	São Miguel Paulista
+1553	F	Casado(a)	1	SÃ£o Miguel Paulista
+1554	M	Casado(a)	3	SÃ£o Miguel Paulista
 1556	F	Casado(a)	3	Itaquera
 1559	F	Solteiro(a)	2	Cidade tiradentes
-1560	F	Solteiro(a)	1	São Miguel Paulista
+1560	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 1561	F	Casado(a)	4	Guaianases
 1563	F	Casado(a)	4	Cidade tiradentes
 1564	M	Casado(a)	4	Guaianases
@@ -827,9 +827,9 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1584	F	Casado(a)	3	Itaquera
 1586	F	Solteiro(a)	2	Vila Prudente
 1587	M	Casado(a)	2	Guaianases
-1588	M	Solteiro(a)	1	São Miguel Paulista
+1588	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 1589	M	Casado(a)	1	Itaquera
-1590	F	Casado(a)	1	São Miguel Paulista
+1590	F	Casado(a)	1	SÃ£o Miguel Paulista
 1593	F	Solteiro(a)	2	Cidade tiradentes
 1594	M	Casado(a)	2	Guaianases
 1596	M	Casado(a)	2	Guaianases
@@ -844,7 +844,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1610	F	Solteiro(a)	1	Guaianases
 1611	M	Solteiro(a)	1	Itaquera
 1612	M	Casado(a)	3	Guaianases
-1614	F	Solteiro(a)	3	São Miguel Paulista
+1614	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 1615	F	Solteiro(a)	4	Itaquera
 1616	M	Solteiro(a)	3	Guaianases
 1617	M	Casado(a)	4	Guaianases
@@ -860,7 +860,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1636	F	Solteiro(a)	2	Guaianases
 1638	M	Solteiro(a)	1	Guaianases
 1639	F	Casado(a)	4	Vila Prudente
-1641	M	Casado(a)	2	São Miguel Paulista
+1641	M	Casado(a)	2	SÃ£o Miguel Paulista
 1642	F	Casado(a)	4	Itaquera
 1643	F	Casado(a)	1	Guaianases
 1646	M	Solteiro(a)	2	Itaquera
@@ -873,7 +873,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1658	F	Solteiro(a)	3	Itaquera
 1659	F	Casado(a)	1	Itaquera
 1660	F	Solteiro(a)	4	Itaquera
-1662	F	Solteiro(a)	1	São Miguel Paulista
+1662	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 1663	F	Casado(a)	2	Cidade tiradentes
 1665	F	Solteiro(a)	4	Itaquera
 1666	F	Solteiro(a)	3	Cidade tiradentes
@@ -898,7 +898,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1720	F	Solteiro(a)	4	Guaianases
 1721	M	Casado(a)	4	Itaquera
 1722	F	Solteiro(a)	3	Cidade tiradentes
-1726	F	Solteiro(a)	1	São Miguel Paulista
+1726	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 1728	F	Casado(a)	4	Vila Prudente
 1729	M	Solteiro(a)	1	Guaianases
 1730	F	Casado(a)	1	Guaianases
@@ -911,7 +911,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1742	F	Casado(a)	2	Cidade tiradentes
 1743	M	Casado(a)	3	Itaquera
 1744	M	Casado(a)	3	Itaquera
-1745	M	Casado(a)	3	São Miguel Paulista
+1745	M	Casado(a)	3	SÃ£o Miguel Paulista
 1747	F	Solteiro(a)	1	Guaianases
 1748	F	Solteiro(a)	1	Itaquera
 1750	F	Solteiro(a)	3	Itaquera
@@ -931,11 +931,11 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1777	M	Solteiro(a)	3	Cidade tiradentes
 1780	F	Solteiro(a)	3	Guaianases
 1781	M	Solteiro(a)	1	Cidade tiradentes
-1782	F	Casado(a)	1	São Miguel Paulista
+1782	F	Casado(a)	1	SÃ£o Miguel Paulista
 1783	M	Casado(a)	1	Guaianases
 1785	F	Solteiro(a)	5	Guaianases
 1787	F	Casado(a)	2	Guaianases
-1788	F	Casado(a)	5	São Miguel Paulista
+1788	F	Casado(a)	5	SÃ£o Miguel Paulista
 1791	M	Solteiro(a)	1	Itaquera
 1792	M	Solteiro(a)	4	Cidade tiradentes
 1793	F	Solteiro(a)	1	Itaquera
@@ -944,31 +944,31 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1796	F	Solteiro(a)	2	Vila Prudente
 1798	M	Solteiro(a)	1	Guaianases
 1799	M	Solteiro(a)	5	Cidade tiradentes
-1802	F	Casado(a)	1	São Miguel Paulista
-1805	F	Solteiro(a)	1	São Miguel Paulista
+1802	F	Casado(a)	1	SÃ£o Miguel Paulista
+1805	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 1807	F	Casado(a)	1	Itaquera
 1808	M	Solteiro(a)	4	Guaianases
 1810	F	Casado(a)	1	Vila Prudente
 1811	M	Solteiro(a)	4	Guaianases
-1812	M	Solteiro(a)	5	São Miguel Paulista
+1812	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 1813	F	Solteiro(a)	4	Itaquera
 1814	M	Casado(a)	2	Cidade tiradentes
 1815	M	Casado(a)	5	Cidade tiradentes
 1820	M	Solteiro(a)	4	Itaquera
 1821	M	Solteiro(a)	4	Itaquera
 1822	M	Casado(a)	2	Itaquera
-1823	M	Solteiro(a)	2	São Miguel Paulista
-1825	M	Casado(a)	5	São Miguel Paulista
+1823	M	Solteiro(a)	2	SÃ£o Miguel Paulista
+1825	M	Casado(a)	5	SÃ£o Miguel Paulista
 1826	M	Solteiro(a)	1	Cidade tiradentes
 1829	M	Solteiro(a)	3	Guaianases
-1832	F	Solteiro(a)	4	São Miguel Paulista
-1836	F	Casado(a)	3	São Miguel Paulista
+1832	F	Solteiro(a)	4	SÃ£o Miguel Paulista
+1836	F	Casado(a)	3	SÃ£o Miguel Paulista
 1838	M	Solteiro(a)	3	Guaianases
 1839	F	Casado(a)	3	Guaianases
 1841	M	Casado(a)	1	Itaquera
-1843	M	Casado(a)	2	São Miguel Paulista
+1843	M	Casado(a)	2	SÃ£o Miguel Paulista
 1844	M	Casado(a)	1	Guaianases
-1845	F	Solteiro(a)	2	São Miguel Paulista
+1845	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 1848	M	Solteiro(a)	1	Guaianases
 1849	F	Solteiro(a)	1	Itaquera
 1850	M	Solteiro(a)	1	Guaianases
@@ -985,13 +985,13 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1872	M	Solteiro(a)	4	Itaquera
 1874	M	Solteiro(a)	2	Itaquera
 1877	F	Casado(a)	1	Cidade tiradentes
-1882	M	Solteiro(a)	5	São Miguel Paulista
+1882	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 1883	M	Casado(a)	1	Itaquera
 1887	M	Casado(a)	5	Guaianases
 1890	M	Casado(a)	4	Guaianases
 1891	M	Solteiro(a)	1	Cidade tiradentes
 1893	M	Solteiro(a)	2	Itaquera
-1894	F	Solteiro(a)	3	São Miguel Paulista
+1894	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 1896	F	Casado(a)	3	Vila Prudente
 1897	F	Solteiro(a)	4	Itaquera
 1898	M	Solteiro(a)	1	Itaquera
@@ -1004,7 +1004,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1913	M	Casado(a)	3	Itaquera
 1915	M	Solteiro(a)	1	Guaianases
 1916	M	Solteiro(a)	3	Itaquera
-1917	M	Casado(a)	1	São Miguel Paulista
+1917	M	Casado(a)	1	SÃ£o Miguel Paulista
 1918	F	Casado(a)	1	Cidade tiradentes
 1920	M	Solteiro(a)	2	Cidade tiradentes
 1921	F	Casado(a)	4	Itaquera
@@ -1026,14 +1026,14 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1942	F	Solteiro(a)	2	Guaianases
 1946	M	Solteiro(a)	4	Cidade tiradentes
 1947	M	Casado(a)	1	Cidade tiradentes
-1948	M	Casado(a)	1	São Miguel Paulista
+1948	M	Casado(a)	1	SÃ£o Miguel Paulista
 1950	F	Solteiro(a)	3	Guaianases
-1952	F	Casado(a)	1	São Miguel Paulista
+1952	F	Casado(a)	1	SÃ£o Miguel Paulista
 1953	F	Solteiro(a)	1	Cidade tiradentes
 1954	F	Casado(a)	3	Itaquera
 1956	M	Solteiro(a)	1	Itaquera
 1957	M	Casado(a)	2	Itaquera
-1958	F	Solteiro(a)	4	São Miguel Paulista
+1958	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 1959	M	Solteiro(a)	1	Itaquera
 1961	F	Casado(a)	5	Vila Prudente
 1962	M	Solteiro(a)	1	Guaianases
@@ -1044,7 +1044,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1974	F	Casado(a)	1	Vila Prudente
 1975	M	Casado(a)	2	Cidade tiradentes
 1976	F	Solteiro(a)	4	Cidade tiradentes
-1977	M	Casado(a)	4	São Miguel Paulista
+1977	M	Casado(a)	4	SÃ£o Miguel Paulista
 1978	F	Solteiro(a)	3	Itaquera
 1979	M	Solteiro(a)	5	Guaianases
 1980	F	Casado(a)	4	Vila Prudente
@@ -1059,14 +1059,14 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 1999	M	Casado(a)	2	Guaianases
 2001	F	Casado(a)	4	Itaquera
 2002	M	Solteiro(a)	3	Itaquera
-2011	M	Casado(a)	3	São Miguel Paulista
-2015	F	Solteiro(a)	2	São Miguel Paulista
+2011	M	Casado(a)	3	SÃ£o Miguel Paulista
+2015	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 2019	M	Solteiro(a)	4	Guaianases
 2022	M	Solteiro(a)	3	Vila Prudente
 2023	F	Casado(a)	1	Guaianases
 2024	F	Casado(a)	2	Guaianases
 2029	M	Casado(a)	1	Cidade tiradentes
-2032	F	Casado(a)	3	São Miguel Paulista
+2032	F	Casado(a)	3	SÃ£o Miguel Paulista
 2034	F	Casado(a)	5	Guaianases
 2035	F	Casado(a)	5	Itaquera
 2039	F	Solteiro(a)	1	Guaianases
@@ -1074,33 +1074,33 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2043	M	Casado(a)	4	Guaianases
 2044	M	Solteiro(a)	1	Itaquera
 2047	F	Casado(a)	3	Guaianases
-2048	M	Solteiro(a)	3	São Miguel Paulista
+2048	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 2050	F	Casado(a)	3	Guaianases
 2051	M	Casado(a)	3	Cidade tiradentes
 2052	F	Solteiro(a)	1	Itaquera
 2053	M	Solteiro(a)	5	Guaianases
 2054	M	Solteiro(a)	1	Itaquera
-2057	F	Solteiro(a)	2	São Miguel Paulista
+2057	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 2059	F	Casado(a)	1	Itaquera
 2060	M	Solteiro(a)	1	Vila Prudente
 2061	M	Casado(a)	3	Guaianases
-2063	M	Casado(a)	2	São Miguel Paulista
+2063	M	Casado(a)	2	SÃ£o Miguel Paulista
 2065	M	Casado(a)	2	Itaquera
 2066	F	Casado(a)	5	Cidade tiradentes
 2067	F	Solteiro(a)	3	Itaquera
 2068	F	Casado(a)	3	Itaquera
-2070	F	Casado(a)	4	São Miguel Paulista
+2070	F	Casado(a)	4	SÃ£o Miguel Paulista
 2071	F	Solteiro(a)	2	Guaianases
 2075	F	Solteiro(a)	1	Itaquera
 2076	F	Solteiro(a)	3	Itaquera
-2077	M	Casado(a)	4	São Miguel Paulista
+2077	M	Casado(a)	4	SÃ£o Miguel Paulista
 2078	M	Casado(a)	1	Guaianases
-2082	M	Solteiro(a)	5	São Miguel Paulista
+2082	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 2084	F	Casado(a)	1	Itaquera
 2086	M	Casado(a)	1	Itaquera
 2088	M	Casado(a)	1	Itaquera
 2090	F	Solteiro(a)	2	Itaquera
-2094	F	Casado(a)	2	São Miguel Paulista
+2094	F	Casado(a)	2	SÃ£o Miguel Paulista
 2095	M	Casado(a)	1	Vila Prudente
 2096	F	Casado(a)	1	Guaianases
 2099	M	Casado(a)	1	Cidade tiradentes
@@ -1131,16 +1131,16 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2153	F	Casado(a)	4	Guaianases
 2156	F	Casado(a)	3	Cidade tiradentes
 2158	M	Casado(a)	3	Guaianases
-2162	M	Casado(a)	1	São Miguel Paulista
+2162	M	Casado(a)	1	SÃ£o Miguel Paulista
 2163	M	Solteiro(a)	1	Cidade tiradentes
 2168	F	Casado(a)	3	Guaianases
-2169	M	Casado(a)	3	São Miguel Paulista
-2171	M	Solteiro(a)	1	São Miguel Paulista
-2175	F	Casado(a)	5	São Miguel Paulista
+2169	M	Casado(a)	3	SÃ£o Miguel Paulista
+2171	M	Solteiro(a)	1	SÃ£o Miguel Paulista
+2175	F	Casado(a)	5	SÃ£o Miguel Paulista
 2176	F	Casado(a)	5	Cidade tiradentes
 2177	M	Casado(a)	1	Itaquera
 2178	M	Casado(a)	1	Itaquera
-2181	M	Solteiro(a)	5	São Miguel Paulista
+2181	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 2182	M	Solteiro(a)	3	Itaquera
 2183	F	Casado(a)	4	Itaquera
 2185	F	Casado(a)	2	Vila Prudente
@@ -1166,7 +1166,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2224	F	Casado(a)	3	Guaianases
 2227	M	Solteiro(a)	2	Vila Prudente
 2228	F	Solteiro(a)	2	Itaquera
-2229	M	Solteiro(a)	4	São Miguel Paulista
+2229	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 2232	M	Solteiro(a)	2	Cidade tiradentes
 2234	M	Solteiro(a)	1	Itaquera
 2237	F	Solteiro(a)	4	Cidade tiradentes
@@ -1189,7 +1189,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2270	M	Solteiro(a)	3	Guaianases
 2271	M	Solteiro(a)	4	Itaquera
 2272	M	Solteiro(a)	1	Itaquera
-2273	F	Solteiro(a)	1	São Miguel Paulista
+2273	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 2278	M	Casado(a)	2	Itaquera
 2279	F	Solteiro(a)	1	Itaquera
 2280	F	Solteiro(a)	2	Itaquera
@@ -1203,7 +1203,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2300	F	Solteiro(a)	5	Cidade tiradentes
 2302	M	Solteiro(a)	3	Itaquera
 2304	M	Solteiro(a)	1	Itaquera
-2309	M	Solteiro(a)	4	São Miguel Paulista
+2309	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 2310	F	Casado(a)	4	Guaianases
 2311	M	Casado(a)	5	Itaquera
 2313	F	Casado(a)	3	Guaianases
@@ -1214,14 +1214,14 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2323	M	Solteiro(a)	3	Cidade tiradentes
 2324	M	Solteiro(a)	4	Cidade tiradentes
 2327	F	Casado(a)	4	Itaquera
-2329	M	Casado(a)	2	São Miguel Paulista
+2329	M	Casado(a)	2	SÃ£o Miguel Paulista
 2330	M	Casado(a)	4	Cidade tiradentes
 2331	F	Solteiro(a)	4	Guaianases
-2334	M	Solteiro(a)	2	São Miguel Paulista
+2334	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 2335	M	Solteiro(a)	2	Itaquera
 2337	M	Casado(a)	5	Cidade tiradentes
 2338	M	Solteiro(a)	1	Itaquera
-2341	M	Casado(a)	5	São Miguel Paulista
+2341	M	Casado(a)	5	SÃ£o Miguel Paulista
 2343	F	Solteiro(a)	4	Itaquera
 2344	M	Solteiro(a)	1	Itaquera
 2352	F	Casado(a)	3	Guaianases
@@ -1242,7 +1242,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2381	M	Casado(a)	3	Cidade tiradentes
 2384	F	Casado(a)	5	Guaianases
 2385	F	Solteiro(a)	1	Cidade tiradentes
-2388	F	Solteiro(a)	3	São Miguel Paulista
+2388	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 2389	M	Casado(a)	2	Itaquera
 2390	F	Casado(a)	3	Itaquera
 2391	F	Casado(a)	3	Cidade tiradentes
@@ -1267,21 +1267,21 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2429	M	Solteiro(a)	1	Itaquera
 2431	F	Solteiro(a)	4	Guaianases
 2432	M	Casado(a)	4	Cidade tiradentes
-2433	M	Casado(a)	1	São Miguel Paulista
-2434	F	Solteiro(a)	5	São Miguel Paulista
+2433	M	Casado(a)	1	SÃ£o Miguel Paulista
+2434	F	Solteiro(a)	5	SÃ£o Miguel Paulista
 2435	F	Casado(a)	5	Itaquera
 2437	F	Casado(a)	3	Guaianases
 2438	F	Casado(a)	1	Itaquera
-2439	F	Solteiro(a)	2	São Miguel Paulista
+2439	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 2441	M	Casado(a)	5	Itaquera
 2443	F	Solteiro(a)	4	Itaquera
 2444	F	Solteiro(a)	1	Itaquera
 2445	M	Casado(a)	2	Cidade tiradentes
-2446	M	Solteiro(a)	1	São Miguel Paulista
+2446	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 2447	M	Solteiro(a)	3	Itaquera
 2448	F	Solteiro(a)	1	Guaianases
 2449	M	Solteiro(a)	1	Cidade tiradentes
-2450	F	Casado(a)	1	São Miguel Paulista
+2450	F	Casado(a)	1	SÃ£o Miguel Paulista
 2451	M	Solteiro(a)	2	Cidade tiradentes
 2452	F	Solteiro(a)	1	Cidade tiradentes
 2457	F	Solteiro(a)	2	Cidade tiradentes
@@ -1291,19 +1291,19 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2462	F	Casado(a)	3	Cidade tiradentes
 2463	M	Casado(a)	4	Cidade tiradentes
 2464	F	Solteiro(a)	1	Cidade tiradentes
-2467	F	Casado(a)	4	São Miguel Paulista
+2467	F	Casado(a)	4	SÃ£o Miguel Paulista
 2468	F	Solteiro(a)	4	Itaquera
 2471	M	Solteiro(a)	2	Itaquera
 2472	M	Casado(a)	4	Cidade tiradentes
 2475	F	Solteiro(a)	5	Cidade tiradentes
-2476	F	Solteiro(a)	4	São Miguel Paulista
+2476	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 2478	F	Solteiro(a)	4	Guaianases
 2479	M	Solteiro(a)	4	Itaquera
 2480	M	Casado(a)	1	Cidade tiradentes
-2481	F	Solteiro(a)	3	São Miguel Paulista
+2481	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 2482	F	Casado(a)	4	Itaquera
 2483	F	Solteiro(a)	4	Guaianases
-2489	M	Casado(a)	4	São Miguel Paulista
+2489	M	Casado(a)	4	SÃ£o Miguel Paulista
 2491	M	Casado(a)	5	Cidade tiradentes
 2492	M	Solteiro(a)	4	Cidade tiradentes
 2493	F	Solteiro(a)	1	Itaquera
@@ -1320,7 +1320,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2513	M	Solteiro(a)	2	Guaianases
 2516	M	Casado(a)	5	Cidade tiradentes
 2518	M	Solteiro(a)	1	Vila Prudente
-2519	M	Casado(a)	1	São Miguel Paulista
+2519	M	Casado(a)	1	SÃ£o Miguel Paulista
 2523	M	Solteiro(a)	3	Cidade tiradentes
 2524	F	Solteiro(a)	3	Itaquera
 2525	M	Solteiro(a)	1	Itaquera
@@ -1329,16 +1329,16 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2528	M	Solteiro(a)	1	Guaianases
 2530	F	Casado(a)	3	Itaquera
 2531	F	Solteiro(a)	3	Vila Prudente
-2532	F	Solteiro(a)	4	São Miguel Paulista
+2532	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 2533	M	Casado(a)	1	Cidade tiradentes
 2535	M	Casado(a)	2	Guaianases
 2542	M	Casado(a)	4	Itaquera
 2544	F	Casado(a)	4	Vila Prudente
-2547	F	Casado(a)	3	São Miguel Paulista
+2547	F	Casado(a)	3	SÃ£o Miguel Paulista
 2548	M	Solteiro(a)	1	Itaquera
 2549	M	Solteiro(a)	3	Cidade tiradentes
 2550	M	Casado(a)	3	Guaianases
-2551	F	Casado(a)	4	São Miguel Paulista
+2551	F	Casado(a)	4	SÃ£o Miguel Paulista
 2553	M	Casado(a)	2	Guaianases
 2554	F	Solteiro(a)	1	Itaquera
 2555	M	Casado(a)	4	Itaquera
@@ -1359,7 +1359,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2584	F	Casado(a)	1	Guaianases
 2586	F	Solteiro(a)	1	Itaquera
 2587	F	Casado(a)	1	Guaianases
-2588	M	Casado(a)	3	São Miguel Paulista
+2588	M	Casado(a)	3	SÃ£o Miguel Paulista
 2589	M	Casado(a)	4	Cidade tiradentes
 2591	F	Solteiro(a)	1	Cidade tiradentes
 2592	M	Solteiro(a)	1	Itaquera
@@ -1375,21 +1375,21 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2618	F	Casado(a)	5	Cidade tiradentes
 2619	F	Solteiro(a)	2	Itaquera
 2621	F	Casado(a)	4	Cidade tiradentes
-2622	F	Solteiro(a)	4	São Miguel Paulista
+2622	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 2623	M	Casado(a)	2	Guaianases
 2625	F	Solteiro(a)	3	Itaquera
 2627	M	Solteiro(a)	1	Itaquera
 2628	M	Solteiro(a)	3	Cidade tiradentes
 2629	F	Casado(a)	4	Itaquera
 2632	M	Solteiro(a)	3	Itaquera
-2634	F	Casado(a)	5	São Miguel Paulista
+2634	F	Casado(a)	5	SÃ£o Miguel Paulista
 2636	F	Solteiro(a)	2	Itaquera
 2638	F	Casado(a)	3	Itaquera
-2641	F	Casado(a)	1	São Miguel Paulista
-2646	F	Casado(a)	2	São Miguel Paulista
+2641	F	Casado(a)	1	SÃ£o Miguel Paulista
+2646	F	Casado(a)	2	SÃ£o Miguel Paulista
 2647	M	Solteiro(a)	2	Cidade tiradentes
 2648	M	Casado(a)	1	Guaianases
-2649	F	Casado(a)	3	São Miguel Paulista
+2649	F	Casado(a)	3	SÃ£o Miguel Paulista
 2651	F	Casado(a)	5	Cidade tiradentes
 2652	F	Solteiro(a)	1	Cidade tiradentes
 2654	F	Casado(a)	3	Itaquera
@@ -1411,7 +1411,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2677	F	Solteiro(a)	1	Itaquera
 2678	M	Casado(a)	1	Guaianases
 2680	F	Solteiro(a)	4	Guaianases
-2682	F	Solteiro(a)	3	São Miguel Paulista
+2682	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 2684	F	Solteiro(a)	4	Itaquera
 2686	F	Casado(a)	1	Guaianases
 2687	F	Solteiro(a)	5	Guaianases
@@ -1422,7 +1422,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2693	F	Casado(a)	4	Itaquera
 2694	F	Solteiro(a)	2	Guaianases
 2695	F	Casado(a)	3	Itaquera
-2697	M	Casado(a)	1	São Miguel Paulista
+2697	M	Casado(a)	1	SÃ£o Miguel Paulista
 2698	M	Casado(a)	2	Itaquera
 2699	F	Casado(a)	3	Guaianases
 2700	F	Solteiro(a)	4	Guaianases
@@ -1437,7 +1437,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2712	M	Casado(a)	4	Cidade tiradentes
 2715	F	Solteiro(a)	3	Itaquera
 2716	F	Casado(a)	4	Itaquera
-2718	M	Casado(a)	1	São Miguel Paulista
+2718	M	Casado(a)	1	SÃ£o Miguel Paulista
 2723	F	Casado(a)	2	Guaianases
 2725	F	Solteiro(a)	2	Guaianases
 2727	F	Solteiro(a)	1	Guaianases
@@ -1472,13 +1472,13 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2791	F	Casado(a)	5	Guaianases
 2795	M	Casado(a)	3	Itaquera
 2796	F	Casado(a)	3	Cidade tiradentes
-2797	M	Solteiro(a)	2	São Miguel Paulista
+2797	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 2799	F	Solteiro(a)	2	Itaquera
 2801	M	Solteiro(a)	3	Vila Prudente
 2802	F	Casado(a)	5	Cidade tiradentes
 2808	M	Casado(a)	1	Itaquera
 2813	F	Casado(a)	5	Itaquera
-2814	M	Solteiro(a)	4	São Miguel Paulista
+2814	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 2815	F	Casado(a)	2	Vila Prudente
 2817	F	Solteiro(a)	4	Itaquera
 2818	M	Solteiro(a)	2	Itaquera
@@ -1486,11 +1486,11 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2825	F	Casado(a)	4	Guaianases
 2826	M	Solteiro(a)	2	Cidade tiradentes
 2828	F	Casado(a)	1	Cidade tiradentes
-2829	F	Solteiro(a)	1	São Miguel Paulista
+2829	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 2830	M	Solteiro(a)	4	Cidade tiradentes
 2832	M	Solteiro(a)	4	Itaquera
 2834	M	Casado(a)	3	Cidade tiradentes
-2838	M	Solteiro(a)	1	São Miguel Paulista
+2838	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 2840	M	Solteiro(a)	2	Cidade tiradentes
 2842	F	Casado(a)	3	Cidade tiradentes
 2844	F	Casado(a)	2	Itaquera
@@ -1502,7 +1502,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2857	M	Casado(a)	1	Itaquera
 2858	F	Casado(a)	3	Cidade tiradentes
 2861	M	Casado(a)	5	Cidade tiradentes
-2862	F	Casado(a)	1	São Miguel Paulista
+2862	F	Casado(a)	1	SÃ£o Miguel Paulista
 2863	M	Casado(a)	1	Itaquera
 2866	F	Solteiro(a)	2	Cidade tiradentes
 2868	M	Casado(a)	1	Cidade tiradentes
@@ -1514,7 +1514,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2879	M	Solteiro(a)	1	Itaquera
 2880	F	Casado(a)	2	Cidade tiradentes
 2882	M	Solteiro(a)	2	Guaianases
-2883	F	Casado(a)	1	São Miguel Paulista
+2883	F	Casado(a)	1	SÃ£o Miguel Paulista
 2885	F	Solteiro(a)	3	Guaianases
 2886	F	Casado(a)	3	Guaianases
 2890	F	Casado(a)	4	Itaquera
@@ -1527,7 +1527,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2905	M	Casado(a)	1	Guaianases
 2907	F	Solteiro(a)	3	Itaquera
 2908	M	Casado(a)	4	Guaianases
-2911	M	Solteiro(a)	5	São Miguel Paulista
+2911	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 2915	M	Casado(a)	1	Itaquera
 2916	M	Casado(a)	5	Itaquera
 2918	F	Solteiro(a)	3	Itaquera
@@ -1543,7 +1543,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2946	M	Solteiro(a)	2	Cidade tiradentes
 2947	F	Casado(a)	1	Itaquera
 2951	F	Casado(a)	3	Guaianases
-2952	F	Solteiro(a)	1	São Miguel Paulista
+2952	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 2954	F	Solteiro(a)	3	Vila Prudente
 2957	M	Solteiro(a)	3	Itaquera
 2958	M	Casado(a)	1	Guaianases
@@ -1551,16 +1551,16 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 2963	M	Solteiro(a)	4	Itaquera
 2965	F	Casado(a)	4	Vila Prudente
 2966	F	Solteiro(a)	2	Itaquera
-2967	M	Solteiro(a)	1	São Miguel Paulista
+2967	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 2968	M	Solteiro(a)	5	Itaquera
 2970	M	Casado(a)	3	Guaianases
 2973	M	Solteiro(a)	5	Itaquera
-2974	M	Casado(a)	1	São Miguel Paulista
+2974	M	Casado(a)	1	SÃ£o Miguel Paulista
 2976	M	Casado(a)	4	Itaquera
 2977	M	Solteiro(a)	4	Itaquera
-2981	F	Casado(a)	1	São Miguel Paulista
+2981	F	Casado(a)	1	SÃ£o Miguel Paulista
 2984	F	Casado(a)	2	Vila Prudente
-2986	M	Solteiro(a)	4	São Miguel Paulista
+2986	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 2988	M	Casado(a)	1	Itaquera
 2990	M	Casado(a)	2	Cidade tiradentes
 2994	M	Casado(a)	1	Guaianases
@@ -1583,9 +1583,9 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3021	F	Casado(a)	3	Guaianases
 3023	M	Casado(a)	2	Cidade tiradentes
 3024	F	Solteiro(a)	2	Itaquera
-3025	M	Solteiro(a)	2	São Miguel Paulista
+3025	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 3027	M	Casado(a)	3	Guaianases
-3032	F	Casado(a)	2	São Miguel Paulista
+3032	F	Casado(a)	2	SÃ£o Miguel Paulista
 3033	M	Solteiro(a)	2	Guaianases
 3034	M	Solteiro(a)	4	Cidade tiradentes
 3035	F	Solteiro(a)	4	Cidade tiradentes
@@ -1598,16 +1598,16 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3048	M	Solteiro(a)	1	Itaquera
 3049	M	Solteiro(a)	3	Guaianases
 3052	M	Solteiro(a)	2	Cidade tiradentes
-3056	F	Solteiro(a)	3	São Miguel Paulista
+3056	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 3060	M	Solteiro(a)	5	Vila Prudente
 3065	M	Solteiro(a)	3	Guaianases
 3066	F	Solteiro(a)	5	Guaianases
 3067	F	Solteiro(a)	1	Itaquera
 3068	F	Casado(a)	4	Guaianases
 3070	M	Casado(a)	3	Itaquera
-3075	M	Casado(a)	3	São Miguel Paulista
-3077	M	Solteiro(a)	5	São Miguel Paulista
-3080	M	Casado(a)	4	São Miguel Paulista
+3075	M	Casado(a)	3	SÃ£o Miguel Paulista
+3077	M	Solteiro(a)	5	SÃ£o Miguel Paulista
+3080	M	Casado(a)	4	SÃ£o Miguel Paulista
 3081	F	Solteiro(a)	2	Guaianases
 3085	M	Casado(a)	3	Cidade tiradentes
 3086	M	Solteiro(a)	1	Itaquera
@@ -1621,13 +1621,13 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3101	M	Casado(a)	3	Guaianases
 3102	M	Solteiro(a)	1	Guaianases
 3104	M	Solteiro(a)	4	Guaianases
-3108	F	Casado(a)	1	São Miguel Paulista
+3108	F	Casado(a)	1	SÃ£o Miguel Paulista
 3109	M	Solteiro(a)	4	Guaianases
 3111	M	Casado(a)	1	Guaianases
 3113	M	Casado(a)	3	Itaquera
 3115	M	Casado(a)	3	Itaquera
 3116	F	Solteiro(a)	2	Cidade tiradentes
-3119	F	Casado(a)	1	São Miguel Paulista
+3119	F	Casado(a)	1	SÃ£o Miguel Paulista
 3121	M	Casado(a)	4	Cidade tiradentes
 3124	F	Casado(a)	4	Guaianases
 3125	M	Solteiro(a)	5	Cidade tiradentes
@@ -1635,7 +1635,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3130	F	Solteiro(a)	5	Itaquera
 3131	F	Solteiro(a)	2	Itaquera
 3132	F	Solteiro(a)	4	Itaquera
-3138	M	Solteiro(a)	1	São Miguel Paulista
+3138	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 3139	F	Solteiro(a)	5	Guaianases
 3140	M	Casado(a)	2	Itaquera
 3143	F	Solteiro(a)	2	Itaquera
@@ -1646,29 +1646,29 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3158	F	Solteiro(a)	3	Itaquera
 3160	F	Casado(a)	1	Itaquera
 3161	F	Solteiro(a)	3	Itaquera
-3162	F	Casado(a)	1	São Miguel Paulista
+3162	F	Casado(a)	1	SÃ£o Miguel Paulista
 3163	F	Solteiro(a)	1	Itaquera
 3164	F	Casado(a)	1	Itaquera
 3166	M	Solteiro(a)	1	Guaianases
-3168	M	Casado(a)	5	São Miguel Paulista
+3168	M	Casado(a)	5	SÃ£o Miguel Paulista
 3169	M	Solteiro(a)	3	Itaquera
 3172	F	Casado(a)	1	Itaquera
-3174	F	Casado(a)	5	São Miguel Paulista
-3177	M	Casado(a)	1	São Miguel Paulista
+3174	F	Casado(a)	5	SÃ£o Miguel Paulista
+3177	M	Casado(a)	1	SÃ£o Miguel Paulista
 3178	F	Solteiro(a)	3	Guaianases
 3179	F	Casado(a)	5	Guaianases
 3180	F	Casado(a)	4	Guaianases
-3185	F	Solteiro(a)	2	São Miguel Paulista
-3186	F	Casado(a)	3	São Miguel Paulista
+3185	F	Solteiro(a)	2	SÃ£o Miguel Paulista
+3186	F	Casado(a)	3	SÃ£o Miguel Paulista
 3187	F	Solteiro(a)	3	Guaianases
 3188	M	Solteiro(a)	2	Cidade tiradentes
 3191	F	Solteiro(a)	1	Itaquera
-3192	M	Solteiro(a)	2	São Miguel Paulista
+3192	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 3193	M	Solteiro(a)	2	Guaianases
 3194	M	Casado(a)	1	Itaquera
-3195	M	Solteiro(a)	5	São Miguel Paulista
+3195	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 3196	M	Solteiro(a)	2	Itaquera
-3197	F	Solteiro(a)	5	São Miguel Paulista
+3197	F	Solteiro(a)	5	SÃ£o Miguel Paulista
 3198	M	Casado(a)	4	Itaquera
 3199	F	Casado(a)	4	Guaianases
 3201	F	Solteiro(a)	1	Guaianases
@@ -1693,7 +1693,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3229	F	Solteiro(a)	1	Vila Prudente
 3231	M	Solteiro(a)	3	Itaquera
 3233	F	Solteiro(a)	5	Cidade tiradentes
-3234	F	Casado(a)	2	São Miguel Paulista
+3234	F	Casado(a)	2	SÃ£o Miguel Paulista
 3236	F	Solteiro(a)	3	Itaquera
 3238	M	Casado(a)	1	Guaianases
 3239	F	Solteiro(a)	4	Itaquera
@@ -1707,14 +1707,14 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3253	M	Solteiro(a)	3	Itaquera
 3256	F	Casado(a)	4	Cidade tiradentes
 3258	F	Solteiro(a)	3	Cidade tiradentes
-3259	M	Solteiro(a)	1	São Miguel Paulista
-3267	M	Casado(a)	2	São Miguel Paulista
+3259	M	Solteiro(a)	1	SÃ£o Miguel Paulista
+3267	M	Casado(a)	2	SÃ£o Miguel Paulista
 3268	F	Casado(a)	5	Itaquera
 3269	M	Casado(a)	4	Cidade tiradentes
 3271	F	Casado(a)	2	Itaquera
 3273	F	Casado(a)	1	Guaianases
-3277	M	Casado(a)	4	São Miguel Paulista
-3278	F	Casado(a)	2	São Miguel Paulista
+3277	M	Casado(a)	4	SÃ£o Miguel Paulista
+3278	F	Casado(a)	2	SÃ£o Miguel Paulista
 3279	M	Solteiro(a)	1	Cidade tiradentes
 3280	F	Casado(a)	1	Cidade tiradentes
 3282	F	Casado(a)	5	Cidade tiradentes
@@ -1750,7 +1750,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3329	M	Casado(a)	2	Cidade tiradentes
 3330	M	Solteiro(a)	1	Cidade tiradentes
 3334	F	Casado(a)	2	Itaquera
-3335	F	Casado(a)	2	São Miguel Paulista
+3335	F	Casado(a)	2	SÃ£o Miguel Paulista
 3336	F	Solteiro(a)	2	Itaquera
 3338	M	Solteiro(a)	4	Cidade tiradentes
 3342	F	Casado(a)	2	Cidade tiradentes
@@ -1762,25 +1762,25 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3359	M	Solteiro(a)	3	Guaianases
 3360	M	Casado(a)	1	Itaquera
 3361	M	Casado(a)	1	Guaianases
-3363	F	Solteiro(a)	3	São Miguel Paulista
-3365	F	Solteiro(a)	5	São Miguel Paulista
-3366	M	Solteiro(a)	1	São Miguel Paulista
+3363	F	Solteiro(a)	3	SÃ£o Miguel Paulista
+3365	F	Solteiro(a)	5	SÃ£o Miguel Paulista
+3366	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 3370	F	Solteiro(a)	3	Cidade tiradentes
 3371	F	Solteiro(a)	1	Cidade tiradentes
-3372	M	Casado(a)	1	São Miguel Paulista
+3372	M	Casado(a)	1	SÃ£o Miguel Paulista
 3373	F	Casado(a)	5	Itaquera
-3377	F	Casado(a)	4	São Miguel Paulista
+3377	F	Casado(a)	4	SÃ£o Miguel Paulista
 3386	F	Casado(a)	4	Guaianases
 3387	F	Casado(a)	1	Guaianases
 3388	F	Casado(a)	4	Itaquera
 3390	F	Casado(a)	2	Guaianases
 3395	F	Casado(a)	4	Guaianases
-3396	M	Casado(a)	2	São Miguel Paulista
+3396	M	Casado(a)	2	SÃ£o Miguel Paulista
 3397	F	Solteiro(a)	2	Itaquera
 3399	F	Solteiro(a)	1	Vila Prudente
 3401	M	Casado(a)	1	Guaianases
 3404	F	Solteiro(a)	2	Guaianases
-3406	F	Casado(a)	2	São Miguel Paulista
+3406	F	Casado(a)	2	SÃ£o Miguel Paulista
 3408	F	Solteiro(a)	2	Cidade tiradentes
 3409	M	Casado(a)	3	Vila Prudente
 3410	F	Solteiro(a)	1	Guaianases
@@ -1792,10 +1792,10 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3416	F	Casado(a)	3	Cidade tiradentes
 3417	M	Solteiro(a)	5	Vila Prudente
 3418	M	Casado(a)	3	Guaianases
-3419	F	Solteiro(a)	3	São Miguel Paulista
-3422	M	Solteiro(a)	1	São Miguel Paulista
+3419	F	Solteiro(a)	3	SÃ£o Miguel Paulista
+3422	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 3423	F	Casado(a)	2	Itaquera
-3424	M	Casado(a)	1	São Miguel Paulista
+3424	M	Casado(a)	1	SÃ£o Miguel Paulista
 3425	M	Solteiro(a)	4	Guaianases
 3426	F	Casado(a)	1	Guaianases
 3434	F	Solteiro(a)	5	Guaianases
@@ -1810,16 +1810,16 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3446	F	Solteiro(a)	4	Vila Prudente
 3448	M	Casado(a)	2	Guaianases
 3449	F	Casado(a)	2	Cidade tiradentes
-3450	M	Casado(a)	1	São Miguel Paulista
+3450	M	Casado(a)	1	SÃ£o Miguel Paulista
 3452	M	Casado(a)	3	Guaianases
-3454	F	Casado(a)	1	São Miguel Paulista
+3454	F	Casado(a)	1	SÃ£o Miguel Paulista
 3455	F	Solteiro(a)	4	Itaquera
 3457	M	Casado(a)	1	Guaianases
 3458	F	Solteiro(a)	5	Guaianases
 3462	M	Solteiro(a)	4	Cidade tiradentes
 3463	M	Solteiro(a)	1	Itaquera
 3466	M	Casado(a)	1	Itaquera
-3468	F	Solteiro(a)	1	São Miguel Paulista
+3468	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 3469	M	Casado(a)	4	Guaianases
 3470	M	Casado(a)	2	Itaquera
 3471	F	Casado(a)	4	Guaianases
@@ -1829,8 +1829,8 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3480	F	Solteiro(a)	2	Itaquera
 3485	F	Solteiro(a)	3	Itaquera
 3486	M	Solteiro(a)	2	Itaquera
-3487	M	Casado(a)	3	São Miguel Paulista
-3489	M	Solteiro(a)	4	São Miguel Paulista
+3487	M	Casado(a)	3	SÃ£o Miguel Paulista
+3489	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 3490	F	Casado(a)	1	Itaquera
 3491	F	Casado(a)	3	Guaianases
 3495	F	Casado(a)	4	Guaianases
@@ -1845,7 +1845,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3513	F	Casado(a)	1	Itaquera
 3516	F	Casado(a)	1	Cidade tiradentes
 3517	M	Solteiro(a)	3	Vila Prudente
-3518	M	Solteiro(a)	3	São Miguel Paulista
+3518	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 3524	M	Solteiro(a)	1	Itaquera
 3525	M	Solteiro(a)	1	Cidade tiradentes
 3526	M	Casado(a)	1	Cidade tiradentes
@@ -1867,7 +1867,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3553	M	Solteiro(a)	3	Cidade tiradentes
 3558	F	Solteiro(a)	1	Guaianases
 3559	M	Casado(a)	3	Vila Prudente
-3560	M	Solteiro(a)	5	São Miguel Paulista
+3560	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 3561	M	Solteiro(a)	1	Guaianases
 3563	F	Casado(a)	1	Vila Prudente
 3564	F	Solteiro(a)	4	Vila Prudente
@@ -1875,8 +1875,8 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3571	F	Solteiro(a)	3	Cidade tiradentes
 3577	F	Casado(a)	4	Guaianases
 3580	M	Solteiro(a)	1	Cidade tiradentes
-3583	F	Solteiro(a)	2	São Miguel Paulista
-3584	M	Solteiro(a)	2	São Miguel Paulista
+3583	F	Solteiro(a)	2	SÃ£o Miguel Paulista
+3584	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 3585	F	Casado(a)	4	Cidade tiradentes
 3586	F	Solteiro(a)	3	Guaianases
 3587	M	Casado(a)	3	Cidade tiradentes
@@ -1889,15 +1889,15 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3598	M	Solteiro(a)	1	Cidade tiradentes
 3599	M	Casado(a)	2	Itaquera
 3600	F	Solteiro(a)	1	Cidade tiradentes
-3601	F	Casado(a)	2	São Miguel Paulista
-3602	F	Solteiro(a)	4	São Miguel Paulista
+3601	F	Casado(a)	2	SÃ£o Miguel Paulista
+3602	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 3604	M	Solteiro(a)	4	Itaquera
 3605	F	Solteiro(a)	3	Vila Prudente
-3608	F	Casado(a)	1	São Miguel Paulista
+3608	F	Casado(a)	1	SÃ£o Miguel Paulista
 3610	M	Casado(a)	1	Cidade tiradentes
 3611	F	Casado(a)	1	Guaianases
 3612	M	Solteiro(a)	1	Guaianases
-3613	F	Solteiro(a)	1	São Miguel Paulista
+3613	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 3615	F	Solteiro(a)	1	Itaquera
 3616	M	Casado(a)	4	Cidade tiradentes
 3620	M	Casado(a)	1	Itaquera
@@ -1914,7 +1914,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3643	F	Solteiro(a)	2	Vila Prudente
 3644	F	Solteiro(a)	4	Cidade tiradentes
 3645	M	Solteiro(a)	3	Vila Prudente
-3648	F	Solteiro(a)	2	São Miguel Paulista
+3648	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 3650	M	Casado(a)	2	Itaquera
 3652	M	Solteiro(a)	3	Itaquera
 3654	F	Casado(a)	3	Guaianases
@@ -1934,7 +1934,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3682	M	Casado(a)	4	Itaquera
 3683	M	Casado(a)	1	Itaquera
 3688	F	Casado(a)	3	Guaianases
-3689	F	Casado(a)	4	São Miguel Paulista
+3689	F	Casado(a)	4	SÃ£o Miguel Paulista
 3691	M	Casado(a)	3	Itaquera
 3692	M	Solteiro(a)	1	Guaianases
 3693	M	Solteiro(a)	1	Guaianases
@@ -1946,14 +1946,14 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3706	M	Solteiro(a)	2	Itaquera
 3709	M	Solteiro(a)	1	Itaquera
 3711	M	Solteiro(a)	2	Guaianases
-3713	F	Solteiro(a)	4	São Miguel Paulista
-3714	F	Casado(a)	3	São Miguel Paulista
+3713	F	Solteiro(a)	4	SÃ£o Miguel Paulista
+3714	F	Casado(a)	3	SÃ£o Miguel Paulista
 3716	F	Casado(a)	4	Itaquera
 3718	F	Casado(a)	2	Guaianases
-3719	F	Solteiro(a)	3	São Miguel Paulista
+3719	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 3721	M	Solteiro(a)	1	Vila Prudente
-3724	F	Casado(a)	1	São Miguel Paulista
-3725	M	Casado(a)	4	São Miguel Paulista
+3724	F	Casado(a)	1	SÃ£o Miguel Paulista
+3725	M	Casado(a)	4	SÃ£o Miguel Paulista
 3727	F	Casado(a)	4	Vila Prudente
 3728	M	Casado(a)	4	Itaquera
 3729	F	Casado(a)	4	Cidade tiradentes
@@ -1965,7 +1965,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3742	M	Casado(a)	2	Guaianases
 3744	F	Solteiro(a)	1	Cidade tiradentes
 3746	F	Solteiro(a)	3	Guaianases
-3747	F	Solteiro(a)	4	São Miguel Paulista
+3747	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 3748	F	Casado(a)	4	Itaquera
 3749	F	Casado(a)	1	Itaquera
 3750	M	Solteiro(a)	2	Cidade tiradentes
@@ -1977,8 +1977,8 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3758	M	Solteiro(a)	3	Guaianases
 3759	F	Solteiro(a)	2	Itaquera
 3760	F	Solteiro(a)	4	Cidade tiradentes
-3761	F	Solteiro(a)	4	São Miguel Paulista
-3762	F	Casado(a)	4	São Miguel Paulista
+3761	F	Solteiro(a)	4	SÃ£o Miguel Paulista
+3762	F	Casado(a)	4	SÃ£o Miguel Paulista
 3763	F	Solteiro(a)	4	Guaianases
 3768	M	Casado(a)	2	Itaquera
 3771	M	Solteiro(a)	5	Cidade tiradentes
@@ -1991,29 +1991,29 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3787	F	Solteiro(a)	5	Guaianases
 3790	M	Casado(a)	1	Cidade tiradentes
 3794	F	Casado(a)	1	Guaianases
-3795	M	Casado(a)	2	São Miguel Paulista
+3795	M	Casado(a)	2	SÃ£o Miguel Paulista
 3796	M	Solteiro(a)	3	Guaianases
 3797	M	Casado(a)	5	Guaianases
 3799	F	Solteiro(a)	2	Itaquera
 3801	F	Solteiro(a)	2	Guaianases
 3802	F	Solteiro(a)	4	Itaquera
 3804	M	Solteiro(a)	4	Guaianases
-3805	M	Solteiro(a)	5	São Miguel Paulista
+3805	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 3807	F	Solteiro(a)	2	Cidade tiradentes
 3808	F	Casado(a)	4	Guaianases
 3809	M	Solteiro(a)	3	Cidade tiradentes
 3810	M	Casado(a)	1	Cidade tiradentes
 3816	F	Solteiro(a)	2	Guaianases
 3817	F	Casado(a)	4	Itaquera
-3819	M	Solteiro(a)	3	São Miguel Paulista
+3819	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 3821	M	Solteiro(a)	1	Itaquera
-3823	M	Solteiro(a)	2	São Miguel Paulista
+3823	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 3825	M	Solteiro(a)	5	Vila Prudente
 3826	M	Casado(a)	2	Guaianases
 3827	M	Solteiro(a)	2	Itaquera
 3828	M	Casado(a)	5	Guaianases
 3829	M	Casado(a)	4	Cidade tiradentes
-3833	F	Solteiro(a)	1	São Miguel Paulista
+3833	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 3838	M	Casado(a)	5	Itaquera
 3840	F	Casado(a)	1	Itaquera
 3841	M	Solteiro(a)	2	Cidade tiradentes
@@ -2023,14 +2023,14 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3852	F	Casado(a)	1	Guaianases
 3854	M	Solteiro(a)	1	Itaquera
 3855	M	Solteiro(a)	2	Itaquera
-3856	F	Casado(a)	1	São Miguel Paulista
+3856	F	Casado(a)	1	SÃ£o Miguel Paulista
 3857	F	Casado(a)	2	Cidade tiradentes
 3858	F	Solteiro(a)	1	Guaianases
 3859	M	Solteiro(a)	4	Guaianases
 3861	F	Casado(a)	4	Vila Prudente
 3864	M	Solteiro(a)	3	Cidade tiradentes
 3869	M	Casado(a)	3	Itaquera
-3870	M	Solteiro(a)	1	São Miguel Paulista
+3870	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 3871	F	Casado(a)	1	Cidade tiradentes
 3873	M	Casado(a)	4	Guaianases
 3875	F	Casado(a)	1	Cidade tiradentes
@@ -2052,16 +2052,16 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3903	F	Solteiro(a)	1	Cidade tiradentes
 3904	F	Solteiro(a)	2	Cidade tiradentes
 3906	M	Solteiro(a)	2	Itaquera
-3909	F	Solteiro(a)	4	São Miguel Paulista
+3909	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 3911	M	Solteiro(a)	3	Itaquera
 3912	M	Solteiro(a)	3	Itaquera
-3916	M	Solteiro(a)	4	São Miguel Paulista
+3916	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 3917	F	Casado(a)	1	Itaquera
 3918	M	Casado(a)	5	Itaquera
-3921	F	Solteiro(a)	1	São Miguel Paulista
+3921	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 3922	M	Casado(a)	3	Itaquera
 3925	F	Casado(a)	1	Guaianases
-3928	M	Solteiro(a)	1	São Miguel Paulista
+3928	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 3929	F	Casado(a)	2	Itaquera
 3930	M	Casado(a)	1	Itaquera
 3932	F	Solteiro(a)	2	Itaquera
@@ -2075,12 +2075,12 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3942	M	Solteiro(a)	3	Itaquera
 3945	M	Solteiro(a)	1	Itaquera
 3946	F	Casado(a)	3	Itaquera
-3949	M	Casado(a)	5	São Miguel Paulista
+3949	M	Casado(a)	5	SÃ£o Miguel Paulista
 3950	F	Solteiro(a)	5	Itaquera
 3951	M	Casado(a)	4	Cidade tiradentes
 3952	M	Casado(a)	1	Cidade tiradentes
 3953	F	Casado(a)	4	Vila Prudente
-3957	M	Solteiro(a)	4	São Miguel Paulista
+3957	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 3961	M	Solteiro(a)	3	Cidade tiradentes
 3964	M	Casado(a)	3	Cidade tiradentes
 3965	M	Casado(a)	1	Guaianases
@@ -2091,7 +2091,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3974	F	Solteiro(a)	2	Cidade tiradentes
 3976	M	Casado(a)	2	Itaquera
 3977	F	Solteiro(a)	2	Itaquera
-3978	F	Casado(a)	4	São Miguel Paulista
+3978	F	Casado(a)	4	SÃ£o Miguel Paulista
 3979	M	Solteiro(a)	1	Itaquera
 3980	M	Casado(a)	2	Itaquera
 3981	F	Solteiro(a)	4	Cidade tiradentes
@@ -2103,8 +2103,8 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 3993	M	Solteiro(a)	1	Guaianases
 3994	F	Casado(a)	1	Itaquera
 3996	M	Casado(a)	2	Cidade tiradentes
-4001	F	Casado(a)	1	São Miguel Paulista
-4003	F	Casado(a)	4	São Miguel Paulista
+4001	F	Casado(a)	1	SÃ£o Miguel Paulista
+4003	F	Casado(a)	4	SÃ£o Miguel Paulista
 4004	F	Casado(a)	3	Itaquera
 4005	F	Solteiro(a)	1	Itaquera
 4006	M	Casado(a)	2	Cidade tiradentes
@@ -2116,7 +2116,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4016	F	Casado(a)	5	Itaquera
 4018	F	Solteiro(a)	4	Vila Prudente
 4019	F	Solteiro(a)	4	Guaianases
-4020	M	Solteiro(a)	2	São Miguel Paulista
+4020	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 4021	M	Casado(a)	3	Guaianases
 4023	F	Solteiro(a)	4	Cidade tiradentes
 4026	F	Casado(a)	5	Guaianases
@@ -2127,7 +2127,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4032	F	Solteiro(a)	3	Guaianases
 4033	M	Solteiro(a)	5	Cidade tiradentes
 4039	M	Solteiro(a)	1	Guaianases
-4040	F	Casado(a)	1	São Miguel Paulista
+4040	F	Casado(a)	1	SÃ£o Miguel Paulista
 4041	M	Solteiro(a)	3	Guaianases
 4043	F	Solteiro(a)	4	Cidade tiradentes
 4044	M	Solteiro(a)	2	Cidade tiradentes
@@ -2144,8 +2144,8 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4067	F	Casado(a)	3	Guaianases
 4068	F	Solteiro(a)	4	Cidade tiradentes
 4069	F	Solteiro(a)	1	Itaquera
-4070	M	Casado(a)	2	São Miguel Paulista
-4071	F	Casado(a)	5	São Miguel Paulista
+4070	M	Casado(a)	2	SÃ£o Miguel Paulista
+4071	F	Casado(a)	5	SÃ£o Miguel Paulista
 4072	F	Solteiro(a)	2	Cidade tiradentes
 4075	M	Casado(a)	2	Guaianases
 4076	M	Casado(a)	1	Vila Prudente
@@ -2161,7 +2161,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4096	M	Solteiro(a)	2	Guaianases
 4099	M	Casado(a)	3	Itaquera
 4100	F	Solteiro(a)	1	Itaquera
-4101	M	Solteiro(a)	4	São Miguel Paulista
+4101	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 4103	M	Casado(a)	3	Guaianases
 4104	M	Casado(a)	3	Cidade tiradentes
 4105	F	Casado(a)	2	Guaianases
@@ -2176,7 +2176,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4121	M	Solteiro(a)	1	Itaquera
 4122	F	Solteiro(a)	3	Itaquera
 4125	M	Casado(a)	3	Guaianases
-4126	M	Casado(a)	1	São Miguel Paulista
+4126	M	Casado(a)	1	SÃ£o Miguel Paulista
 4127	M	Casado(a)	3	Itaquera
 4131	F	Casado(a)	3	Itaquera
 4133	F	Solteiro(a)	1	Guaianases
@@ -2186,9 +2186,9 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4143	F	Solteiro(a)	2	Guaianases
 4147	M	Solteiro(a)	2	Cidade tiradentes
 4149	F	Casado(a)	2	Guaianases
-4150	M	Casado(a)	3	São Miguel Paulista
+4150	M	Casado(a)	3	SÃ£o Miguel Paulista
 4151	M	Solteiro(a)	4	Cidade tiradentes
-4152	F	Solteiro(a)	4	São Miguel Paulista
+4152	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 4153	M	Casado(a)	4	Itaquera
 4154	F	Solteiro(a)	4	Vila Prudente
 4157	M	Solteiro(a)	3	Itaquera
@@ -2198,24 +2198,24 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4166	F	Solteiro(a)	3	Itaquera
 4169	M	Casado(a)	1	Cidade tiradentes
 4170	F	Solteiro(a)	5	Cidade tiradentes
-4174	F	Solteiro(a)	4	São Miguel Paulista
+4174	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 4175	F	Casado(a)	5	Guaianases
 4176	M	Casado(a)	3	Guaianases
 4179	M	Casado(a)	1	Guaianases
 4180	F	Solteiro(a)	3	Itaquera
 4185	F	Casado(a)	2	Guaianases
 4186	F	Solteiro(a)	1	Itaquera
-4187	F	Casado(a)	5	São Miguel Paulista
+4187	F	Casado(a)	5	SÃ£o Miguel Paulista
 4188	F	Solteiro(a)	1	Cidade tiradentes
 4191	F	Casado(a)	1	Itaquera
 4193	M	Solteiro(a)	3	Guaianases
 4195	F	Solteiro(a)	1	Cidade tiradentes
 4197	M	Casado(a)	3	Itaquera
-4198	F	Casado(a)	5	São Miguel Paulista
-4202	F	Casado(a)	4	São Miguel Paulista
+4198	F	Casado(a)	5	SÃ£o Miguel Paulista
+4202	F	Casado(a)	4	SÃ£o Miguel Paulista
 4204	M	Casado(a)	5	Itaquera
 4205	M	Casado(a)	1	Itaquera
-4208	M	Solteiro(a)	1	São Miguel Paulista
+4208	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 4209	M	Solteiro(a)	4	Vila Prudente
 4210	F	Solteiro(a)	5	Vila Prudente
 4211	F	Solteiro(a)	5	Guaianases
@@ -2235,7 +2235,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4231	F	Solteiro(a)	3	Itaquera
 4232	F	Solteiro(a)	2	Itaquera
 4234	F	Solteiro(a)	4	Guaianases
-4235	M	Solteiro(a)	1	São Miguel Paulista
+4235	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 4239	F	Solteiro(a)	4	Itaquera
 4240	M	Casado(a)	3	Guaianases
 4241	M	Solteiro(a)	2	Vila Prudente
@@ -2244,7 +2244,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4246	F	Solteiro(a)	4	Itaquera
 4247	F	Casado(a)	3	Guaianases
 4249	F	Casado(a)	3	Guaianases
-4250	F	Casado(a)	1	São Miguel Paulista
+4250	F	Casado(a)	1	SÃ£o Miguel Paulista
 4252	M	Solteiro(a)	1	Itaquera
 4253	F	Solteiro(a)	2	Itaquera
 4255	M	Casado(a)	1	Guaianases
@@ -2252,18 +2252,18 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4257	F	Solteiro(a)	2	Guaianases
 4258	M	Casado(a)	4	Itaquera
 4259	M	Solteiro(a)	1	Itaquera
-4260	M	Solteiro(a)	5	São Miguel Paulista
+4260	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 4261	M	Solteiro(a)	2	Itaquera
 4263	M	Casado(a)	4	Guaianases
 4268	M	Casado(a)	1	Guaianases
 4271	M	Casado(a)	1	Cidade tiradentes
 4273	M	Casado(a)	5	Guaianases
 4274	M	Casado(a)	1	Guaianases
-4277	M	Solteiro(a)	1	São Miguel Paulista
+4277	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 4279	F	Casado(a)	1	Cidade tiradentes
 4282	F	Casado(a)	3	Itaquera
 4283	M	Solteiro(a)	5	Itaquera
-4284	F	Casado(a)	4	São Miguel Paulista
+4284	F	Casado(a)	4	SÃ£o Miguel Paulista
 4285	F	Solteiro(a)	1	Cidade tiradentes
 4287	F	Solteiro(a)	4	Itaquera
 4288	F	Casado(a)	4	Guaianases
@@ -2278,7 +2278,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4311	M	Casado(a)	5	Vila Prudente
 4315	M	Solteiro(a)	2	Itaquera
 4317	F	Casado(a)	2	Cidade tiradentes
-4319	M	Solteiro(a)	3	São Miguel Paulista
+4319	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 4320	M	Casado(a)	5	Cidade tiradentes
 4321	M	Casado(a)	5	Itaquera
 4323	F	Solteiro(a)	2	Vila Prudente
@@ -2294,22 +2294,22 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4344	M	Solteiro(a)	1	Itaquera
 4346	M	Solteiro(a)	1	Cidade tiradentes
 4349	M	Solteiro(a)	3	Itaquera
-4350	F	Casado(a)	2	São Miguel Paulista
-4351	M	Solteiro(a)	5	São Miguel Paulista
+4350	F	Casado(a)	2	SÃ£o Miguel Paulista
+4351	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 4352	F	Casado(a)	1	Itaquera
-4355	F	Casado(a)	1	São Miguel Paulista
+4355	F	Casado(a)	1	SÃ£o Miguel Paulista
 4357	F	Solteiro(a)	2	Itaquera
 4359	M	Solteiro(a)	4	Vila Prudente
 4360	M	Casado(a)	4	Cidade tiradentes
 4361	F	Casado(a)	2	Cidade tiradentes
-4362	F	Casado(a)	1	São Miguel Paulista
+4362	F	Casado(a)	1	SÃ£o Miguel Paulista
 4364	M	Solteiro(a)	4	Itaquera
 4367	F	Casado(a)	1	Itaquera
 4368	M	Solteiro(a)	3	Itaquera
 4370	M	Solteiro(a)	2	Guaianases
 4372	F	Solteiro(a)	1	Itaquera
 4373	M	Solteiro(a)	1	Guaianases
-4374	F	Solteiro(a)	3	São Miguel Paulista
+4374	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 4375	M	Solteiro(a)	1	Itaquera
 4376	M	Casado(a)	4	Guaianases
 4377	F	Casado(a)	1	Cidade tiradentes
@@ -2341,11 +2341,11 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4423	M	Solteiro(a)	3	Itaquera
 4425	M	Casado(a)	1	Itaquera
 4426	F	Casado(a)	5	Cidade tiradentes
-4429	M	Solteiro(a)	4	São Miguel Paulista
+4429	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 4431	F	Solteiro(a)	4	Itaquera
 4434	F	Casado(a)	1	Itaquera
 4436	F	Casado(a)	1	Guaianases
-4437	M	Solteiro(a)	2	São Miguel Paulista
+4437	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 4438	F	Solteiro(a)	3	Cidade tiradentes
 4440	F	Solteiro(a)	1	Itaquera
 4443	F	Solteiro(a)	1	Guaianases
@@ -2367,13 +2367,13 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4467	M	Solteiro(a)	1	Guaianases
 4470	F	Solteiro(a)	2	Cidade tiradentes
 4471	M	Casado(a)	3	Guaianases
-4475	F	Solteiro(a)	2	São Miguel Paulista
+4475	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 4476	F	Solteiro(a)	5	Guaianases
 4477	M	Casado(a)	2	Cidade tiradentes
 4479	M	Casado(a)	1	Itaquera
 4483	F	Solteiro(a)	1	Vila Prudente
 4484	M	Casado(a)	3	Itaquera
-4485	F	Solteiro(a)	3	São Miguel Paulista
+4485	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 4486	F	Solteiro(a)	1	Cidade tiradentes
 4487	F	Solteiro(a)	2	Vila Prudente
 4488	F	Casado(a)	1	Cidade tiradentes
@@ -2386,7 +2386,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4499	M	Casado(a)	4	Itaquera
 4501	F	Casado(a)	4	Cidade tiradentes
 4503	M	Solteiro(a)	1	Itaquera
-4504	M	Casado(a)	4	São Miguel Paulista
+4504	M	Casado(a)	4	SÃ£o Miguel Paulista
 4507	F	Casado(a)	4	Itaquera
 4508	M	Casado(a)	1	Itaquera
 4510	F	Solteiro(a)	2	Cidade tiradentes
@@ -2400,7 +2400,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4525	F	Solteiro(a)	5	Cidade tiradentes
 4527	M	Casado(a)	1	Guaianases
 4528	M	Casado(a)	2	Itaquera
-4531	M	Casado(a)	1	São Miguel Paulista
+4531	M	Casado(a)	1	SÃ£o Miguel Paulista
 4534	F	Solteiro(a)	2	Cidade tiradentes
 4537	M	Casado(a)	4	Itaquera
 4538	F	Solteiro(a)	3	Cidade tiradentes
@@ -2421,10 +2421,10 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4562	F	Casado(a)	1	Guaianases
 4564	M	Solteiro(a)	4	Itaquera
 4566	M	Casado(a)	1	Guaianases
-4567	M	Casado(a)	5	São Miguel Paulista
+4567	M	Casado(a)	5	SÃ£o Miguel Paulista
 4568	F	Solteiro(a)	2	Cidade tiradentes
 4570	F	Casado(a)	5	Vila Prudente
-4571	F	Casado(a)	5	São Miguel Paulista
+4571	F	Casado(a)	5	SÃ£o Miguel Paulista
 4573	M	Solteiro(a)	5	Itaquera
 4576	M	Solteiro(a)	1	Cidade tiradentes
 4579	F	Casado(a)	2	Guaianases
@@ -2441,10 +2441,10 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4599	M	Solteiro(a)	3	Cidade tiradentes
 4600	F	Solteiro(a)	3	Vila Prudente
 4606	F	Casado(a)	1	Guaianases
-4607	M	Casado(a)	1	São Miguel Paulista
+4607	M	Casado(a)	1	SÃ£o Miguel Paulista
 4608	F	Solteiro(a)	1	Guaianases
-4609	M	Solteiro(a)	2	São Miguel Paulista
-4610	M	Solteiro(a)	1	São Miguel Paulista
+4609	M	Solteiro(a)	2	SÃ£o Miguel Paulista
+4610	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 4614	F	Solteiro(a)	2	Guaianases
 4615	F	Casado(a)	2	Itaquera
 4616	F	Solteiro(a)	1	Itaquera
@@ -2493,14 +2493,14 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4682	M	Casado(a)	4	Itaquera
 4686	F	Solteiro(a)	2	Itaquera
 4687	M	Solteiro(a)	3	Guaianases
-4689	M	Casado(a)	3	São Miguel Paulista
+4689	M	Casado(a)	3	SÃ£o Miguel Paulista
 4690	M	Casado(a)	4	Itaquera
 4691	F	Solteiro(a)	2	Itaquera
 4692	M	Solteiro(a)	3	Itaquera
 4693	M	Solteiro(a)	2	Guaianases
 4695	F	Solteiro(a)	3	Itaquera
 4697	F	Solteiro(a)	3	Itaquera
-4698	F	Solteiro(a)	2	São Miguel Paulista
+4698	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 4699	M	Casado(a)	3	Itaquera
 4700	M	Solteiro(a)	4	Itaquera
 4707	F	Casado(a)	2	Guaianases
@@ -2509,7 +2509,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4712	M	Solteiro(a)	5	Itaquera
 4714	F	Solteiro(a)	3	Cidade tiradentes
 4718	M	Solteiro(a)	1	Cidade tiradentes
-4719	F	Casado(a)	1	São Miguel Paulista
+4719	F	Casado(a)	1	SÃ£o Miguel Paulista
 4720	M	Solteiro(a)	2	Cidade tiradentes
 4722	M	Solteiro(a)	1	Itaquera
 4724	M	Solteiro(a)	2	Itaquera
@@ -2517,11 +2517,11 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4727	F	Casado(a)	4	Guaianases
 4730	F	Solteiro(a)	4	Vila Prudente
 4731	F	Solteiro(a)	3	Guaianases
-4732	M	Casado(a)	1	São Miguel Paulista
+4732	M	Casado(a)	1	SÃ£o Miguel Paulista
 4736	M	Casado(a)	3	Itaquera
 4738	F	Solteiro(a)	3	Cidade tiradentes
 4739	M	Casado(a)	2	Itaquera
-4742	M	Solteiro(a)	3	São Miguel Paulista
+4742	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 4743	F	Casado(a)	4	Itaquera
 4745	F	Casado(a)	2	Cidade tiradentes
 4747	M	Solteiro(a)	1	Cidade tiradentes
@@ -2550,20 +2550,20 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4796	F	Casado(a)	4	Cidade tiradentes
 4797	M	Casado(a)	2	Cidade tiradentes
 4798	F	Solteiro(a)	1	Cidade tiradentes
-4803	M	Solteiro(a)	2	São Miguel Paulista
+4803	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 4804	F	Casado(a)	4	Itaquera
-4807	F	Casado(a)	3	São Miguel Paulista
+4807	F	Casado(a)	3	SÃ£o Miguel Paulista
 4808	M	Solteiro(a)	3	Guaianases
-4810	F	Solteiro(a)	5	São Miguel Paulista
+4810	F	Solteiro(a)	5	SÃ£o Miguel Paulista
 4813	F	Casado(a)	1	Itaquera
 4815	F	Casado(a)	1	Itaquera
 4819	F	Solteiro(a)	1	Cidade tiradentes
 4821	M	Casado(a)	1	Cidade tiradentes
 4822	F	Casado(a)	3	Vila Prudente
-4823	F	Solteiro(a)	3	São Miguel Paulista
+4823	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 4824	M	Solteiro(a)	5	Guaianases
 4825	F	Casado(a)	3	Cidade tiradentes
-4826	F	Solteiro(a)	5	São Miguel Paulista
+4826	F	Solteiro(a)	5	SÃ£o Miguel Paulista
 4828	M	Casado(a)	4	Itaquera
 4829	M	Solteiro(a)	1	Guaianases
 4831	F	Solteiro(a)	1	Cidade tiradentes
@@ -2591,7 +2591,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4875	M	Casado(a)	4	Itaquera
 4876	F	Solteiro(a)	2	Itaquera
 4877	M	Casado(a)	4	Itaquera
-4878	F	Solteiro(a)	2	São Miguel Paulista
+4878	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 4879	M	Casado(a)	3	Guaianases
 4881	M	Casado(a)	3	Itaquera
 4882	F	Solteiro(a)	1	Vila Prudente
@@ -2605,7 +2605,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4901	F	Solteiro(a)	3	Itaquera
 4903	M	Casado(a)	2	Guaianases
 4906	M	Solteiro(a)	1	Guaianases
-4907	M	Solteiro(a)	4	São Miguel Paulista
+4907	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 4909	M	Casado(a)	2	Itaquera
 4912	F	Solteiro(a)	3	Cidade tiradentes
 4913	M	Solteiro(a)	1	Cidade tiradentes
@@ -2617,7 +2617,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4925	F	Solteiro(a)	1	Guaianases
 4928	M	Solteiro(a)	4	Itaquera
 4929	F	Casado(a)	1	Cidade tiradentes
-4932	F	Solteiro(a)	1	São Miguel Paulista
+4932	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 4936	M	Solteiro(a)	2	Cidade tiradentes
 4937	M	Casado(a)	1	Cidade tiradentes
 4938	F	Solteiro(a)	4	Itaquera
@@ -2626,44 +2626,44 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 4942	F	Casado(a)	2	Guaianases
 4943	F	Casado(a)	4	Guaianases
 4946	F	Casado(a)	1	Guaianases
-4947	M	Casado(a)	4	São Miguel Paulista
+4947	M	Casado(a)	4	SÃ£o Miguel Paulista
 4948	M	Casado(a)	5	Itaquera
 4951	M	Solteiro(a)	5	Itaquera
 4953	M	Solteiro(a)	5	Guaianases
 4954	F	Casado(a)	4	Guaianases
-4956	M	Casado(a)	4	São Miguel Paulista
-4958	M	Solteiro(a)	1	São Miguel Paulista
+4956	M	Casado(a)	4	SÃ£o Miguel Paulista
+4958	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 4960	M	Casado(a)	1	Cidade tiradentes
 4961	M	Solteiro(a)	4	Itaquera
 4962	F	Casado(a)	1	Guaianases
 4964	F	Casado(a)	2	Vila Prudente
-4965	F	Solteiro(a)	4	São Miguel Paulista
+4965	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 4972	M	Casado(a)	5	Cidade tiradentes
 4973	M	Solteiro(a)	1	Itaquera
 4977	M	Casado(a)	1	Cidade tiradentes
 4978	M	Casado(a)	1	Cidade tiradentes
 4979	M	Casado(a)	1	Vila Prudente
 4981	F	Solteiro(a)	1	Vila Prudente
-4983	M	Solteiro(a)	2	São Miguel Paulista
-4984	F	Solteiro(a)	3	São Miguel Paulista
-4985	M	Solteiro(a)	3	São Miguel Paulista
+4983	M	Solteiro(a)	2	SÃ£o Miguel Paulista
+4984	F	Solteiro(a)	3	SÃ£o Miguel Paulista
+4985	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 4987	F	Solteiro(a)	3	Itaquera
 4995	M	Solteiro(a)	2	Itaquera
 4998	M	Solteiro(a)	3	Guaianases
 5000	F	Solteiro(a)	1	Guaianases
 5001	M	Solteiro(a)	5	Cidade tiradentes
-5002	M	Casado(a)	2	São Miguel Paulista
+5002	M	Casado(a)	2	SÃ£o Miguel Paulista
 5005	M	Casado(a)	2	Vila Prudente
 5007	M	Casado(a)	3	Cidade tiradentes
-5008	F	Solteiro(a)	1	São Miguel Paulista
+5008	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 5009	M	Solteiro(a)	1	Itaquera
 5013	M	Casado(a)	2	Cidade tiradentes
 5014	M	Solteiro(a)	5	Cidade tiradentes
 5015	F	Casado(a)	1	Vila Prudente
 5016	M	Casado(a)	5	Itaquera
-5017	M	Solteiro(a)	1	São Miguel Paulista
+5017	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 5018	M	Casado(a)	3	Itaquera
-5019	F	Casado(a)	4	São Miguel Paulista
+5019	F	Casado(a)	4	SÃ£o Miguel Paulista
 5020	M	Casado(a)	4	Cidade tiradentes
 5022	M	Solteiro(a)	2	Itaquera
 5023	F	Solteiro(a)	3	Itaquera
@@ -2673,7 +2673,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5029	M	Casado(a)	3	Cidade tiradentes
 5031	M	Casado(a)	2	Cidade tiradentes
 5032	M	Solteiro(a)	4	Itaquera
-5036	M	Solteiro(a)	1	São Miguel Paulista
+5036	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 5037	M	Solteiro(a)	1	Guaianases
 5038	M	Solteiro(a)	2	Itaquera
 5040	M	Casado(a)	3	Itaquera
@@ -2681,7 +2681,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5046	F	Solteiro(a)	1	Vila Prudente
 5050	F	Solteiro(a)	3	Itaquera
 5052	F	Solteiro(a)	5	Vila Prudente
-5053	M	Casado(a)	2	São Miguel Paulista
+5053	M	Casado(a)	2	SÃ£o Miguel Paulista
 5054	F	Casado(a)	2	Cidade tiradentes
 5055	M	Solteiro(a)	5	Cidade tiradentes
 5056	F	Casado(a)	5	Itaquera
@@ -2689,15 +2689,15 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5060	M	Casado(a)	3	Itaquera
 5062	M	Casado(a)	4	Itaquera
 5063	M	Casado(a)	3	Guaianases
-5065	F	Solteiro(a)	1	São Miguel Paulista
+5065	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 5067	M	Solteiro(a)	2	Itaquera
 5068	M	Solteiro(a)	3	Vila Prudente
 5069	M	Solteiro(a)	1	Cidade tiradentes
 5070	F	Solteiro(a)	3	Itaquera
-5071	F	Casado(a)	1	São Miguel Paulista
+5071	F	Casado(a)	1	SÃ£o Miguel Paulista
 5073	F	Casado(a)	1	Vila Prudente
 5077	M	Casado(a)	1	Cidade tiradentes
-5078	F	Solteiro(a)	4	São Miguel Paulista
+5078	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 5079	F	Casado(a)	3	Cidade tiradentes
 5081	F	Solteiro(a)	3	Cidade tiradentes
 5083	F	Casado(a)	1	Cidade tiradentes
@@ -2705,12 +2705,12 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5086	F	Solteiro(a)	3	Itaquera
 5088	F	Casado(a)	2	Itaquera
 5089	F	Solteiro(a)	2	Cidade tiradentes
-5090	M	Solteiro(a)	4	São Miguel Paulista
+5090	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 5092	F	Solteiro(a)	3	Itaquera
 5094	M	Solteiro(a)	1	Vila Prudente
 5095	F	Casado(a)	4	Cidade tiradentes
 5096	M	Solteiro(a)	1	Itaquera
-5099	F	Casado(a)	1	São Miguel Paulista
+5099	F	Casado(a)	1	SÃ£o Miguel Paulista
 5101	F	Solteiro(a)	4	Itaquera
 5102	F	Solteiro(a)	1	Cidade tiradentes
 5103	M	Solteiro(a)	5	Guaianases
@@ -2725,7 +2725,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5116	F	Casado(a)	3	Itaquera
 5118	F	Solteiro(a)	2	Guaianases
 5119	M	Casado(a)	1	Itaquera
-5124	M	Solteiro(a)	3	São Miguel Paulista
+5124	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 5125	F	Solteiro(a)	2	Itaquera
 5126	F	Solteiro(a)	2	Guaianases
 5129	F	Solteiro(a)	2	Cidade tiradentes
@@ -2733,7 +2733,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5133	F	Casado(a)	1	Itaquera
 5134	F	Solteiro(a)	4	Guaianases
 5136	M	Casado(a)	3	Cidade tiradentes
-5140	F	Solteiro(a)	1	São Miguel Paulista
+5140	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 5143	M	Solteiro(a)	1	Itaquera
 5144	M	Solteiro(a)	4	Cidade tiradentes
 5147	F	Solteiro(a)	1	Itaquera
@@ -2750,9 +2750,9 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5167	F	Solteiro(a)	3	Guaianases
 5170	F	Casado(a)	2	Itaquera
 5171	M	Solteiro(a)	3	Cidade tiradentes
-5172	M	Solteiro(a)	2	São Miguel Paulista
+5172	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 5174	M	Casado(a)	4	Guaianases
-5181	M	Solteiro(a)	3	São Miguel Paulista
+5181	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 5182	F	Solteiro(a)	3	Itaquera
 5183	M	Solteiro(a)	3	Itaquera
 5185	F	Casado(a)	5	Guaianases
@@ -2762,7 +2762,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5196	F	Casado(a)	3	Itaquera
 5199	F	Casado(a)	4	Guaianases
 5203	M	Casado(a)	5	Cidade tiradentes
-5204	F	Casado(a)	1	São Miguel Paulista
+5204	F	Casado(a)	1	SÃ£o Miguel Paulista
 5206	M	Solteiro(a)	1	Itaquera
 5207	M	Solteiro(a)	1	Cidade tiradentes
 5208	M	Casado(a)	4	Cidade tiradentes
@@ -2773,7 +2773,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5219	M	Solteiro(a)	4	Itaquera
 5221	F	Casado(a)	1	Cidade tiradentes
 5222	M	Casado(a)	2	Itaquera
-5223	M	Casado(a)	1	São Miguel Paulista
+5223	M	Casado(a)	1	SÃ£o Miguel Paulista
 5226	M	Casado(a)	1	Itaquera
 5230	M	Casado(a)	3	Itaquera
 5231	F	Casado(a)	2	Cidade tiradentes
@@ -2789,23 +2789,23 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5250	F	Casado(a)	3	Cidade tiradentes
 5252	F	Casado(a)	4	Cidade tiradentes
 5256	M	Casado(a)	3	Itaquera
-5258	M	Casado(a)	1	São Miguel Paulista
+5258	M	Casado(a)	1	SÃ£o Miguel Paulista
 5261	F	Casado(a)	1	Cidade tiradentes
 5264	F	Solteiro(a)	1	Itaquera
 5265	M	Solteiro(a)	1	Cidade tiradentes
 5271	M	Solteiro(a)	1	Itaquera
 5276	F	Solteiro(a)	4	Itaquera
-5277	M	Casado(a)	5	São Miguel Paulista
+5277	M	Casado(a)	5	SÃ£o Miguel Paulista
 5279	M	Casado(a)	3	Cidade tiradentes
 5280	F	Solteiro(a)	5	Itaquera
 5281	M	Solteiro(a)	5	Cidade tiradentes
 5282	F	Solteiro(a)	2	Vila Prudente
 5283	F	Solteiro(a)	3	Cidade tiradentes
-5284	F	Casado(a)	3	São Miguel Paulista
+5284	F	Casado(a)	3	SÃ£o Miguel Paulista
 5289	F	Casado(a)	5	Itaquera
 5290	M	Solteiro(a)	1	Cidade tiradentes
 5293	F	Solteiro(a)	2	Cidade tiradentes
-5294	F	Solteiro(a)	4	São Miguel Paulista
+5294	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 5295	M	Solteiro(a)	3	Guaianases
 5297	M	Casado(a)	1	Itaquera
 5298	M	Solteiro(a)	2	Cidade tiradentes
@@ -2817,11 +2817,11 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5311	M	Casado(a)	2	Cidade tiradentes
 5313	F	Casado(a)	3	Guaianases
 5314	M	Solteiro(a)	3	Guaianases
-5315	M	Casado(a)	2	São Miguel Paulista
+5315	M	Casado(a)	2	SÃ£o Miguel Paulista
 5317	M	Solteiro(a)	3	Itaquera
-5318	M	Solteiro(a)	3	São Miguel Paulista
+5318	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 5320	M	Casado(a)	2	Guaianases
-5321	F	Casado(a)	1	São Miguel Paulista
+5321	F	Casado(a)	1	SÃ£o Miguel Paulista
 5324	M	Solteiro(a)	2	Cidade tiradentes
 5329	M	Solteiro(a)	1	Itaquera
 5331	F	Casado(a)	2	Guaianases
@@ -2838,13 +2838,13 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5348	F	Solteiro(a)	3	Guaianases
 5349	F	Casado(a)	1	Itaquera
 5350	M	Solteiro(a)	2	Vila Prudente
-5351	F	Solteiro(a)	5	São Miguel Paulista
-5353	M	Solteiro(a)	3	São Miguel Paulista
+5351	F	Solteiro(a)	5	SÃ£o Miguel Paulista
+5353	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 5355	M	Solteiro(a)	2	Itaquera
 5358	F	Casado(a)	1	Guaianases
 5360	M	Solteiro(a)	2	Guaianases
 5362	F	Solteiro(a)	2	Guaianases
-5363	M	Solteiro(a)	3	São Miguel Paulista
+5363	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 5365	F	Solteiro(a)	2	Guaianases
 5366	F	Solteiro(a)	2	Itaquera
 5368	F	Casado(a)	4	Guaianases
@@ -2863,19 +2863,19 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5400	F	Solteiro(a)	1	Itaquera
 5401	F	Solteiro(a)	4	Cidade tiradentes
 5405	F	Casado(a)	1	Guaianases
-5406	F	Solteiro(a)	4	São Miguel Paulista
+5406	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 5407	M	Casado(a)	4	Guaianases
 5409	F	Solteiro(a)	2	Cidade tiradentes
 5410	F	Casado(a)	2	Itaquera
 5412	M	Solteiro(a)	1	Guaianases
-5418	F	Casado(a)	3	São Miguel Paulista
+5418	F	Casado(a)	3	SÃ£o Miguel Paulista
 5419	F	Solteiro(a)	1	Itaquera
 5423	F	Solteiro(a)	4	Guaianases
-5424	F	Solteiro(a)	4	São Miguel Paulista
+5424	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 5427	F	Solteiro(a)	3	Cidade tiradentes
 5428	M	Casado(a)	2	Itaquera
 5429	F	Casado(a)	3	Guaianases
-5430	M	Solteiro(a)	4	São Miguel Paulista
+5430	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 5431	F	Casado(a)	2	Itaquera
 5432	M	Casado(a)	3	Guaianases
 5433	M	Casado(a)	2	Itaquera
@@ -2923,7 +2923,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5532	M	Casado(a)	1	Cidade tiradentes
 5533	F	Solteiro(a)	1	Itaquera
 5535	M	Casado(a)	3	Guaianases
-5536	F	Solteiro(a)	1	São Miguel Paulista
+5536	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 5537	F	Solteiro(a)	1	Guaianases
 5538	F	Solteiro(a)	2	Cidade tiradentes
 5539	F	Casado(a)	4	Itaquera
@@ -2937,36 +2937,36 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5553	F	Solteiro(a)	3	Cidade tiradentes
 5555	F	Casado(a)	4	Vila Prudente
 5556	M	Solteiro(a)	1	Itaquera
-5557	M	Solteiro(a)	4	São Miguel Paulista
+5557	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 5558	M	Casado(a)	3	Cidade tiradentes
 5559	F	Casado(a)	4	Cidade tiradentes
 5560	M	Casado(a)	1	Itaquera
 5566	M	Solteiro(a)	4	Cidade tiradentes
 5567	M	Solteiro(a)	2	Vila Prudente
-5568	M	Casado(a)	2	São Miguel Paulista
-5571	M	Solteiro(a)	2	São Miguel Paulista
+5568	M	Casado(a)	2	SÃ£o Miguel Paulista
+5571	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 5572	F	Solteiro(a)	5	Guaianases
 5574	M	Casado(a)	3	Guaianases
 5576	M	Solteiro(a)	3	Cidade tiradentes
 5577	F	Casado(a)	1	Cidade tiradentes
-5578	F	Solteiro(a)	5	São Miguel Paulista
+5578	F	Solteiro(a)	5	SÃ£o Miguel Paulista
 5580	M	Casado(a)	3	Itaquera
 5581	F	Solteiro(a)	1	Guaianases
 5584	F	Solteiro(a)	1	Itaquera
 5585	F	Solteiro(a)	1	Itaquera
 5587	F	Solteiro(a)	1	Itaquera
-5588	F	Casado(a)	2	São Miguel Paulista
+5588	F	Casado(a)	2	SÃ£o Miguel Paulista
 5589	M	Solteiro(a)	1	Cidade tiradentes
 5590	M	Casado(a)	5	Itaquera
 5592	F	Solteiro(a)	1	Guaianases
 5593	M	Solteiro(a)	4	Itaquera
-5594	F	Solteiro(a)	1	São Miguel Paulista
+5594	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 5596	F	Solteiro(a)	1	Cidade tiradentes
 5597	F	Solteiro(a)	2	Guaianases
 5598	F	Casado(a)	4	Guaianases
 5602	M	Casado(a)	1	Cidade tiradentes
-5605	M	Casado(a)	4	São Miguel Paulista
-5606	F	Solteiro(a)	1	São Miguel Paulista
+5605	M	Casado(a)	4	SÃ£o Miguel Paulista
+5606	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 5608	F	Solteiro(a)	2	Cidade tiradentes
 5610	M	Solteiro(a)	4	Itaquera
 5611	M	Casado(a)	2	Guaianases
@@ -2974,10 +2974,10 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5614	F	Solteiro(a)	2	Itaquera
 5615	M	Solteiro(a)	1	Itaquera
 5616	F	Solteiro(a)	3	Itaquera
-5617	F	Solteiro(a)	1	São Miguel Paulista
-5618	F	Casado(a)	3	São Miguel Paulista
+5617	F	Solteiro(a)	1	SÃ£o Miguel Paulista
+5618	F	Casado(a)	3	SÃ£o Miguel Paulista
 5623	F	Casado(a)	4	Itaquera
-5624	F	Solteiro(a)	4	São Miguel Paulista
+5624	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 5625	F	Solteiro(a)	4	Guaianases
 5626	F	Casado(a)	4	Cidade tiradentes
 5627	M	Solteiro(a)	1	Cidade tiradentes
@@ -2994,20 +2994,20 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5647	M	Solteiro(a)	3	Itaquera
 5649	M	Casado(a)	3	Vila Prudente
 5650	M	Solteiro(a)	3	Vila Prudente
-5652	F	Solteiro(a)	2	São Miguel Paulista
-5654	F	Solteiro(a)	4	São Miguel Paulista
+5652	F	Solteiro(a)	2	SÃ£o Miguel Paulista
+5654	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 5655	F	Solteiro(a)	2	Itaquera
 5656	F	Solteiro(a)	1	Guaianases
-5657	F	Casado(a)	3	São Miguel Paulista
+5657	F	Casado(a)	3	SÃ£o Miguel Paulista
 5659	F	Casado(a)	1	Cidade tiradentes
 5660	M	Solteiro(a)	5	Cidade tiradentes
 5663	F	Casado(a)	1	Itaquera
 5664	M	Casado(a)	4	Guaianases
 5665	F	Casado(a)	4	Cidade tiradentes
-5666	M	Solteiro(a)	4	São Miguel Paulista
+5666	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 5667	F	Casado(a)	1	Guaianases
 5669	M	Solteiro(a)	5	Vila Prudente
-5672	M	Casado(a)	1	São Miguel Paulista
+5672	M	Casado(a)	1	SÃ£o Miguel Paulista
 5673	M	Casado(a)	1	Guaianases
 5674	F	Solteiro(a)	3	Cidade tiradentes
 5676	M	Casado(a)	1	Cidade tiradentes
@@ -3018,26 +3018,26 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5687	M	Solteiro(a)	4	Cidade tiradentes
 5690	F	Casado(a)	4	Itaquera
 5691	F	Casado(a)	1	Cidade tiradentes
-5693	M	Solteiro(a)	3	São Miguel Paulista
+5693	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 5694	F	Casado(a)	2	Guaianases
 5696	F	Solteiro(a)	1	Itaquera
 5700	M	Casado(a)	3	Guaianases
 5702	F	Casado(a)	3	Guaianases
-5707	F	Casado(a)	5	São Miguel Paulista
+5707	F	Casado(a)	5	SÃ£o Miguel Paulista
 5709	M	Solteiro(a)	3	Vila Prudente
 5711	F	Solteiro(a)	4	Cidade tiradentes
-5712	F	Casado(a)	2	São Miguel Paulista
+5712	F	Casado(a)	2	SÃ£o Miguel Paulista
 5714	M	Casado(a)	2	Itaquera
 5715	M	Solteiro(a)	1	Guaianases
-5716	F	Casado(a)	1	São Miguel Paulista
+5716	F	Casado(a)	1	SÃ£o Miguel Paulista
 5717	F	Solteiro(a)	1	Itaquera
 5718	F	Casado(a)	2	Cidade tiradentes
 5720	M	Solteiro(a)	5	Vila Prudente
-5722	M	Casado(a)	5	São Miguel Paulista
+5722	M	Casado(a)	5	SÃ£o Miguel Paulista
 5723	F	Casado(a)	3	Itaquera
 5724	M	Casado(a)	4	Guaianases
 5726	M	Solteiro(a)	1	Itaquera
-5727	F	Solteiro(a)	2	São Miguel Paulista
+5727	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 5728	M	Casado(a)	1	Vila Prudente
 5731	F	Casado(a)	3	Itaquera
 5733	M	Casado(a)	2	Guaianases
@@ -3067,7 +3067,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5781	M	Casado(a)	2	Guaianases
 5782	M	Solteiro(a)	5	Itaquera
 5786	M	Casado(a)	4	Itaquera
-5787	F	Solteiro(a)	4	São Miguel Paulista
+5787	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 5789	M	Casado(a)	1	Guaianases
 5790	M	Casado(a)	2	Itaquera
 5791	M	Solteiro(a)	3	Guaianases
@@ -3075,7 +3075,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5799	F	Solteiro(a)	4	Itaquera
 5801	M	Solteiro(a)	2	Guaianases
 5802	F	Solteiro(a)	3	Itaquera
-5803	F	Solteiro(a)	3	São Miguel Paulista
+5803	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 5804	M	Solteiro(a)	2	Vila Prudente
 5805	M	Solteiro(a)	1	Guaianases
 5806	M	Solteiro(a)	2	Cidade tiradentes
@@ -3095,28 +3095,28 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5829	M	Casado(a)	5	Vila Prudente
 5830	M	Solteiro(a)	4	Cidade tiradentes
 5831	M	Solteiro(a)	3	Guaianases
-5833	F	Solteiro(a)	2	São Miguel Paulista
+5833	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 5834	F	Solteiro(a)	1	Guaianases
 5835	M	Solteiro(a)	2	Guaianases
-5838	F	Casado(a)	3	São Miguel Paulista
+5838	F	Casado(a)	3	SÃ£o Miguel Paulista
 5839	F	Solteiro(a)	5	Cidade tiradentes
 5840	F	Casado(a)	2	Cidade tiradentes
 5844	M	Solteiro(a)	4	Itaquera
 5847	M	Solteiro(a)	5	Vila Prudente
 5848	F	Solteiro(a)	2	Cidade tiradentes
 5851	F	Casado(a)	1	Cidade tiradentes
-5852	M	Casado(a)	1	São Miguel Paulista
+5852	M	Casado(a)	1	SÃ£o Miguel Paulista
 5855	F	Solteiro(a)	2	Itaquera
 5857	M	Casado(a)	4	Guaianases
 5858	M	Solteiro(a)	1	Guaianases
 5859	M	Casado(a)	1	Itaquera
-5863	M	Casado(a)	3	São Miguel Paulista
+5863	M	Casado(a)	3	SÃ£o Miguel Paulista
 5865	M	Solteiro(a)	1	Itaquera
 5867	M	Solteiro(a)	3	Guaianases
 5868	F	Solteiro(a)	2	Itaquera
 5869	M	Solteiro(a)	1	Itaquera
 5871	F	Casado(a)	2	Itaquera
-5872	F	Casado(a)	4	São Miguel Paulista
+5872	F	Casado(a)	4	SÃ£o Miguel Paulista
 5875	M	Solteiro(a)	2	Guaianases
 5876	M	Solteiro(a)	1	Cidade tiradentes
 5877	M	Solteiro(a)	3	Itaquera
@@ -3124,7 +3124,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5882	F	Solteiro(a)	4	Guaianases
 5887	F	Solteiro(a)	3	Itaquera
 5890	F	Solteiro(a)	3	Guaianases
-5891	M	Casado(a)	3	São Miguel Paulista
+5891	M	Casado(a)	3	SÃ£o Miguel Paulista
 5894	M	Solteiro(a)	4	Guaianases
 5895	M	Solteiro(a)	1	Itaquera
 5896	F	Solteiro(a)	5	Itaquera
@@ -3144,14 +3144,14 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5916	F	Casado(a)	2	Vila Prudente
 5918	F	Casado(a)	1	Cidade tiradentes
 5920	F	Solteiro(a)	3	Itaquera
-5921	F	Casado(a)	3	São Miguel Paulista
-5923	M	Solteiro(a)	1	São Miguel Paulista
+5921	F	Casado(a)	3	SÃ£o Miguel Paulista
+5923	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 5924	M	Casado(a)	5	Itaquera
 5925	M	Casado(a)	3	Itaquera
-5926	F	Solteiro(a)	5	São Miguel Paulista
-5927	M	Casado(a)	2	São Miguel Paulista
+5926	F	Solteiro(a)	5	SÃ£o Miguel Paulista
+5927	M	Casado(a)	2	SÃ£o Miguel Paulista
 5929	F	Casado(a)	4	Itaquera
-5933	M	Casado(a)	1	São Miguel Paulista
+5933	M	Casado(a)	1	SÃ£o Miguel Paulista
 5935	M	Casado(a)	1	Cidade tiradentes
 5938	M	Casado(a)	5	Cidade tiradentes
 5941	M	Solteiro(a)	5	Itaquera
@@ -3176,11 +3176,11 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5971	F	Solteiro(a)	2	Itaquera
 5973	M	Casado(a)	2	Guaianases
 5974	F	Solteiro(a)	4	Cidade tiradentes
-5975	F	Solteiro(a)	3	São Miguel Paulista
-5976	M	Solteiro(a)	5	São Miguel Paulista
+5975	F	Solteiro(a)	3	SÃ£o Miguel Paulista
+5976	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 5977	M	Solteiro(a)	1	Itaquera
 5978	M	Casado(a)	5	Itaquera
-5981	M	Casado(a)	1	São Miguel Paulista
+5981	M	Casado(a)	1	SÃ£o Miguel Paulista
 5982	M	Solteiro(a)	2	Itaquera
 5984	M	Solteiro(a)	1	Itaquera
 5985	M	Solteiro(a)	4	Cidade tiradentes
@@ -3190,7 +3190,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 5991	M	Casado(a)	1	Guaianases
 5992	F	Solteiro(a)	3	Itaquera
 5994	M	Casado(a)	1	Cidade tiradentes
-5999	F	Casado(a)	2	São Miguel Paulista
+5999	F	Casado(a)	2	SÃ£o Miguel Paulista
 6001	F	Casado(a)	2	Itaquera
 6002	F	Casado(a)	3	Itaquera
 6003	F	Solteiro(a)	1	Itaquera
@@ -3207,17 +3207,17 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6021	F	Solteiro(a)	4	Itaquera
 6024	F	Casado(a)	2	Cidade tiradentes
 6025	F	Solteiro(a)	1	Vila Prudente
-6027	M	Casado(a)	1	São Miguel Paulista
+6027	M	Casado(a)	1	SÃ£o Miguel Paulista
 6030	F	Solteiro(a)	2	Cidade tiradentes
 6032	M	Casado(a)	3	Cidade tiradentes
 6033	M	Solteiro(a)	3	Cidade tiradentes
 6034	M	Solteiro(a)	3	Cidade tiradentes
 6038	F	Solteiro(a)	3	Itaquera
-6041	F	Solteiro(a)	2	São Miguel Paulista
+6041	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 6042	M	Casado(a)	4	Cidade tiradentes
 6044	M	Solteiro(a)	5	Guaianases
 6047	M	Solteiro(a)	3	Itaquera
-6048	M	Solteiro(a)	5	São Miguel Paulista
+6048	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 6051	F	Solteiro(a)	3	Guaianases
 6052	F	Casado(a)	4	Cidade tiradentes
 6055	F	Casado(a)	1	Cidade tiradentes
@@ -3231,30 +3231,30 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6072	M	Casado(a)	2	Itaquera
 6074	M	Casado(a)	1	Vila Prudente
 6075	F	Casado(a)	3	Cidade tiradentes
-6076	M	Casado(a)	2	São Miguel Paulista
+6076	M	Casado(a)	2	SÃ£o Miguel Paulista
 6077	F	Casado(a)	4	Guaianases
 6079	F	Casado(a)	3	Itaquera
-6080	M	Casado(a)	3	São Miguel Paulista
-6081	M	Casado(a)	4	São Miguel Paulista
+6080	M	Casado(a)	3	SÃ£o Miguel Paulista
+6081	M	Casado(a)	4	SÃ£o Miguel Paulista
 6082	F	Casado(a)	4	Itaquera
 6083	M	Casado(a)	3	Guaianases
 6084	F	Casado(a)	1	Guaianases
 6086	M	Casado(a)	4	Cidade tiradentes
 6087	M	Casado(a)	4	Itaquera
 6092	F	Casado(a)	1	Guaianases
-6093	M	Casado(a)	3	São Miguel Paulista
-6094	M	Casado(a)	1	São Miguel Paulista
+6093	M	Casado(a)	3	SÃ£o Miguel Paulista
+6094	M	Casado(a)	1	SÃ£o Miguel Paulista
 6095	M	Casado(a)	2	Itaquera
 6096	M	Casado(a)	2	Cidade tiradentes
-6097	M	Casado(a)	2	São Miguel Paulista
+6097	M	Casado(a)	2	SÃ£o Miguel Paulista
 6098	F	Solteiro(a)	1	Guaianases
 6099	M	Solteiro(a)	3	Cidade tiradentes
 6100	M	Casado(a)	4	Guaianases
 6101	F	Solteiro(a)	3	Itaquera
-6105	M	Solteiro(a)	1	São Miguel Paulista
+6105	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 6106	M	Casado(a)	4	Itaquera
 6107	F	Casado(a)	5	Guaianases
-6111	M	Solteiro(a)	4	São Miguel Paulista
+6111	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 6113	F	Solteiro(a)	1	Guaianases
 6114	F	Solteiro(a)	2	Guaianases
 6120	M	Casado(a)	1	Guaianases
@@ -3273,12 +3273,12 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6142	M	Casado(a)	3	Guaianases
 6145	F	Solteiro(a)	5	Itaquera
 6148	F	Casado(a)	2	Guaianases
-6151	F	Casado(a)	1	São Miguel Paulista
-6152	F	Casado(a)	1	São Miguel Paulista
+6151	F	Casado(a)	1	SÃ£o Miguel Paulista
+6152	F	Casado(a)	1	SÃ£o Miguel Paulista
 6153	F	Solteiro(a)	4	Guaianases
 6155	F	Solteiro(a)	3	Itaquera
 6157	F	Solteiro(a)	2	Vila Prudente
-6159	M	Solteiro(a)	1	São Miguel Paulista
+6159	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 6161	F	Solteiro(a)	1	Itaquera
 6162	M	Casado(a)	4	Itaquera
 6163	F	Solteiro(a)	2	Itaquera
@@ -3294,19 +3294,19 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6182	F	Casado(a)	5	Itaquera
 6184	M	Solteiro(a)	2	Cidade tiradentes
 6186	M	Casado(a)	4	Itaquera
-6187	M	Solteiro(a)	3	São Miguel Paulista
+6187	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 6190	F	Casado(a)	2	Guaianases
 6193	M	Casado(a)	5	Cidade tiradentes
 6194	M	Casado(a)	5	Guaianases
 6196	F	Solteiro(a)	4	Guaianases
 6203	F	Solteiro(a)	2	Guaianases
 6204	F	Casado(a)	5	Itaquera
-6205	M	Casado(a)	4	São Miguel Paulista
+6205	M	Casado(a)	4	SÃ£o Miguel Paulista
 6207	M	Casado(a)	1	Itaquera
 6208	F	Casado(a)	1	Itaquera
 6209	M	Casado(a)	3	Cidade tiradentes
 6214	F	Solteiro(a)	4	Guaianases
-6216	M	Casado(a)	3	São Miguel Paulista
+6216	M	Casado(a)	3	SÃ£o Miguel Paulista
 6217	F	Casado(a)	2	Cidade tiradentes
 6218	F	Casado(a)	1	Guaianases
 6219	F	Solteiro(a)	3	Guaianases
@@ -3322,8 +3322,8 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6236	F	Casado(a)	1	Cidade tiradentes
 6237	F	Solteiro(a)	3	Itaquera
 6239	F	Casado(a)	1	Cidade tiradentes
-6240	M	Solteiro(a)	4	São Miguel Paulista
-6245	M	Casado(a)	3	São Miguel Paulista
+6240	M	Solteiro(a)	4	SÃ£o Miguel Paulista
+6245	M	Casado(a)	3	SÃ£o Miguel Paulista
 6248	F	Casado(a)	3	Guaianases
 6251	M	Solteiro(a)	4	Cidade tiradentes
 6253	F	Casado(a)	4	Itaquera
@@ -3333,8 +3333,8 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6260	F	Solteiro(a)	4	Guaianases
 6261	M	Casado(a)	5	Itaquera
 6262	F	Casado(a)	4	Guaianases
-6263	F	Solteiro(a)	1	São Miguel Paulista
-6265	F	Solteiro(a)	2	São Miguel Paulista
+6263	F	Solteiro(a)	1	SÃ£o Miguel Paulista
+6265	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 6266	M	Solteiro(a)	1	Itaquera
 6271	M	Solteiro(a)	1	Cidade tiradentes
 6272	F	Solteiro(a)	1	Cidade tiradentes
@@ -3350,7 +3350,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6299	F	Casado(a)	5	Itaquera
 6301	F	Casado(a)	1	Itaquera
 6304	F	Casado(a)	1	Cidade tiradentes
-6305	F	Solteiro(a)	1	São Miguel Paulista
+6305	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 6306	F	Solteiro(a)	2	Itaquera
 6307	F	Casado(a)	4	Guaianases
 6309	M	Casado(a)	3	Vila Prudente
@@ -3362,13 +3362,13 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6319	M	Solteiro(a)	1	Vila Prudente
 6320	M	Casado(a)	2	Guaianases
 6321	M	Solteiro(a)	5	Vila Prudente
-6324	F	Solteiro(a)	3	São Miguel Paulista
+6324	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 6328	F	Casado(a)	4	Itaquera
-6334	F	Casado(a)	1	São Miguel Paulista
-6339	F	Solteiro(a)	1	São Miguel Paulista
+6334	F	Casado(a)	1	SÃ£o Miguel Paulista
+6339	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 6341	F	Solteiro(a)	2	Guaianases
-6344	F	Solteiro(a)	1	São Miguel Paulista
-6346	M	Solteiro(a)	3	São Miguel Paulista
+6344	F	Solteiro(a)	1	SÃ£o Miguel Paulista
+6346	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 6347	F	Casado(a)	5	Itaquera
 6348	M	Casado(a)	2	Guaianases
 6350	F	Casado(a)	2	Itaquera
@@ -3376,12 +3376,12 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6353	M	Casado(a)	3	Guaianases
 6354	M	Casado(a)	2	Cidade tiradentes
 6355	M	Casado(a)	4	Itaquera
-6358	F	Solteiro(a)	3	São Miguel Paulista
+6358	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 6359	F	Solteiro(a)	2	Itaquera
 6361	F	Casado(a)	2	Cidade tiradentes
 6362	F	Solteiro(a)	4	Vila Prudente
 6367	F	Solteiro(a)	1	Guaianases
-6369	F	Solteiro(a)	2	São Miguel Paulista
+6369	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 6372	M	Casado(a)	1	Itaquera
 6375	M	Solteiro(a)	2	Cidade tiradentes
 6382	F	Casado(a)	1	Cidade tiradentes
@@ -3397,7 +3397,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6406	M	Casado(a)	2	Guaianases
 6408	F	Solteiro(a)	1	Guaianases
 6414	M	Casado(a)	1	Guaianases
-6415	M	Solteiro(a)	2	São Miguel Paulista
+6415	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 6417	M	Solteiro(a)	2	Itaquera
 6421	F	Casado(a)	3	Itaquera
 6423	F	Solteiro(a)	4	Itaquera
@@ -3440,7 +3440,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6504	M	Solteiro(a)	1	Vila Prudente
 6505	M	Solteiro(a)	2	Itaquera
 6507	F	Solteiro(a)	1	Vila Prudente
-6508	M	Casado(a)	1	São Miguel Paulista
+6508	M	Casado(a)	1	SÃ£o Miguel Paulista
 6510	F	Casado(a)	1	Itaquera
 6511	M	Casado(a)	5	Itaquera
 6516	M	Solteiro(a)	2	Itaquera
@@ -3449,7 +3449,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6522	F	Solteiro(a)	2	Itaquera
 6523	M	Solteiro(a)	1	Guaianases
 6524	M	Solteiro(a)	3	Itaquera
-6525	M	Casado(a)	1	São Miguel Paulista
+6525	M	Casado(a)	1	SÃ£o Miguel Paulista
 6527	F	Solteiro(a)	5	Guaianases
 6528	F	Casado(a)	5	Itaquera
 6529	M	Casado(a)	1	Itaquera
@@ -3457,9 +3457,9 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6531	F	Solteiro(a)	1	Itaquera
 6533	F	Solteiro(a)	4	Cidade tiradentes
 6534	F	Casado(a)	2	Guaianases
-6536	F	Solteiro(a)	2	São Miguel Paulista
+6536	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 6537	F	Solteiro(a)	1	Itaquera
-6541	F	Solteiro(a)	1	São Miguel Paulista
+6541	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 6542	M	Casado(a)	4	Itaquera
 6544	F	Solteiro(a)	1	Itaquera
 6547	F	Casado(a)	2	Itaquera
@@ -3470,7 +3470,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6558	F	Solteiro(a)	2	Cidade tiradentes
 6559	M	Solteiro(a)	3	Guaianases
 6560	F	Solteiro(a)	5	Itaquera
-6563	F	Solteiro(a)	4	São Miguel Paulista
+6563	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 6564	F	Casado(a)	3	Itaquera
 6565	F	Solteiro(a)	1	Itaquera
 6566	M	Casado(a)	1	Cidade tiradentes
@@ -3490,11 +3490,11 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6592	F	Solteiro(a)	4	Itaquera
 6593	M	Solteiro(a)	2	Cidade tiradentes
 6595	F	Casado(a)	1	Vila Prudente
-6597	F	Casado(a)	2	São Miguel Paulista
+6597	F	Casado(a)	2	SÃ£o Miguel Paulista
 6598	F	Solteiro(a)	2	Guaianases
 6600	F	Casado(a)	1	Cidade tiradentes
 6603	F	Casado(a)	5	Cidade tiradentes
-6604	F	Solteiro(a)	1	São Miguel Paulista
+6604	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 6607	M	Solteiro(a)	2	Itaquera
 6608	M	Solteiro(a)	2	Cidade tiradentes
 6609	M	Solteiro(a)	2	Itaquera
@@ -3506,7 +3506,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6628	F	Solteiro(a)	2	Cidade tiradentes
 6629	F	Solteiro(a)	4	Vila Prudente
 6630	F	Solteiro(a)	1	Guaianases
-6631	M	Casado(a)	3	São Miguel Paulista
+6631	M	Casado(a)	3	SÃ£o Miguel Paulista
 6632	M	Solteiro(a)	1	Cidade tiradentes
 6634	F	Solteiro(a)	2	Itaquera
 6635	F	Casado(a)	1	Guaianases
@@ -3532,7 +3532,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6681	M	Casado(a)	3	Itaquera
 6683	F	Casado(a)	5	Itaquera
 6684	M	Solteiro(a)	4	Vila Prudente
-6685	M	Casado(a)	1	São Miguel Paulista
+6685	M	Casado(a)	1	SÃ£o Miguel Paulista
 6687	M	Solteiro(a)	3	Itaquera
 6689	M	Solteiro(a)	1	Cidade tiradentes
 6690	F	Casado(a)	2	Itaquera
@@ -3548,12 +3548,12 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6710	F	Casado(a)	1	Itaquera
 6712	M	Casado(a)	3	Guaianases
 6713	M	Casado(a)	2	Itaquera
-6714	F	Solteiro(a)	3	São Miguel Paulista
+6714	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 6715	M	Solteiro(a)	5	Itaquera
 6717	F	Solteiro(a)	1	Cidade tiradentes
 6720	M	Casado(a)	3	Itaquera
 6722	M	Solteiro(a)	1	Cidade tiradentes
-6726	F	Solteiro(a)	3	São Miguel Paulista
+6726	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 6729	M	Casado(a)	1	Itaquera
 6730	M	Casado(a)	2	Itaquera
 6732	F	Casado(a)	1	Cidade tiradentes
@@ -3576,15 +3576,15 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6769	F	Solteiro(a)	2	Cidade tiradentes
 6771	F	Casado(a)	3	Itaquera
 6772	M	Solteiro(a)	2	Guaianases
-6774	M	Casado(a)	3	São Miguel Paulista
+6774	M	Casado(a)	3	SÃ£o Miguel Paulista
 6775	F	Solteiro(a)	4	Itaquera
 6779	M	Solteiro(a)	1	Cidade tiradentes
-6780	M	Casado(a)	3	São Miguel Paulista
+6780	M	Casado(a)	3	SÃ£o Miguel Paulista
 6782	M	Solteiro(a)	5	Cidade tiradentes
 6785	F	Solteiro(a)	1	Cidade tiradentes
 6787	M	Solteiro(a)	3	Cidade tiradentes
 6788	F	Casado(a)	1	Cidade tiradentes
-6791	M	Solteiro(a)	1	São Miguel Paulista
+6791	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 6792	M	Casado(a)	4	Itaquera
 6793	F	Casado(a)	3	Itaquera
 6799	M	Solteiro(a)	2	Itaquera
@@ -3594,15 +3594,15 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6806	M	Solteiro(a)	4	Cidade tiradentes
 6807	F	Casado(a)	4	Itaquera
 6808	F	Casado(a)	3	Itaquera
-6810	M	Casado(a)	2	São Miguel Paulista
-6812	F	Solteiro(a)	3	São Miguel Paulista
+6810	M	Casado(a)	2	SÃ£o Miguel Paulista
+6812	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 6814	M	Casado(a)	1	Vila Prudente
 6816	M	Casado(a)	3	Guaianases
 6818	M	Solteiro(a)	5	Cidade tiradentes
 6821	M	Casado(a)	3	Cidade tiradentes
 6822	F	Solteiro(a)	5	Guaianases
 6824	M	Casado(a)	4	Guaianases
-6825	M	Casado(a)	3	São Miguel Paulista
+6825	M	Casado(a)	3	SÃ£o Miguel Paulista
 6829	M	Solteiro(a)	1	Guaianases
 6832	M	Solteiro(a)	2	Guaianases
 6835	M	Casado(a)	2	Guaianases
@@ -3622,28 +3622,28 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6854	M	Solteiro(a)	3	Itaquera
 6855	M	Casado(a)	3	Cidade tiradentes
 6861	M	Solteiro(a)	5	Guaianases
-6863	M	Solteiro(a)	2	São Miguel Paulista
+6863	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 6864	F	Casado(a)	1	Itaquera
 6865	M	Solteiro(a)	1	Guaianases
 6866	F	Casado(a)	5	Itaquera
 6870	M	Casado(a)	5	Itaquera
-6876	M	Casado(a)	5	São Miguel Paulista
+6876	M	Casado(a)	5	SÃ£o Miguel Paulista
 6877	M	Casado(a)	1	Guaianases
 6880	F	Solteiro(a)	3	Itaquera
 6882	M	Solteiro(a)	1	Cidade tiradentes
 6886	F	Solteiro(a)	5	Cidade tiradentes
-6888	M	Solteiro(a)	4	São Miguel Paulista
+6888	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 6890	F	Casado(a)	1	Vila Prudente
 6892	F	Solteiro(a)	4	Cidade tiradentes
 6893	F	Casado(a)	3	Itaquera
-6895	F	Casado(a)	4	São Miguel Paulista
+6895	F	Casado(a)	4	SÃ£o Miguel Paulista
 6896	M	Casado(a)	1	Cidade tiradentes
 6897	F	Casado(a)	2	Cidade tiradentes
 6902	F	Casado(a)	1	Itaquera
 6904	M	Casado(a)	2	Itaquera
 6905	M	Casado(a)	1	Cidade tiradentes
 6909	M	Solteiro(a)	2	Cidade tiradentes
-6910	F	Solteiro(a)	2	São Miguel Paulista
+6910	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 6912	F	Casado(a)	5	Guaianases
 6914	M	Solteiro(a)	1	Cidade tiradentes
 6915	F	Casado(a)	1	Cidade tiradentes
@@ -3661,15 +3661,15 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6934	F	Solteiro(a)	4	Guaianases
 6936	F	Solteiro(a)	1	Itaquera
 6937	F	Solteiro(a)	4	Guaianases
-6938	F	Solteiro(a)	1	São Miguel Paulista
+6938	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 6940	M	Casado(a)	4	Itaquera
 6941	M	Solteiro(a)	4	Itaquera
-6944	M	Casado(a)	1	São Miguel Paulista
+6944	M	Casado(a)	1	SÃ£o Miguel Paulista
 6945	M	Solteiro(a)	5	Itaquera
 6947	F	Casado(a)	2	Guaianases
 6948	M	Solteiro(a)	4	Guaianases
 6949	M	Casado(a)	3	Itaquera
-6950	F	Solteiro(a)	4	São Miguel Paulista
+6950	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 6951	M	Casado(a)	2	Itaquera
 6956	F	Casado(a)	4	Itaquera
 6957	F	Solteiro(a)	2	Guaianases
@@ -3679,7 +3679,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6962	F	Solteiro(a)	2	Cidade tiradentes
 6964	M	Solteiro(a)	1	Cidade tiradentes
 6966	M	Casado(a)	3	Guaianases
-6968	M	Casado(a)	2	São Miguel Paulista
+6968	M	Casado(a)	2	SÃ£o Miguel Paulista
 6970	M	Casado(a)	2	Cidade tiradentes
 6971	M	Casado(a)	4	Cidade tiradentes
 6972	M	Casado(a)	2	Guaianases
@@ -3687,10 +3687,10 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 6975	M	Solteiro(a)	3	Cidade tiradentes
 6977	M	Casado(a)	1	Guaianases
 6982	M	Casado(a)	1	Itaquera
-6992	M	Solteiro(a)	3	São Miguel Paulista
+6992	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 6995	M	Solteiro(a)	4	Guaianases
 6997	F	Casado(a)	4	Itaquera
-6998	M	Casado(a)	1	São Miguel Paulista
+6998	M	Casado(a)	1	SÃ£o Miguel Paulista
 6999	M	Solteiro(a)	5	Guaianases
 7000	F	Solteiro(a)	3	Cidade tiradentes
 7001	M	Casado(a)	5	Guaianases
@@ -3701,7 +3701,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7012	M	Casado(a)	3	Itaquera
 7013	F	Solteiro(a)	1	Cidade tiradentes
 7014	M	Casado(a)	2	Guaianases
-7015	M	Solteiro(a)	5	São Miguel Paulista
+7015	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 7016	F	Solteiro(a)	1	Guaianases
 7018	M	Solteiro(a)	5	Itaquera
 7031	F	Casado(a)	4	Guaianases
@@ -3711,12 +3711,12 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7039	M	Casado(a)	2	Cidade tiradentes
 7046	F	Solteiro(a)	2	Itaquera
 7051	F	Casado(a)	4	Guaianases
-7052	F	Casado(a)	1	São Miguel Paulista
+7052	F	Casado(a)	1	SÃ£o Miguel Paulista
 7055	M	Casado(a)	3	Guaianases
 7056	F	Casado(a)	1	Guaianases
 7059	M	Solteiro(a)	2	Itaquera
 7060	M	Casado(a)	3	Itaquera
-7061	M	Solteiro(a)	2	São Miguel Paulista
+7061	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 7063	F	Casado(a)	4	Guaianases
 7065	F	Casado(a)	4	Itaquera
 7066	F	Casado(a)	1	Vila Prudente
@@ -3740,17 +3740,17 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7106	F	Casado(a)	1	Guaianases
 7107	M	Casado(a)	4	Cidade tiradentes
 7109	M	Solteiro(a)	3	Guaianases
-7110	M	Solteiro(a)	3	São Miguel Paulista
+7110	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 7112	M	Solteiro(a)	2	Guaianases
 7113	F	Solteiro(a)	1	Cidade tiradentes
 7116	M	Casado(a)	2	Cidade tiradentes
 7117	M	Casado(a)	4	Itaquera
 7120	M	Solteiro(a)	4	Itaquera
-7121	F	Solteiro(a)	4	São Miguel Paulista
+7121	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 7123	F	Solteiro(a)	5	Guaianases
 7124	F	Solteiro(a)	1	Itaquera
 7127	M	Solteiro(a)	5	Itaquera
-7128	F	Casado(a)	2	São Miguel Paulista
+7128	F	Casado(a)	2	SÃ£o Miguel Paulista
 7129	M	Casado(a)	5	Itaquera
 7131	M	Solteiro(a)	2	Guaianases
 7132	F	Casado(a)	1	Itaquera
@@ -3759,7 +3759,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7139	M	Casado(a)	5	Itaquera
 7140	M	Solteiro(a)	1	Guaianases
 7141	M	Casado(a)	3	Itaquera
-7146	F	Casado(a)	2	São Miguel Paulista
+7146	F	Casado(a)	2	SÃ£o Miguel Paulista
 7147	F	Solteiro(a)	1	Vila Prudente
 7148	M	Casado(a)	5	Itaquera
 7149	F	Solteiro(a)	4	Itaquera
@@ -3768,21 +3768,21 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7153	M	Solteiro(a)	3	Guaianases
 7154	F	Casado(a)	5	Guaianases
 7155	F	Casado(a)	5	Cidade tiradentes
-7158	M	Solteiro(a)	4	São Miguel Paulista
+7158	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 7164	M	Casado(a)	2	Cidade tiradentes
 7166	M	Solteiro(a)	1	Cidade tiradentes
-7169	F	Solteiro(a)	4	São Miguel Paulista
-7171	M	Solteiro(a)	3	São Miguel Paulista
+7169	F	Solteiro(a)	4	SÃ£o Miguel Paulista
+7171	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 7173	M	Solteiro(a)	5	Vila Prudente
 7175	M	Solteiro(a)	4	Cidade tiradentes
-7176	M	Casado(a)	4	São Miguel Paulista
+7176	M	Casado(a)	4	SÃ£o Miguel Paulista
 7178	F	Casado(a)	1	Guaianases
 7180	M	Solteiro(a)	4	Guaianases
 7181	F	Casado(a)	1	Itaquera
 7182	F	Solteiro(a)	1	Itaquera
 7185	M	Solteiro(a)	2	Guaianases
 7189	F	Solteiro(a)	4	Itaquera
-7190	M	Solteiro(a)	2	São Miguel Paulista
+7190	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 7193	M	Solteiro(a)	1	Itaquera
 7195	F	Solteiro(a)	1	Cidade tiradentes
 7201	F	Solteiro(a)	1	Itaquera
@@ -3792,23 +3792,23 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7206	F	Solteiro(a)	1	Itaquera
 7207	M	Casado(a)	3	Itaquera
 7209	F	Casado(a)	1	Guaianases
-7213	F	Solteiro(a)	4	São Miguel Paulista
+7213	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 7215	F	Solteiro(a)	3	Guaianases
-7216	F	Casado(a)	4	São Miguel Paulista
+7216	F	Casado(a)	4	SÃ£o Miguel Paulista
 7218	F	Casado(a)	2	Itaquera
 7220	M	Casado(a)	2	Guaianases
 7221	F	Solteiro(a)	2	Cidade tiradentes
 7223	F	Casado(a)	2	Itaquera
 7224	M	Casado(a)	2	Itaquera
 7227	M	Solteiro(a)	4	Cidade tiradentes
-7231	M	Solteiro(a)	3	São Miguel Paulista
+7231	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 7232	M	Casado(a)	3	Guaianases
 7234	F	Casado(a)	4	Guaianases
 7236	F	Solteiro(a)	5	Guaianases
 7237	M	Solteiro(a)	1	Cidade tiradentes
-7238	M	Solteiro(a)	5	São Miguel Paulista
+7238	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 7239	M	Solteiro(a)	4	Guaianases
-7240	M	Solteiro(a)	4	São Miguel Paulista
+7240	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 7241	M	Casado(a)	4	Itaquera
 7242	M	Casado(a)	3	Guaianases
 7243	F	Solteiro(a)	3	Itaquera
@@ -3828,8 +3828,8 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7269	F	Casado(a)	5	Itaquera
 7274	F	Solteiro(a)	4	Itaquera
 7275	F	Casado(a)	1	Itaquera
-7276	M	Solteiro(a)	1	São Miguel Paulista
-7279	F	Casado(a)	3	São Miguel Paulista
+7276	M	Solteiro(a)	1	SÃ£o Miguel Paulista
+7279	F	Casado(a)	3	SÃ£o Miguel Paulista
 7281	F	Casado(a)	2	Itaquera
 7282	F	Solteiro(a)	3	Itaquera
 7283	F	Casado(a)	3	Itaquera
@@ -3841,7 +3841,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7298	F	Casado(a)	3	Guaianases
 7300	F	Casado(a)	4	Itaquera
 7301	M	Casado(a)	5	Guaianases
-7304	M	Casado(a)	2	São Miguel Paulista
+7304	M	Casado(a)	2	SÃ£o Miguel Paulista
 7305	F	Solteiro(a)	2	Guaianases
 7306	F	Solteiro(a)	4	Itaquera
 7307	M	Casado(a)	1	Cidade tiradentes
@@ -3850,15 +3850,15 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7312	F	Solteiro(a)	1	Guaianases
 7315	F	Solteiro(a)	1	Cidade tiradentes
 7319	M	Casado(a)	4	Itaquera
-7321	M	Casado(a)	4	São Miguel Paulista
+7321	M	Casado(a)	4	SÃ£o Miguel Paulista
 7322	F	Solteiro(a)	2	Cidade tiradentes
 7323	M	Solteiro(a)	2	Guaianases
 7324	F	Solteiro(a)	3	Cidade tiradentes
-7328	F	Solteiro(a)	1	São Miguel Paulista
+7328	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 7331	F	Casado(a)	4	Guaianases
 7332	F	Solteiro(a)	3	Cidade tiradentes
 7336	M	Solteiro(a)	1	Vila Prudente
-7337	M	Solteiro(a)	2	São Miguel Paulista
+7337	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 7338	F	Casado(a)	3	Guaianases
 7341	M	Solteiro(a)	5	Guaianases
 7342	M	Casado(a)	1	Cidade tiradentes
@@ -3876,9 +3876,9 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7365	F	Solteiro(a)	2	Itaquera
 7366	F	Casado(a)	2	Guaianases
 7368	F	Solteiro(a)	1	Guaianases
-7370	M	Solteiro(a)	3	São Miguel Paulista
+7370	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 7373	M	Casado(a)	3	Itaquera
-7376	M	Solteiro(a)	2	São Miguel Paulista
+7376	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 7377	M	Casado(a)	2	Guaianases
 7379	M	Solteiro(a)	1	Cidade tiradentes
 7382	F	Casado(a)	3	Vila Prudente
@@ -3888,7 +3888,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7392	M	Solteiro(a)	1	Cidade tiradentes
 7393	F	Solteiro(a)	1	Guaianases
 7401	M	Casado(a)	2	Guaianases
-7403	F	Solteiro(a)	1	São Miguel Paulista
+7403	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 7406	F	Casado(a)	1	Guaianases
 7407	M	Casado(a)	5	Cidade tiradentes
 7408	M	Casado(a)	2	Cidade tiradentes
@@ -3899,7 +3899,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7416	F	Solteiro(a)	4	Itaquera
 7418	F	Solteiro(a)	4	Cidade tiradentes
 7420	F	Solteiro(a)	3	Vila Prudente
-7424	F	Solteiro(a)	5	São Miguel Paulista
+7424	F	Solteiro(a)	5	SÃ£o Miguel Paulista
 7425	M	Solteiro(a)	1	Cidade tiradentes
 7432	F	Casado(a)	2	Itaquera
 7433	M	Solteiro(a)	1	Guaianases
@@ -3915,7 +3915,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7448	M	Casado(a)	3	Cidade tiradentes
 7449	M	Casado(a)	2	Guaianases
 7450	M	Solteiro(a)	4	Vila Prudente
-7451	F	Solteiro(a)	4	São Miguel Paulista
+7451	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 7452	M	Solteiro(a)	4	Cidade tiradentes
 7453	M	Casado(a)	4	Guaianases
 7454	M	Casado(a)	2	Cidade tiradentes
@@ -3939,7 +3939,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7480	F	Solteiro(a)	3	Vila Prudente
 7481	M	Solteiro(a)	3	Itaquera
 7484	M	Solteiro(a)	3	Guaianases
-7485	M	Casado(a)	2	São Miguel Paulista
+7485	M	Casado(a)	2	SÃ£o Miguel Paulista
 7486	M	Casado(a)	1	Guaianases
 7487	F	Solteiro(a)	4	Cidade tiradentes
 7489	M	Casado(a)	3	Guaianases
@@ -3971,14 +3971,14 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7547	M	Solteiro(a)	5	Guaianases
 7548	M	Casado(a)	2	Itaquera
 7550	M	Casado(a)	4	Cidade tiradentes
-7552	M	Casado(a)	3	São Miguel Paulista
+7552	M	Casado(a)	3	SÃ£o Miguel Paulista
 7555	M	Casado(a)	2	Guaianases
 7556	F	Solteiro(a)	5	Itaquera
 7558	M	Solteiro(a)	4	Itaquera
 7559	M	Casado(a)	1	Cidade tiradentes
 7560	M	Solteiro(a)	4	Itaquera
 7562	M	Solteiro(a)	1	Itaquera
-7563	F	Solteiro(a)	3	São Miguel Paulista
+7563	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 7565	F	Casado(a)	1	Itaquera
 7566	M	Casado(a)	4	Cidade tiradentes
 7567	M	Casado(a)	2	Guaianases
@@ -3991,15 +3991,15 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7584	F	Casado(a)	2	Cidade tiradentes
 7586	M	Casado(a)	4	Vila Prudente
 7587	M	Solteiro(a)	1	Cidade tiradentes
-7588	M	Solteiro(a)	1	São Miguel Paulista
+7588	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 7589	F	Solteiro(a)	5	Itaquera
 7590	M	Casado(a)	1	Guaianases
 7591	F	Casado(a)	4	Itaquera
-7593	F	Solteiro(a)	3	São Miguel Paulista
+7593	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 7594	M	Solteiro(a)	4	Guaianases
 7595	M	Casado(a)	2	Guaianases
 7596	M	Solteiro(a)	2	Guaianases
-7598	M	Solteiro(a)	2	São Miguel Paulista
+7598	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 7599	F	Solteiro(a)	1	Cidade tiradentes
 7601	F	Casado(a)	3	Guaianases
 7602	F	Solteiro(a)	4	Cidade tiradentes
@@ -4011,7 +4011,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7611	F	Casado(a)	2	Itaquera
 7612	F	Solteiro(a)	1	Cidade tiradentes
 7613	M	Casado(a)	4	Vila Prudente
-7614	M	Casado(a)	3	São Miguel Paulista
+7614	M	Casado(a)	3	SÃ£o Miguel Paulista
 7615	M	Solteiro(a)	1	Cidade tiradentes
 7617	F	Casado(a)	3	Guaianases
 7618	M	Casado(a)	3	Guaianases
@@ -4021,12 +4021,12 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7622	F	Solteiro(a)	1	Guaianases
 7624	F	Solteiro(a)	1	Guaianases
 7626	M	Casado(a)	3	Cidade tiradentes
-7627	F	Casado(a)	4	São Miguel Paulista
+7627	F	Casado(a)	4	SÃ£o Miguel Paulista
 7628	M	Solteiro(a)	3	Cidade tiradentes
 7630	F	Casado(a)	3	Cidade tiradentes
 7632	M	Casado(a)	4	Itaquera
 7633	F	Solteiro(a)	4	Guaianases
-7634	M	Solteiro(a)	3	São Miguel Paulista
+7634	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 7636	F	Casado(a)	1	Itaquera
 7638	F	Casado(a)	2	Itaquera
 7639	M	Casado(a)	2	Itaquera
@@ -4039,7 +4039,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7655	M	Casado(a)	3	Itaquera
 7656	M	Casado(a)	5	Vila Prudente
 7657	M	Solteiro(a)	1	Guaianases
-7658	F	Casado(a)	2	São Miguel Paulista
+7658	F	Casado(a)	2	SÃ£o Miguel Paulista
 7659	F	Solteiro(a)	1	Cidade tiradentes
 7660	F	Solteiro(a)	4	Cidade tiradentes
 7662	M	Casado(a)	5	Guaianases
@@ -4049,8 +4049,8 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7670	F	Solteiro(a)	2	Itaquera
 7672	F	Casado(a)	3	Itaquera
 7674	F	Casado(a)	3	Cidade tiradentes
-7675	M	Solteiro(a)	5	São Miguel Paulista
-7678	F	Solteiro(a)	1	São Miguel Paulista
+7675	M	Solteiro(a)	5	SÃ£o Miguel Paulista
+7678	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 7683	F	Casado(a)	1	Vila Prudente
 7684	M	Casado(a)	3	Cidade tiradentes
 7685	F	Solteiro(a)	2	Cidade tiradentes
@@ -4058,9 +4058,9 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7693	M	Casado(a)	4	Cidade tiradentes
 7694	F	Solteiro(a)	2	Itaquera
 7695	F	Solteiro(a)	4	Cidade tiradentes
-7696	M	Solteiro(a)	2	São Miguel Paulista
+7696	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 7698	F	Casado(a)	1	Vila Prudente
-7700	M	Casado(a)	1	São Miguel Paulista
+7700	M	Casado(a)	1	SÃ£o Miguel Paulista
 7701	F	Casado(a)	4	Itaquera
 7702	M	Solteiro(a)	2	Guaianases
 7703	M	Solteiro(a)	5	Cidade tiradentes
@@ -4080,21 +4080,21 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7725	M	Casado(a)	1	Vila Prudente
 7726	F	Solteiro(a)	1	Cidade tiradentes
 7727	M	Solteiro(a)	1	Guaianases
-7728	M	Casado(a)	1	São Miguel Paulista
+7728	M	Casado(a)	1	SÃ£o Miguel Paulista
 7729	M	Solteiro(a)	4	Guaianases
 7731	F	Casado(a)	5	Cidade tiradentes
 7733	M	Solteiro(a)	5	Itaquera
-7734	F	Solteiro(a)	1	São Miguel Paulista
+7734	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 7743	F	Solteiro(a)	1	Guaianases
-7745	M	Casado(a)	2	São Miguel Paulista
-7746	M	Casado(a)	1	São Miguel Paulista
+7745	M	Casado(a)	2	SÃ£o Miguel Paulista
+7746	M	Casado(a)	1	SÃ£o Miguel Paulista
 7747	F	Casado(a)	5	Cidade tiradentes
 7750	F	Casado(a)	2	Itaquera
-7751	F	Casado(a)	2	São Miguel Paulista
+7751	F	Casado(a)	2	SÃ£o Miguel Paulista
 7752	F	Solteiro(a)	2	Itaquera
 7753	M	Casado(a)	5	Cidade tiradentes
 7757	M	Casado(a)	2	Cidade tiradentes
-7758	F	Casado(a)	2	São Miguel Paulista
+7758	F	Casado(a)	2	SÃ£o Miguel Paulista
 7764	F	Casado(a)	1	Cidade tiradentes
 7767	M	Solteiro(a)	1	Guaianases
 7768	F	Casado(a)	3	Itaquera
@@ -4107,13 +4107,13 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7781	M	Solteiro(a)	2	Itaquera
 7782	F	Solteiro(a)	3	Guaianases
 7786	M	Solteiro(a)	1	Vila Prudente
-7787	M	Solteiro(a)	3	São Miguel Paulista
-7788	F	Solteiro(a)	3	São Miguel Paulista
+7787	M	Solteiro(a)	3	SÃ£o Miguel Paulista
+7788	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 7789	F	Solteiro(a)	1	Itaquera
 7791	M	Solteiro(a)	5	Itaquera
 7792	M	Solteiro(a)	1	Itaquera
 7793	M	Casado(a)	4	Guaianases
-7794	M	Casado(a)	5	São Miguel Paulista
+7794	M	Casado(a)	5	SÃ£o Miguel Paulista
 7797	M	Solteiro(a)	5	Itaquera
 7800	F	Casado(a)	4	Guaianases
 7801	M	Casado(a)	3	Itaquera
@@ -4149,7 +4149,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7856	F	Casado(a)	4	Cidade tiradentes
 7857	F	Solteiro(a)	3	Itaquera
 7859	F	Solteiro(a)	4	Itaquera
-7860	M	Casado(a)	2	São Miguel Paulista
+7860	M	Casado(a)	2	SÃ£o Miguel Paulista
 7861	M	Casado(a)	4	Itaquera
 7862	M	Casado(a)	4	Guaianases
 7863	F	Casado(a)	5	Cidade tiradentes
@@ -4159,17 +4159,17 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7870	F	Solteiro(a)	1	Itaquera
 7872	F	Solteiro(a)	4	Cidade tiradentes
 7873	M	Solteiro(a)	1	Guaianases
-7874	F	Casado(a)	1	São Miguel Paulista
+7874	F	Casado(a)	1	SÃ£o Miguel Paulista
 7880	F	Solteiro(a)	5	Cidade tiradentes
 7881	M	Casado(a)	3	Guaianases
 7882	M	Casado(a)	2	Itaquera
 7884	F	Casado(a)	1	Guaianases
 7886	M	Solteiro(a)	1	Cidade tiradentes
 7887	M	Solteiro(a)	2	Guaianases
-7888	F	Solteiro(a)	2	São Miguel Paulista
+7888	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 7890	F	Casado(a)	1	Guaianases
 7893	M	Casado(a)	2	Guaianases
-7896	F	Casado(a)	2	São Miguel Paulista
+7896	F	Casado(a)	2	SÃ£o Miguel Paulista
 7897	M	Solteiro(a)	5	Itaquera
 7902	M	Casado(a)	1	Guaianases
 7904	M	Solteiro(a)	4	Itaquera
@@ -4180,12 +4180,12 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7913	M	Solteiro(a)	1	Itaquera
 7914	F	Casado(a)	2	Guaianases
 7915	F	Casado(a)	1	Itaquera
-7917	F	Solteiro(a)	4	São Miguel Paulista
+7917	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 7920	M	Solteiro(a)	3	Itaquera
 7921	F	Solteiro(a)	1	Vila Prudente
 7924	M	Casado(a)	1	Itaquera
 7927	M	Casado(a)	3	Itaquera
-7929	M	Casado(a)	4	São Miguel Paulista
+7929	M	Casado(a)	4	SÃ£o Miguel Paulista
 7930	F	Casado(a)	5	Guaianases
 7934	M	Solteiro(a)	3	Cidade tiradentes
 7936	M	Casado(a)	1	Cidade tiradentes
@@ -4194,13 +4194,13 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7940	F	Casado(a)	1	Itaquera
 7942	M	Solteiro(a)	5	Guaianases
 7945	F	Solteiro(a)	2	Cidade tiradentes
-7946	F	Casado(a)	1	São Miguel Paulista
+7946	F	Casado(a)	1	SÃ£o Miguel Paulista
 7950	F	Solteiro(a)	4	Vila Prudente
 7951	F	Solteiro(a)	1	Itaquera
 7952	M	Casado(a)	4	Itaquera
 7954	M	Solteiro(a)	2	Cidade tiradentes
 7956	F	Solteiro(a)	2	Vila Prudente
-7958	M	Casado(a)	1	São Miguel Paulista
+7958	M	Casado(a)	1	SÃ£o Miguel Paulista
 7960	F	Casado(a)	2	Cidade tiradentes
 7961	F	Casado(a)	1	Vila Prudente
 7963	M	Solteiro(a)	3	Guaianases
@@ -4208,11 +4208,11 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7965	F	Casado(a)	3	Itaquera
 7967	F	Solteiro(a)	4	Itaquera
 7968	F	Casado(a)	2	Itaquera
-7969	F	Solteiro(a)	2	São Miguel Paulista
+7969	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 7970	F	Solteiro(a)	2	Cidade tiradentes
 7971	M	Casado(a)	4	Guaianases
 7972	F	Casado(a)	1	Cidade tiradentes
-7976	M	Casado(a)	1	São Miguel Paulista
+7976	M	Casado(a)	1	SÃ£o Miguel Paulista
 7977	F	Casado(a)	1	Guaianases
 7978	M	Casado(a)	4	Guaianases
 7980	M	Casado(a)	1	Guaianases
@@ -4222,7 +4222,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 7989	F	Casado(a)	2	Itaquera
 7990	M	Solteiro(a)	4	Cidade tiradentes
 7993	F	Solteiro(a)	5	Cidade tiradentes
-7994	M	Casado(a)	1	São Miguel Paulista
+7994	M	Casado(a)	1	SÃ£o Miguel Paulista
 7996	F	Solteiro(a)	1	Itaquera
 7997	F	Solteiro(a)	5	Itaquera
 8000	M	Casado(a)	2	Itaquera
@@ -4238,11 +4238,11 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8022	F	Casado(a)	4	Itaquera
 8029	M	Solteiro(a)	1	Cidade tiradentes
 8034	M	Solteiro(a)	4	Guaianases
-8039	M	Casado(a)	2	São Miguel Paulista
+8039	M	Casado(a)	2	SÃ£o Miguel Paulista
 8040	F	Solteiro(a)	4	Guaianases
 8041	F	Casado(a)	5	Guaianases
 8042	M	Solteiro(a)	1	Cidade tiradentes
-8044	F	Casado(a)	3	São Miguel Paulista
+8044	F	Casado(a)	3	SÃ£o Miguel Paulista
 8046	M	Casado(a)	3	Itaquera
 8048	F	Casado(a)	4	Itaquera
 8054	F	Casado(a)	1	Itaquera
@@ -4254,11 +4254,11 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8062	F	Casado(a)	1	Guaianases
 8063	F	Solteiro(a)	5	Guaianases
 8068	F	Solteiro(a)	4	Guaianases
-8069	M	Solteiro(a)	5	São Miguel Paulista
+8069	M	Solteiro(a)	5	SÃ£o Miguel Paulista
 8070	M	Solteiro(a)	3	Cidade tiradentes
 8072	M	Solteiro(a)	2	Itaquera
 8074	F	Casado(a)	4	Itaquera
-8077	F	Solteiro(a)	4	São Miguel Paulista
+8077	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 8079	F	Solteiro(a)	5	Vila Prudente
 8080	M	Solteiro(a)	3	Guaianases
 8083	F	Casado(a)	1	Guaianases
@@ -4266,11 +4266,11 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8089	F	Solteiro(a)	2	Itaquera
 8091	F	Solteiro(a)	4	Itaquera
 8094	F	Solteiro(a)	2	Itaquera
-8097	F	Casado(a)	1	São Miguel Paulista
+8097	F	Casado(a)	1	SÃ£o Miguel Paulista
 8098	F	Solteiro(a)	3	Itaquera
 8101	M	Solteiro(a)	2	Cidade tiradentes
 8105	F	Casado(a)	4	Cidade tiradentes
-8106	M	Solteiro(a)	4	São Miguel Paulista
+8106	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 8107	M	Casado(a)	3	Itaquera
 8108	F	Casado(a)	2	Itaquera
 8110	M	Solteiro(a)	3	Itaquera
@@ -4280,9 +4280,9 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8115	M	Casado(a)	5	Cidade tiradentes
 8116	F	Solteiro(a)	2	Itaquera
 8117	M	Solteiro(a)	5	Guaianases
-8118	M	Solteiro(a)	4	São Miguel Paulista
+8118	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 8119	F	Casado(a)	1	Cidade tiradentes
-8121	F	Solteiro(a)	2	São Miguel Paulista
+8121	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 8123	F	Solteiro(a)	3	Guaianases
 8124	M	Solteiro(a)	2	Itaquera
 8125	F	Solteiro(a)	4	Itaquera
@@ -4307,15 +4307,15 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8163	F	Casado(a)	3	Cidade tiradentes
 8164	F	Solteiro(a)	4	Itaquera
 8165	F	Casado(a)	1	Itaquera
-8166	M	Solteiro(a)	2	São Miguel Paulista
+8166	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 8169	F	Casado(a)	3	Guaianases
 8171	F	Solteiro(a)	1	Guaianases
 8172	M	Casado(a)	1	Itaquera
 8173	F	Solteiro(a)	4	Itaquera
 8175	M	Casado(a)	5	Itaquera
-8176	M	Solteiro(a)	1	São Miguel Paulista
+8176	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 8179	F	Solteiro(a)	3	Guaianases
-8180	M	Solteiro(a)	1	São Miguel Paulista
+8180	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 8181	F	Casado(a)	3	Itaquera
 8182	M	Casado(a)	2	Cidade tiradentes
 8183	M	Casado(a)	4	Vila Prudente
@@ -4325,15 +4325,15 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8188	F	Casado(a)	3	Guaianases
 8189	M	Solteiro(a)	2	Itaquera
 8190	F	Casado(a)	2	Itaquera
-8191	M	Casado(a)	5	São Miguel Paulista
+8191	M	Casado(a)	5	SÃ£o Miguel Paulista
 8195	F	Solteiro(a)	1	Itaquera
 8196	F	Casado(a)	1	Guaianases
 8198	F	Casado(a)	4	Guaianases
 8199	M	Casado(a)	3	Itaquera
 8202	F	Solteiro(a)	1	Guaianases
-8203	M	Solteiro(a)	1	São Miguel Paulista
+8203	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 8204	M	Solteiro(a)	3	Cidade tiradentes
-8206	M	Solteiro(a)	4	São Miguel Paulista
+8206	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 8207	F	Casado(a)	1	Itaquera
 8211	F	Solteiro(a)	1	Guaianases
 8212	F	Solteiro(a)	2	Cidade tiradentes
@@ -4343,18 +4343,18 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8220	F	Solteiro(a)	2	Guaianases
 8224	F	Casado(a)	3	Cidade tiradentes
 8226	M	Solteiro(a)	4	Itaquera
-8228	F	Solteiro(a)	1	São Miguel Paulista
+8228	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 8229	M	Solteiro(a)	1	Itaquera
 8230	M	Solteiro(a)	1	Guaianases
-8231	F	Casado(a)	4	São Miguel Paulista
+8231	F	Casado(a)	4	SÃ£o Miguel Paulista
 8235	F	Solteiro(a)	1	Vila Prudente
 8236	M	Casado(a)	1	Cidade tiradentes
-8237	F	Solteiro(a)	4	São Miguel Paulista
+8237	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 8239	M	Solteiro(a)	1	Cidade tiradentes
 8240	M	Solteiro(a)	1	Itaquera
 8241	F	Casado(a)	4	Itaquera
 8242	M	Casado(a)	4	Itaquera
-8245	M	Solteiro(a)	1	São Miguel Paulista
+8245	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 8247	M	Solteiro(a)	3	Cidade tiradentes
 8248	M	Solteiro(a)	3	Cidade tiradentes
 8252	M	Solteiro(a)	3	Itaquera
@@ -4379,13 +4379,13 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8283	M	Casado(a)	1	Itaquera
 8284	F	Solteiro(a)	1	Vila Prudente
 8285	F	Solteiro(a)	2	Cidade tiradentes
-8287	M	Casado(a)	5	São Miguel Paulista
+8287	M	Casado(a)	5	SÃ£o Miguel Paulista
 8288	F	Solteiro(a)	3	Itaquera
 8289	M	Solteiro(a)	4	Itaquera
 8290	M	Solteiro(a)	1	Itaquera
 8291	F	Casado(a)	2	Itaquera
 8293	F	Casado(a)	4	Cidade tiradentes
-8294	F	Solteiro(a)	1	São Miguel Paulista
+8294	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 8296	M	Casado(a)	5	Itaquera
 8298	M	Solteiro(a)	2	Itaquera
 8301	F	Casado(a)	4	Guaianases
@@ -4393,10 +4393,10 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8304	F	Casado(a)	5	Itaquera
 8308	F	Solteiro(a)	1	Itaquera
 8310	F	Casado(a)	1	Itaquera
-8311	M	Solteiro(a)	2	São Miguel Paulista
+8311	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 8312	F	Casado(a)	3	Itaquera
 8314	M	Solteiro(a)	2	Itaquera
-8315	M	Solteiro(a)	1	São Miguel Paulista
+8315	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 8317	M	Casado(a)	1	Cidade tiradentes
 8318	F	Casado(a)	1	Guaianases
 8321	M	Solteiro(a)	1	Guaianases
@@ -4406,12 +4406,12 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8325	M	Casado(a)	3	Itaquera
 8326	F	Casado(a)	1	Cidade tiradentes
 8329	M	Solteiro(a)	5	Itaquera
-8333	M	Solteiro(a)	2	São Miguel Paulista
+8333	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 8336	M	Casado(a)	4	Itaquera
 8337	F	Casado(a)	4	Cidade tiradentes
 8338	M	Solteiro(a)	2	Cidade tiradentes
 8340	F	Casado(a)	1	Itaquera
-8341	F	Solteiro(a)	4	São Miguel Paulista
+8341	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 8342	F	Casado(a)	2	Guaianases
 8344	F	Casado(a)	1	Vila Prudente
 8345	F	Solteiro(a)	3	Cidade tiradentes
@@ -4424,7 +4424,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8359	F	Solteiro(a)	5	Itaquera
 8362	F	Solteiro(a)	1	Vila Prudente
 8363	F	Casado(a)	5	Guaianases
-8364	F	Casado(a)	4	São Miguel Paulista
+8364	F	Casado(a)	4	SÃ£o Miguel Paulista
 8367	M	Casado(a)	4	Itaquera
 8370	F	Casado(a)	2	Guaianases
 8371	M	Casado(a)	3	Cidade tiradentes
@@ -4434,15 +4434,15 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8376	F	Casado(a)	5	Cidade tiradentes
 8380	M	Solteiro(a)	2	Cidade tiradentes
 8381	F	Solteiro(a)	5	Cidade tiradentes
-8388	F	Casado(a)	5	São Miguel Paulista
+8388	F	Casado(a)	5	SÃ£o Miguel Paulista
 8390	M	Casado(a)	4	Guaianases
-8391	M	Solteiro(a)	3	São Miguel Paulista
+8391	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 8394	F	Casado(a)	1	Itaquera
-8397	F	Solteiro(a)	3	São Miguel Paulista
+8397	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 8400	F	Casado(a)	2	Cidade tiradentes
 8403	M	Casado(a)	3	Guaianases
 8404	M	Casado(a)	3	Guaianases
-8405	F	Solteiro(a)	3	São Miguel Paulista
+8405	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 8406	M	Solteiro(a)	1	Itaquera
 8407	M	Solteiro(a)	1	Itaquera
 8410	M	Solteiro(a)	3	Itaquera
@@ -4457,7 +4457,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8428	M	Solteiro(a)	2	Cidade tiradentes
 8429	M	Solteiro(a)	1	Cidade tiradentes
 8430	F	Casado(a)	2	Cidade tiradentes
-8434	F	Solteiro(a)	3	São Miguel Paulista
+8434	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 8435	F	Casado(a)	3	Itaquera
 8438	M	Solteiro(a)	3	Cidade tiradentes
 8439	F	Casado(a)	4	Itaquera
@@ -4469,7 +4469,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8454	F	Solteiro(a)	3	Itaquera
 8457	M	Casado(a)	1	Cidade tiradentes
 8462	F	Solteiro(a)	3	Cidade tiradentes
-8463	M	Casado(a)	1	São Miguel Paulista
+8463	M	Casado(a)	1	SÃ£o Miguel Paulista
 8466	M	Casado(a)	3	Itaquera
 8467	F	Casado(a)	2	Itaquera
 8469	M	Solteiro(a)	2	Cidade tiradentes
@@ -4477,7 +4477,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8471	F	Casado(a)	2	Guaianases
 8472	F	Solteiro(a)	1	Itaquera
 8473	F	Solteiro(a)	4	Itaquera
-8474	F	Casado(a)	1	São Miguel Paulista
+8474	F	Casado(a)	1	SÃ£o Miguel Paulista
 8477	M	Solteiro(a)	5	Guaianases
 8478	M	Casado(a)	2	Itaquera
 8480	M	Solteiro(a)	1	Vila Prudente
@@ -4487,10 +4487,10 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8487	F	Solteiro(a)	5	Itaquera
 8488	M	Solteiro(a)	1	Cidade tiradentes
 8490	M	Solteiro(a)	3	Guaianases
-8491	M	Casado(a)	2	São Miguel Paulista
+8491	M	Casado(a)	2	SÃ£o Miguel Paulista
 8492	M	Solteiro(a)	1	Vila Prudente
-8497	F	Casado(a)	2	São Miguel Paulista
-8498	F	Solteiro(a)	2	São Miguel Paulista
+8497	F	Casado(a)	2	SÃ£o Miguel Paulista
+8498	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 8499	M	Solteiro(a)	2	Guaianases
 8500	M	Solteiro(a)	1	Itaquera
 8503	M	Casado(a)	4	Itaquera
@@ -4505,13 +4505,13 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8529	M	Casado(a)	4	Guaianases
 8530	F	Solteiro(a)	1	Cidade tiradentes
 8533	F	Solteiro(a)	1	Cidade tiradentes
-8534	F	Solteiro(a)	2	São Miguel Paulista
+8534	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 8536	M	Solteiro(a)	1	Guaianases
 8541	F	Casado(a)	1	Itaquera
 8542	F	Solteiro(a)	3	Guaianases
-8544	F	Solteiro(a)	3	São Miguel Paulista
+8544	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 8546	M	Casado(a)	4	Itaquera
-8548	M	Solteiro(a)	2	São Miguel Paulista
+8548	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 8550	M	Solteiro(a)	1	Guaianases
 8551	F	Casado(a)	4	Itaquera
 8554	F	Solteiro(a)	4	Guaianases
@@ -4523,7 +4523,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8561	M	Solteiro(a)	1	Itaquera
 8562	M	Solteiro(a)	1	Itaquera
 8563	M	Solteiro(a)	2	Itaquera
-8564	F	Casado(a)	1	São Miguel Paulista
+8564	F	Casado(a)	1	SÃ£o Miguel Paulista
 8568	F	Solteiro(a)	4	Cidade tiradentes
 8569	M	Casado(a)	3	Cidade tiradentes
 8570	M	Solteiro(a)	2	Guaianases
@@ -4531,20 +4531,20 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8573	M	Casado(a)	1	Cidade tiradentes
 8574	F	Casado(a)	1	Itaquera
 8576	F	Solteiro(a)	2	Guaianases
-8577	F	Casado(a)	4	São Miguel Paulista
-8578	F	Casado(a)	3	São Miguel Paulista
-8585	F	Casado(a)	1	São Miguel Paulista
+8577	F	Casado(a)	4	SÃ£o Miguel Paulista
+8578	F	Casado(a)	3	SÃ£o Miguel Paulista
+8585	F	Casado(a)	1	SÃ£o Miguel Paulista
 8587	F	Solteiro(a)	4	Vila Prudente
 8592	F	Casado(a)	2	Cidade tiradentes
 8593	M	Casado(a)	2	Cidade tiradentes
 8594	F	Casado(a)	1	Cidade tiradentes
-8596	F	Solteiro(a)	1	São Miguel Paulista
+8596	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 8597	M	Casado(a)	5	Itaquera
 8599	F	Solteiro(a)	2	Itaquera
 8601	F	Solteiro(a)	2	Itaquera
 8602	F	Solteiro(a)	4	Guaianases
 8606	F	Casado(a)	2	Itaquera
-8607	M	Solteiro(a)	3	São Miguel Paulista
+8607	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 8615	M	Casado(a)	2	Cidade tiradentes
 8617	F	Casado(a)	1	Itaquera
 8618	M	Casado(a)	1	Guaianases
@@ -4565,7 +4565,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8644	M	Casado(a)	2	Itaquera
 8645	F	Casado(a)	1	Itaquera
 8647	F	Solteiro(a)	1	Guaianases
-8649	M	Casado(a)	4	São Miguel Paulista
+8649	M	Casado(a)	4	SÃ£o Miguel Paulista
 8652	F	Casado(a)	1	Cidade tiradentes
 8653	M	Solteiro(a)	3	Guaianases
 8657	M	Solteiro(a)	2	Itaquera
@@ -4575,23 +4575,23 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8665	M	Solteiro(a)	1	Itaquera
 8667	M	Casado(a)	3	Itaquera
 8668	F	Casado(a)	3	Itaquera
-8669	M	Casado(a)	4	São Miguel Paulista
+8669	M	Casado(a)	4	SÃ£o Miguel Paulista
 8670	M	Casado(a)	1	Cidade tiradentes
 8682	F	Casado(a)	2	Itaquera
-8683	F	Solteiro(a)	3	São Miguel Paulista
+8683	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 8684	F	Solteiro(a)	2	Cidade tiradentes
-8685	M	Casado(a)	1	São Miguel Paulista
-8687	F	Solteiro(a)	2	São Miguel Paulista
+8685	M	Casado(a)	1	SÃ£o Miguel Paulista
+8687	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 8688	F	Casado(a)	4	Cidade tiradentes
 8689	F	Solteiro(a)	1	Vila Prudente
-8691	M	Solteiro(a)	3	São Miguel Paulista
+8691	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 8692	M	Solteiro(a)	2	Itaquera
 8697	F	Solteiro(a)	5	Guaianases
 8698	F	Solteiro(a)	5	Cidade tiradentes
 8699	F	Casado(a)	2	Cidade tiradentes
 8700	F	Solteiro(a)	5	Cidade tiradentes
 8701	M	Casado(a)	3	Itaquera
-8704	F	Solteiro(a)	3	São Miguel Paulista
+8704	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 8708	F	Casado(a)	1	Cidade tiradentes
 8709	M	Casado(a)	1	Itaquera
 8710	M	Casado(a)	5	Cidade tiradentes
@@ -4609,25 +4609,25 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8739	M	Casado(a)	1	Itaquera
 8742	M	Solteiro(a)	1	Guaianases
 8745	M	Casado(a)	1	Itaquera
-8746	F	Solteiro(a)	3	São Miguel Paulista
+8746	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 8747	F	Solteiro(a)	1	Itaquera
 8749	M	Solteiro(a)	2	Itaquera
 8751	F	Casado(a)	3	Cidade tiradentes
-8752	F	Solteiro(a)	3	São Miguel Paulista
+8752	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 8753	M	Solteiro(a)	1	Cidade tiradentes
 8754	F	Solteiro(a)	2	Cidade tiradentes
-8756	M	Casado(a)	1	São Miguel Paulista
+8756	M	Casado(a)	1	SÃ£o Miguel Paulista
 8757	F	Casado(a)	2	Cidade tiradentes
 8758	M	Casado(a)	3	Itaquera
 8760	F	Solteiro(a)	4	Guaianases
-8761	M	Solteiro(a)	4	São Miguel Paulista
+8761	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 8765	M	Solteiro(a)	2	Itaquera
 8766	F	Casado(a)	2	Itaquera
-8767	F	Solteiro(a)	1	São Miguel Paulista
+8767	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 8768	F	Solteiro(a)	1	Guaianases
-8769	M	Casado(a)	3	São Miguel Paulista
+8769	M	Casado(a)	3	SÃ£o Miguel Paulista
 8770	M	Solteiro(a)	2	Vila Prudente
-8773	F	Casado(a)	3	São Miguel Paulista
+8773	F	Casado(a)	3	SÃ£o Miguel Paulista
 8775	F	Casado(a)	2	Cidade tiradentes
 8777	M	Casado(a)	1	Itaquera
 8778	F	Solteiro(a)	4	Itaquera
@@ -4647,7 +4647,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8816	F	Casado(a)	4	Itaquera
 8817	F	Solteiro(a)	2	Cidade tiradentes
 8818	M	Solteiro(a)	2	Itaquera
-8821	F	Casado(a)	2	São Miguel Paulista
+8821	F	Casado(a)	2	SÃ£o Miguel Paulista
 8823	M	Solteiro(a)	2	Cidade tiradentes
 8824	F	Solteiro(a)	3	Itaquera
 8825	M	Solteiro(a)	3	Cidade tiradentes
@@ -4660,7 +4660,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8841	M	Casado(a)	1	Itaquera
 8843	M	Solteiro(a)	1	Itaquera
 8844	F	Solteiro(a)	1	Itaquera
-8846	M	Solteiro(a)	1	São Miguel Paulista
+8846	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 8849	M	Solteiro(a)	2	Guaianases
 8850	F	Casado(a)	1	Guaianases
 8851	M	Casado(a)	3	Itaquera
@@ -4672,11 +4672,11 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8860	M	Casado(a)	4	Itaquera
 8862	M	Solteiro(a)	1	Guaianases
 8864	M	Casado(a)	4	Itaquera
-8865	M	Solteiro(a)	4	São Miguel Paulista
+8865	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 8867	F	Casado(a)	3	Cidade tiradentes
 8870	M	Solteiro(a)	1	Cidade tiradentes
 8872	F	Solteiro(a)	2	Guaianases
-8873	F	Solteiro(a)	3	São Miguel Paulista
+8873	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 8875	M	Solteiro(a)	2	Cidade tiradentes
 8877	M	Solteiro(a)	2	Cidade tiradentes
 8878	M	Casado(a)	3	Vila Prudente
@@ -4711,12 +4711,12 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8935	M	Casado(a)	3	Itaquera
 8937	M	Casado(a)	1	Itaquera
 8942	M	Casado(a)	2	Cidade tiradentes
-8943	F	Solteiro(a)	2	São Miguel Paulista
+8943	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 8944	F	Solteiro(a)	3	Vila Prudente
-8945	F	Solteiro(a)	1	São Miguel Paulista
-8946	M	Solteiro(a)	2	São Miguel Paulista
+8945	F	Solteiro(a)	1	SÃ£o Miguel Paulista
+8946	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 8947	M	Solteiro(a)	2	Guaianases
-8952	M	Solteiro(a)	3	São Miguel Paulista
+8952	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 8953	M	Solteiro(a)	3	Guaianases
 8954	F	Solteiro(a)	3	Itaquera
 8960	M	Casado(a)	2	Guaianases
@@ -4726,7 +4726,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8968	M	Solteiro(a)	3	Guaianases
 8969	F	Solteiro(a)	2	Itaquera
 8970	F	Solteiro(a)	1	Vila Prudente
-8973	F	Solteiro(a)	1	São Miguel Paulista
+8973	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 8975	F	Casado(a)	5	Itaquera
 8976	F	Casado(a)	1	Itaquera
 8984	F	Casado(a)	2	Cidade tiradentes
@@ -4735,15 +4735,15 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 8992	F	Solteiro(a)	3	Itaquera
 8993	F	Casado(a)	3	Guaianases
 8994	M	Casado(a)	5	Itaquera
-8995	F	Casado(a)	1	São Miguel Paulista
+8995	F	Casado(a)	1	SÃ£o Miguel Paulista
 8998	F	Casado(a)	1	Itaquera
-9004	M	Solteiro(a)	1	São Miguel Paulista
+9004	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 9005	M	Casado(a)	1	Guaianases
 9006	F	Casado(a)	1	Itaquera
 9010	M	Casado(a)	5	Cidade tiradentes
 9013	M	Casado(a)	5	Guaianases
 9014	F	Solteiro(a)	1	Itaquera
-9016	M	Casado(a)	2	São Miguel Paulista
+9016	M	Casado(a)	2	SÃ£o Miguel Paulista
 9017	F	Casado(a)	2	Itaquera
 9018	M	Casado(a)	2	Vila Prudente
 9019	M	Casado(a)	4	Cidade tiradentes
@@ -4756,15 +4756,15 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9030	M	Solteiro(a)	1	Itaquera
 9032	F	Solteiro(a)	1	Itaquera
 9033	F	Casado(a)	3	Cidade tiradentes
-9037	F	Casado(a)	1	São Miguel Paulista
+9037	F	Casado(a)	1	SÃ£o Miguel Paulista
 9038	M	Solteiro(a)	1	Cidade tiradentes
 9039	M	Casado(a)	1	Itaquera
 9040	F	Solteiro(a)	5	Guaianases
-9042	M	Casado(a)	4	São Miguel Paulista
+9042	M	Casado(a)	4	SÃ£o Miguel Paulista
 9044	M	Casado(a)	3	Itaquera
 9047	F	Solteiro(a)	3	Itaquera
 9048	F	Solteiro(a)	3	Vila Prudente
-9049	M	Solteiro(a)	1	São Miguel Paulista
+9049	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 9050	M	Solteiro(a)	4	Guaianases
 9055	F	Casado(a)	1	Cidade tiradentes
 9057	M	Casado(a)	2	Guaianases
@@ -4772,7 +4772,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9059	M	Casado(a)	1	Cidade tiradentes
 9061	M	Solteiro(a)	2	Itaquera
 9062	F	Solteiro(a)	4	Guaianases
-9063	M	Casado(a)	1	São Miguel Paulista
+9063	M	Casado(a)	1	SÃ£o Miguel Paulista
 9064	F	Casado(a)	3	Itaquera
 9065	F	Casado(a)	4	Itaquera
 9067	F	Solteiro(a)	1	Cidade tiradentes
@@ -4809,15 +4809,15 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9125	M	Solteiro(a)	3	Itaquera
 9129	F	Solteiro(a)	1	Itaquera
 9130	M	Casado(a)	4	Guaianases
-9134	M	Casado(a)	5	São Miguel Paulista
+9134	M	Casado(a)	5	SÃ£o Miguel Paulista
 9139	F	Solteiro(a)	5	Vila Prudente
 9141	M	Casado(a)	4	Cidade tiradentes
 9142	M	Solteiro(a)	4	Cidade tiradentes
 9143	F	Casado(a)	5	Cidade tiradentes
 9144	M	Solteiro(a)	1	Itaquera
 9145	F	Casado(a)	1	Itaquera
-9149	M	Solteiro(a)	1	São Miguel Paulista
-9150	F	Casado(a)	1	São Miguel Paulista
+9149	M	Solteiro(a)	1	SÃ£o Miguel Paulista
+9150	F	Casado(a)	1	SÃ£o Miguel Paulista
 9157	F	Casado(a)	1	Cidade tiradentes
 9159	F	Casado(a)	1	Itaquera
 9160	F	Solteiro(a)	1	Cidade tiradentes
@@ -4825,10 +4825,10 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9163	F	Casado(a)	5	Itaquera
 9166	M	Casado(a)	1	Cidade tiradentes
 9167	F	Solteiro(a)	5	Guaianases
-9169	F	Casado(a)	5	São Miguel Paulista
+9169	F	Casado(a)	5	SÃ£o Miguel Paulista
 9171	F	Casado(a)	1	Itaquera
 9175	F	Solteiro(a)	2	Guaianases
-9176	M	Solteiro(a)	4	São Miguel Paulista
+9176	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 9178	M	Solteiro(a)	4	Vila Prudente
 9179	F	Casado(a)	4	Cidade tiradentes
 9180	M	Solteiro(a)	4	Cidade tiradentes
@@ -4837,9 +4837,9 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9187	M	Casado(a)	4	Itaquera
 9189	M	Solteiro(a)	2	Cidade tiradentes
 9190	M	Casado(a)	3	Itaquera
-9191	M	Solteiro(a)	1	São Miguel Paulista
+9191	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 9195	M	Casado(a)	3	Guaianases
-9197	M	Casado(a)	1	São Miguel Paulista
+9197	M	Casado(a)	1	SÃ£o Miguel Paulista
 9198	M	Casado(a)	2	Cidade tiradentes
 9199	F	Solteiro(a)	2	Vila Prudente
 9200	F	Solteiro(a)	4	Guaianases
@@ -4862,7 +4862,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9235	M	Casado(a)	4	Cidade tiradentes
 9236	M	Solteiro(a)	1	Itaquera
 9237	F	Solteiro(a)	4	Guaianases
-9238	M	Solteiro(a)	2	São Miguel Paulista
+9238	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 9239	M	Casado(a)	1	Itaquera
 9241	M	Solteiro(a)	1	Cidade tiradentes
 9242	M	Casado(a)	4	Itaquera
@@ -4892,12 +4892,12 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9285	M	Casado(a)	1	Itaquera
 9286	M	Solteiro(a)	5	Itaquera
 9288	M	Casado(a)	4	Guaianases
-9291	M	Solteiro(a)	3	São Miguel Paulista
-9292	M	Casado(a)	5	São Miguel Paulista
+9291	M	Solteiro(a)	3	SÃ£o Miguel Paulista
+9292	M	Casado(a)	5	SÃ£o Miguel Paulista
 9294	M	Solteiro(a)	1	Cidade tiradentes
 9297	F	Casado(a)	1	Itaquera
 9300	M	Solteiro(a)	3	Itaquera
-9301	F	Casado(a)	5	São Miguel Paulista
+9301	F	Casado(a)	5	SÃ£o Miguel Paulista
 9302	M	Casado(a)	1	Vila Prudente
 9304	M	Solteiro(a)	4	Cidade tiradentes
 9306	M	Casado(a)	4	Guaianases
@@ -4923,15 +4923,15 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9335	M	Casado(a)	2	Guaianases
 9337	M	Solteiro(a)	4	Itaquera
 9340	F	Solteiro(a)	4	Guaianases
-9342	F	Casado(a)	1	São Miguel Paulista
+9342	F	Casado(a)	1	SÃ£o Miguel Paulista
 9343	F	Casado(a)	5	Guaianases
 9345	M	Solteiro(a)	2	Itaquera
-9349	F	Solteiro(a)	4	São Miguel Paulista
+9349	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 9350	M	Solteiro(a)	3	Cidade tiradentes
 9351	F	Solteiro(a)	4	Vila Prudente
 9352	M	Solteiro(a)	2	Cidade tiradentes
 9353	F	Solteiro(a)	2	Itaquera
-9354	F	Casado(a)	4	São Miguel Paulista
+9354	F	Casado(a)	4	SÃ£o Miguel Paulista
 9355	M	Solteiro(a)	1	Itaquera
 9357	F	Casado(a)	1	Cidade tiradentes
 9359	F	Casado(a)	1	Cidade tiradentes
@@ -4941,7 +4941,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9368	F	Casado(a)	3	Itaquera
 9370	F	Solteiro(a)	2	Guaianases
 9373	M	Solteiro(a)	3	Itaquera
-9374	M	Casado(a)	5	São Miguel Paulista
+9374	M	Casado(a)	5	SÃ£o Miguel Paulista
 9376	M	Solteiro(a)	3	Vila Prudente
 9378	M	Solteiro(a)	4	Vila Prudente
 9379	M	Solteiro(a)	1	Itaquera
@@ -4956,14 +4956,14 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9395	F	Solteiro(a)	5	Cidade tiradentes
 9396	F	Solteiro(a)	2	Itaquera
 9397	M	Casado(a)	5	Guaianases
-9398	M	Casado(a)	4	São Miguel Paulista
+9398	M	Casado(a)	4	SÃ£o Miguel Paulista
 9401	M	Solteiro(a)	4	Itaquera
 9402	F	Casado(a)	3	Cidade tiradentes
 9403	M	Casado(a)	1	Itaquera
 9404	F	Solteiro(a)	4	Itaquera
 9405	M	Solteiro(a)	2	Itaquera
 9412	M	Solteiro(a)	3	Itaquera
-9413	F	Casado(a)	2	São Miguel Paulista
+9413	F	Casado(a)	2	SÃ£o Miguel Paulista
 9414	F	Casado(a)	2	Cidade tiradentes
 9415	F	Casado(a)	1	Itaquera
 9416	F	Casado(a)	1	Cidade tiradentes
@@ -4972,9 +4972,9 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9420	F	Casado(a)	1	Itaquera
 9421	M	Solteiro(a)	3	Vila Prudente
 9422	F	Casado(a)	4	Cidade tiradentes
-9425	F	Casado(a)	5	São Miguel Paulista
+9425	F	Casado(a)	5	SÃ£o Miguel Paulista
 9426	M	Solteiro(a)	3	Cidade tiradentes
-9432	F	Solteiro(a)	1	São Miguel Paulista
+9432	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 9433	F	Solteiro(a)	4	Guaianases
 9435	F	Solteiro(a)	1	Cidade tiradentes
 9437	F	Casado(a)	1	Itaquera
@@ -4989,12 +4989,12 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9450	F	Solteiro(a)	2	Cidade tiradentes
 9451	F	Casado(a)	1	Itaquera
 9455	M	Casado(a)	5	Itaquera
-9456	M	Solteiro(a)	1	São Miguel Paulista
+9456	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 9457	M	Casado(a)	3	Vila Prudente
 9459	F	Solteiro(a)	4	Guaianases
 9460	M	Casado(a)	1	Cidade tiradentes
 9461	M	Solteiro(a)	4	Itaquera
-9462	M	Casado(a)	3	São Miguel Paulista
+9462	M	Casado(a)	3	SÃ£o Miguel Paulista
 9464	F	Solteiro(a)	5	Cidade tiradentes
 9467	M	Solteiro(a)	4	Guaianases
 9469	F	Solteiro(a)	1	Itaquera
@@ -5012,7 +5012,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9492	M	Casado(a)	5	Cidade tiradentes
 9494	M	Casado(a)	2	Itaquera
 9495	M	Solteiro(a)	1	Itaquera
-9498	M	Solteiro(a)	4	São Miguel Paulista
+9498	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 9499	M	Casado(a)	4	Cidade tiradentes
 9500	M	Casado(a)	3	Itaquera
 9501	M	Solteiro(a)	4	Itaquera
@@ -5021,14 +5021,14 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9507	M	Solteiro(a)	1	Itaquera
 9509	M	Casado(a)	4	Itaquera
 9510	F	Solteiro(a)	5	Guaianases
-9512	F	Casado(a)	4	São Miguel Paulista
+9512	F	Casado(a)	4	SÃ£o Miguel Paulista
 9513	F	Casado(a)	4	Itaquera
 9514	F	Solteiro(a)	1	Vila Prudente
 9516	F	Solteiro(a)	4	Itaquera
 9517	F	Casado(a)	3	Vila Prudente
 9522	M	Casado(a)	4	Cidade tiradentes
 9524	F	Casado(a)	3	Guaianases
-9525	M	Solteiro(a)	4	São Miguel Paulista
+9525	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 9527	F	Solteiro(a)	1	Itaquera
 9528	M	Casado(a)	1	Itaquera
 9533	F	Casado(a)	5	Guaianases
@@ -5046,24 +5046,24 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9555	F	Casado(a)	1	Itaquera
 9556	F	Solteiro(a)	2	Itaquera
 9558	F	Casado(a)	3	Cidade tiradentes
-9559	F	Casado(a)	2	São Miguel Paulista
+9559	F	Casado(a)	2	SÃ£o Miguel Paulista
 9561	F	Solteiro(a)	2	Cidade tiradentes
 9564	M	Solteiro(a)	5	Itaquera
 9567	M	Casado(a)	3	Itaquera
 9569	M	Solteiro(a)	5	Itaquera
 9571	M	Solteiro(a)	1	Guaianases
-9573	M	Casado(a)	3	São Miguel Paulista
-9574	F	Casado(a)	4	São Miguel Paulista
+9573	M	Casado(a)	3	SÃ£o Miguel Paulista
+9574	F	Casado(a)	4	SÃ£o Miguel Paulista
 9578	M	Casado(a)	2	Itaquera
 9581	F	Solteiro(a)	4	Guaianases
 9583	F	Solteiro(a)	3	Itaquera
 9584	F	Solteiro(a)	4	Itaquera
-9585	F	Solteiro(a)	3	São Miguel Paulista
-9586	F	Solteiro(a)	3	São Miguel Paulista
+9585	F	Solteiro(a)	3	SÃ£o Miguel Paulista
+9586	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 9588	M	Casado(a)	2	Itaquera
-9592	M	Solteiro(a)	2	São Miguel Paulista
+9592	M	Solteiro(a)	2	SÃ£o Miguel Paulista
 9593	F	Solteiro(a)	1	Guaianases
-9595	M	Casado(a)	4	São Miguel Paulista
+9595	M	Casado(a)	4	SÃ£o Miguel Paulista
 9596	M	Casado(a)	1	Cidade tiradentes
 9598	M	Solteiro(a)	3	Cidade tiradentes
 9599	F	Solteiro(a)	4	Guaianases
@@ -5071,13 +5071,13 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9602	M	Casado(a)	1	Guaianases
 9603	M	Solteiro(a)	4	Cidade tiradentes
 9604	M	Casado(a)	1	Guaianases
-9606	F	Solteiro(a)	1	São Miguel Paulista
+9606	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 9607	M	Casado(a)	1	Itaquera
 9610	M	Solteiro(a)	2	Cidade tiradentes
 9611	F	Solteiro(a)	5	Itaquera
 9612	F	Casado(a)	1	Itaquera
 9619	M	Casado(a)	3	Guaianases
-9620	M	Solteiro(a)	4	São Miguel Paulista
+9620	M	Solteiro(a)	4	SÃ£o Miguel Paulista
 9621	M	Casado(a)	5	Cidade tiradentes
 9622	F	Solteiro(a)	3	Cidade tiradentes
 9623	F	Solteiro(a)	2	Itaquera
@@ -5086,7 +5086,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9630	F	Casado(a)	4	Cidade tiradentes
 9631	M	Casado(a)	5	Guaianases
 9633	F	Casado(a)	1	Itaquera
-9634	M	Casado(a)	3	São Miguel Paulista
+9634	M	Casado(a)	3	SÃ£o Miguel Paulista
 9638	F	Casado(a)	3	Guaianases
 9639	M	Casado(a)	1	Itaquera
 9640	F	Casado(a)	2	Itaquera
@@ -5100,36 +5100,36 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9658	F	Casado(a)	4	Itaquera
 9660	F	Solteiro(a)	1	Cidade tiradentes
 9662	M	Solteiro(a)	3	Cidade tiradentes
-9665	M	Solteiro(a)	5	São Miguel Paulista
-9667	M	Casado(a)	3	São Miguel Paulista
+9665	M	Solteiro(a)	5	SÃ£o Miguel Paulista
+9667	M	Casado(a)	3	SÃ£o Miguel Paulista
 9668	F	Casado(a)	1	Itaquera
 9671	M	Casado(a)	4	Itaquera
 9673	M	Solteiro(a)	2	Itaquera
 9674	F	Solteiro(a)	1	Itaquera
-9678	F	Solteiro(a)	4	São Miguel Paulista
+9678	F	Solteiro(a)	4	SÃ£o Miguel Paulista
 9679	F	Solteiro(a)	1	Cidade tiradentes
 9680	F	Solteiro(a)	5	Cidade tiradentes
 9682	M	Casado(a)	4	Itaquera
 9684	M	Casado(a)	4	Vila Prudente
-9685	F	Solteiro(a)	3	São Miguel Paulista
+9685	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 9686	M	Solteiro(a)	1	Cidade tiradentes
 9687	M	Solteiro(a)	1	Itaquera
 9691	M	Casado(a)	3	Itaquera
 9692	F	Solteiro(a)	3	Guaianases
 9694	M	Solteiro(a)	1	Itaquera
-9697	F	Casado(a)	2	São Miguel Paulista
+9697	F	Casado(a)	2	SÃ£o Miguel Paulista
 9703	M	Solteiro(a)	1	Guaianases
 9709	M	Casado(a)	2	Cidade tiradentes
 9710	M	Solteiro(a)	3	Cidade tiradentes
 9715	F	Solteiro(a)	4	Itaquera
 9717	M	Casado(a)	4	Cidade tiradentes
 9719	F	Solteiro(a)	5	Guaianases
-9725	M	Casado(a)	3	São Miguel Paulista
+9725	M	Casado(a)	3	SÃ£o Miguel Paulista
 9726	M	Casado(a)	3	Cidade tiradentes
 9728	M	Casado(a)	1	Guaianases
 9734	F	Casado(a)	4	Itaquera
 9736	M	Solteiro(a)	3	Itaquera
-9743	F	Casado(a)	4	São Miguel Paulista
+9743	F	Casado(a)	4	SÃ£o Miguel Paulista
 9744	M	Solteiro(a)	3	Cidade tiradentes
 9745	M	Solteiro(a)	4	Itaquera
 9746	F	Solteiro(a)	2	Itaquera
@@ -5137,24 +5137,24 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9748	F	Solteiro(a)	1	Guaianases
 9752	F	Casado(a)	1	Itaquera
 9753	F	Solteiro(a)	4	Guaianases
-9754	F	Casado(a)	2	São Miguel Paulista
+9754	F	Casado(a)	2	SÃ£o Miguel Paulista
 9758	F	Casado(a)	5	Itaquera
 9759	F	Casado(a)	4	Itaquera
 9760	F	Solteiro(a)	2	Itaquera
 9761	F	Casado(a)	3	Guaianases
-9766	F	Casado(a)	1	São Miguel Paulista
+9766	F	Casado(a)	1	SÃ£o Miguel Paulista
 9767	M	Casado(a)	3	Itaquera
 9770	M	Solteiro(a)	4	Itaquera
 9771	M	Solteiro(a)	3	Cidade tiradentes
 9773	M	Casado(a)	1	Itaquera
 9775	F	Solteiro(a)	2	Cidade tiradentes
 9776	F	Solteiro(a)	2	Itaquera
-9777	M	Casado(a)	1	São Miguel Paulista
-9778	M	Solteiro(a)	1	São Miguel Paulista
+9777	M	Casado(a)	1	SÃ£o Miguel Paulista
+9778	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 9779	M	Solteiro(a)	1	Cidade tiradentes
 9781	F	Solteiro(a)	1	Guaianases
 9782	F	Solteiro(a)	2	Itaquera
-9784	F	Solteiro(a)	3	São Miguel Paulista
+9784	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 9785	M	Solteiro(a)	3	Itaquera
 9786	F	Casado(a)	3	Guaianases
 9787	M	Casado(a)	1	Itaquera
@@ -5171,26 +5171,26 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9807	F	Solteiro(a)	1	Cidade tiradentes
 9808	M	Solteiro(a)	4	Cidade tiradentes
 9810	M	Solteiro(a)	3	Guaianases
-9811	F	Solteiro(a)	1	São Miguel Paulista
+9811	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 9812	F	Casado(a)	2	Itaquera
 9813	F	Casado(a)	4	Itaquera
 9814	M	Solteiro(a)	1	Itaquera
 9815	M	Casado(a)	5	Guaianases
 9816	F	Solteiro(a)	3	Itaquera
 9819	M	Casado(a)	2	Guaianases
-9820	F	Solteiro(a)	3	São Miguel Paulista
+9820	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 9822	M	Casado(a)	4	Cidade tiradentes
 9823	F	Casado(a)	1	Itaquera
 9824	M	Solteiro(a)	4	Cidade tiradentes
 9825	F	Solteiro(a)	2	Itaquera
 9826	M	Solteiro(a)	4	Itaquera
-9829	M	Solteiro(a)	3	São Miguel Paulista
+9829	M	Solteiro(a)	3	SÃ£o Miguel Paulista
 9830	F	Casado(a)	4	Cidade tiradentes
 9831	F	Casado(a)	3	Itaquera
 9833	M	Solteiro(a)	1	Cidade tiradentes
 9835	F	Casado(a)	1	Cidade tiradentes
 9837	M	Casado(a)	5	Itaquera
-9842	F	Casado(a)	4	São Miguel Paulista
+9842	F	Casado(a)	4	SÃ£o Miguel Paulista
 9844	F	Casado(a)	4	Cidade tiradentes
 9846	F	Casado(a)	4	Guaianases
 9848	M	Solteiro(a)	2	Cidade tiradentes
@@ -5199,7 +5199,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9852	M	Solteiro(a)	3	Guaianases
 9854	M	Solteiro(a)	5	Cidade tiradentes
 9855	F	Solteiro(a)	4	Cidade tiradentes
-9859	M	Casado(a)	3	São Miguel Paulista
+9859	M	Casado(a)	3	SÃ£o Miguel Paulista
 9860	F	Solteiro(a)	1	Guaianases
 9863	M	Solteiro(a)	1	Itaquera
 9866	M	Solteiro(a)	1	Guaianases
@@ -5214,15 +5214,15 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9883	M	Solteiro(a)	2	Cidade tiradentes
 9884	F	Solteiro(a)	3	Guaianases
 9885	M	Casado(a)	4	Itaquera
-9887	M	Casado(a)	5	São Miguel Paulista
-9891	M	Casado(a)	1	São Miguel Paulista
+9887	M	Casado(a)	5	SÃ£o Miguel Paulista
+9891	M	Casado(a)	1	SÃ£o Miguel Paulista
 9892	M	Casado(a)	5	Itaquera
-9895	M	Solteiro(a)	3	São Miguel Paulista
-9896	M	Casado(a)	1	São Miguel Paulista
+9895	M	Solteiro(a)	3	SÃ£o Miguel Paulista
+9896	M	Casado(a)	1	SÃ£o Miguel Paulista
 9897	M	Casado(a)	1	Guaianases
 9898	F	Casado(a)	2	Itaquera
 9900	M	Solteiro(a)	5	Itaquera
-9901	F	Casado(a)	4	São Miguel Paulista
+9901	F	Casado(a)	4	SÃ£o Miguel Paulista
 9903	M	Solteiro(a)	4	Cidade tiradentes
 9904	M	Casado(a)	1	Cidade tiradentes
 9906	F	Solteiro(a)	4	Cidade tiradentes
@@ -5239,20 +5239,20 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9933	F	Casado(a)	3	Vila Prudente
 9937	M	Casado(a)	2	Itaquera
 9939	M	Casado(a)	2	Vila Prudente
-9941	M	Solteiro(a)	2	São Miguel Paulista
-9942	M	Casado(a)	1	São Miguel Paulista
+9941	M	Solteiro(a)	2	SÃ£o Miguel Paulista
+9942	M	Casado(a)	1	SÃ£o Miguel Paulista
 9943	M	Solteiro(a)	1	Itaquera
 9944	M	Solteiro(a)	3	Itaquera
 9945	M	Casado(a)	1	Cidade tiradentes
 9949	M	Solteiro(a)	3	Guaianases
 9951	M	Casado(a)	4	Guaianases
-9953	F	Solteiro(a)	1	São Miguel Paulista
-9954	F	Casado(a)	3	São Miguel Paulista
+9953	F	Solteiro(a)	1	SÃ£o Miguel Paulista
+9954	F	Casado(a)	3	SÃ£o Miguel Paulista
 9956	F	Solteiro(a)	4	Itaquera
 9962	M	Solteiro(a)	1	Cidade tiradentes
 9966	M	Casado(a)	4	Cidade tiradentes
-9967	F	Solteiro(a)	3	São Miguel Paulista
-9971	F	Casado(a)	3	São Miguel Paulista
+9967	F	Solteiro(a)	3	SÃ£o Miguel Paulista
+9971	F	Casado(a)	3	SÃ£o Miguel Paulista
 9972	M	Casado(a)	1	Itaquera
 9973	M	Solteiro(a)	3	Itaquera
 9974	M	Casado(a)	3	Itaquera
@@ -5260,10 +5260,10 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9977	F	Solteiro(a)	4	Guaianases
 9978	F	Solteiro(a)	4	Cidade tiradentes
 9979	M	Solteiro(a)	4	Cidade tiradentes
-9984	M	Solteiro(a)	1	São Miguel Paulista
+9984	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 9985	M	Casado(a)	3	Cidade tiradentes
 9987	F	Casado(a)	2	Vila Prudente
-9989	M	Casado(a)	3	São Miguel Paulista
+9989	M	Casado(a)	3	SÃ£o Miguel Paulista
 9990	F	Solteiro(a)	3	Cidade tiradentes
 9992	M	Solteiro(a)	2	Guaianases
 9993	M	Solteiro(a)	1	Cidade tiradentes
@@ -5271,7 +5271,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 9997	F	Casado(a)	2	Itaquera
 9998	M	Solteiro(a)	1	Cidade tiradentes
 9999	M	Solteiro(a)	1	Itaquera
-10000	F	Solteiro(a)	5	São Miguel Paulista
+10000	F	Solteiro(a)	5	SÃ£o Miguel Paulista
 10001	F	Casado(a)	1	Cidade tiradentes
 10002	M	Casado(a)	3	Guaianases
 10003	F	Solteiro(a)	1	Guaianases
@@ -5298,7 +5298,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 10039	M	Casado(a)	4	Guaianases
 10043	F	Casado(a)	2	Vila Prudente
 10047	M	Solteiro(a)	2	Cidade tiradentes
-10048	F	Solteiro(a)	2	São Miguel Paulista
+10048	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 10049	F	Casado(a)	3	Itaquera
 10050	M	Casado(a)	2	Cidade tiradentes
 10054	F	Solteiro(a)	4	Itaquera
@@ -5311,10 +5311,10 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 10064	M	Casado(a)	4	Guaianases
 10065	F	Solteiro(a)	1	Cidade tiradentes
 10067	F	Solteiro(a)	1	Cidade tiradentes
-10068	F	Casado(a)	2	São Miguel Paulista
+10068	F	Casado(a)	2	SÃ£o Miguel Paulista
 10070	F	Casado(a)	2	Itaquera
 10071	M	Solteiro(a)	2	Cidade tiradentes
-10073	F	Solteiro(a)	2	São Miguel Paulista
+10073	F	Solteiro(a)	2	SÃ£o Miguel Paulista
 10075	F	Solteiro(a)	4	Itaquera
 10076	M	Casado(a)	5	Vila Prudente
 10079	F	Solteiro(a)	1	Guaianases
@@ -5323,15 +5323,15 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 10083	F	Solteiro(a)	2	Cidade tiradentes
 10091	M	Casado(a)	2	Itaquera
 10093	M	Casado(a)	2	Vila Prudente
-10095	F	Solteiro(a)	1	São Miguel Paulista
+10095	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 10098	M	Casado(a)	1	Itaquera
 10099	M	Casado(a)	2	Guaianases
 10101	F	Casado(a)	1	Itaquera
 10102	M	Casado(a)	1	Itaquera
 10104	F	Casado(a)	4	Itaquera
 10106	M	Casado(a)	5	Itaquera
-10113	F	Solteiro(a)	4	São Miguel Paulista
-10114	F	Casado(a)	3	São Miguel Paulista
+10113	F	Solteiro(a)	4	SÃ£o Miguel Paulista
+10114	F	Casado(a)	3	SÃ£o Miguel Paulista
 10116	M	Casado(a)	3	Itaquera
 10118	F	Solteiro(a)	1	Itaquera
 10119	F	Casado(a)	2	Cidade tiradentes
@@ -5351,7 +5351,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 10152	M	Solteiro(a)	5	Itaquera
 10153	M	Solteiro(a)	1	Itaquera
 10154	F	Casado(a)	2	Cidade tiradentes
-10160	M	Solteiro(a)	1	São Miguel Paulista
+10160	M	Solteiro(a)	1	SÃ£o Miguel Paulista
 10161	M	Solteiro(a)	1	Cidade tiradentes
 10166	F	Casado(a)	1	Guaianases
 10167	M	Casado(a)	2	Itaquera
@@ -5362,7 +5362,7 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 10176	M	Casado(a)	3	Itaquera
 10177	M	Casado(a)	4	Cidade tiradentes
 10178	M	Casado(a)	2	Cidade tiradentes
-10181	F	Casado(a)	1	São Miguel Paulista
+10181	F	Casado(a)	1	SÃ£o Miguel Paulista
 10186	M	Solteiro(a)	2	Itaquera
 10189	F	Solteiro(a)	2	Cidade tiradentes
 10190	M	Casado(a)	5	Itaquera
@@ -5375,15 +5375,15 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 10213	M	Solteiro(a)	2	Cidade tiradentes
 10214	F	Casado(a)	3	Cidade tiradentes
 10220	F	Casado(a)	4	Cidade tiradentes
-10225	F	Solteiro(a)	2	São Miguel Paulista
-10226	F	Solteiro(a)	3	São Miguel Paulista
+10225	F	Solteiro(a)	2	SÃ£o Miguel Paulista
+10226	F	Solteiro(a)	3	SÃ£o Miguel Paulista
 10229	F	Casado(a)	1	Cidade tiradentes
-10230	F	Solteiro(a)	1	São Miguel Paulista
+10230	F	Solteiro(a)	1	SÃ£o Miguel Paulista
 10231	M	Solteiro(a)	2	Cidade tiradentes
 10233	M	Casado(a)	2	Guaianases
 10240	F	Solteiro(a)	3	Guaianases
-10241	F	Casado(a)	5	São Miguel Paulista
-10242	F	Casado(a)	4	São Miguel Paulista
+10241	F	Casado(a)	5	SÃ£o Miguel Paulista
+10242	F	Casado(a)	4	SÃ£o Miguel Paulista
 10243	M	Casado(a)	4	Itaquera
 10249	F	Solteiro(a)	4	Itaquera
 10250	M	Casado(a)	2	Itaquera
@@ -14058,3 +14058,4 @@ ID Consumidor	Gênero	Estado civil	Pets	Bairro
 				
 				
 				
+
