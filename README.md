@@ -8,7 +8,7 @@
 
 Projeto completo de BI no Power BI simulando cenário real de negócio, com modelagem de dados, criação de métricas DAX e construção de dashboard estratégico para tomada de decisão.
 
-##📊 Sobre o Projeto
+## 📊 Sobre o Projeto
 O Gatito PetShop é um projeto de Business Intelligence desenvolvido com o objetivo de simular o cenário real de um pet shop e realizar uma análise completa de vendas.
 O projeto foi construído do zero, incluindo:
 1. 📁 Estruturação das bases de dados
@@ -17,7 +17,7 @@ O projeto foi construído do zero, incluindo:
 4. 📐 Criação de medidas com DAX
 5. 🎨 Construção e estilização de dashboard
 
-##🎯 Objetivos da Análise
+## 🎯 Objetivos da Análise
 Responder às seguintes perguntas estratégicas:
 1. 💰 Qual o faturamento total do período?
 2. 📦 Quantos produtos foram vendidos?
@@ -25,7 +25,7 @@ Responder às seguintes perguntas estratégicas:
 4. 🏙️ Qual bairro possui mais consumidores?
 5. 📅 Como o faturamento evoluiu ao longo do tempo?
 
-##📦 Conceitos Aplicados
+## 📦 Conceitos Aplicados
 Durante o desenvolvimento do projeto, foram aplicados os seguintes conceitos:
 1. ✔️ ETL (Extração, Transformação e Carga)
 2. ✔️ Tratamento de dados no Power Query
