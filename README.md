@@ -60,7 +60,7 @@ Durante o desenvolvimento do projeto, foram aplicados os seguintes conceitos:
 4. Excel
 5. Canva
 
-##🖼️ Imagens:
+###🖼️ Imagens:
 1. (Dashboard Gatito)
 ![Dashboard Gatito](img/img_gatito_petshop.png)
 2. (Tabela)
